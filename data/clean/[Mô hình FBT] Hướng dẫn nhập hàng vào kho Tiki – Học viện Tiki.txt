@@ -1,0 +1,611 @@
+
+
+Freeship Không Giới Hạn Phí lưu kho và phí rút hàng FBT Hoàn tiền nhanh ASTRA+
+Flash sale
+
+__Tham gia Lớp học cho Nhà Bán
+
+  * Trang chủ
+  * Hướng dẫn bán hàng __
+    * Cơ bản
+    * Nâng cao
+    * Chuyên nghiệp
+    * Dành cho Nhà Bán NGON
+    * Quy định & Chính sách
+  * Bí quyết bán hàng
+  * Giải pháp quảng cáo __
+    * Tiki Ads - Công cụ quảng cáo
+    * Tiki Affiliate - Tiếp thị liên kết
+    * Tiki Engagement - Tương tác khách hàng
+  * Liên hệ
+  * Cross-border Sellers __
+    * Basic
+    * Intermediate
+    * Advanced
+    * Policies
+
+X
+
+## Vận chuyển
+
+## [Mô hình FBT] Hướng dẫn nhập hàng vào kho Tiki
+
+  * ● [Mô hình FBT] Quy định về tiêu chuẩn nhập kho Tiki
+  * ● [Mô hình FBT] Hướng dẫn giao nhận hàng hóa tại kho Tiki
+  * ● [Mô hình FBT] Hướng dẫn nhập hàng vào kho Tiki
+  * ● [Mô hình FBT] Phí lưu kho và phí xử lý rút hàng
+  * ● [Mô hình FBT] Hướng dẫn rút hàng lưu kho Tiki
+  * ● [Mô hình Dropship] Danh sách khu vực lấy hàng của đối tác vận chuyển TED
+
+Để nhập hàng hóa vào kho Tiki, Nhà Bán cần _đăng sản phẩm_ __ và lựa chọn mô
+hình vận hành **_FBT - Hàng lưu kho Tiki_** **.** Sau đó, Nhà Bán thực hiện
+tạo phiếu gửi hàng theo hướng dẫn bên dưới.
+
+____ I. QUY TRÌNH NHẬP KHO TIKI
+
+Bước 1: Nhà Bán tạo phiếu gửi hàng trên Seller Center.
+
+Bước 2: Nhà Bán gửi hàng đến kho Tiki theo đúng thời gian và kho nhận hàng đã
+chọn trong phiếu gửi hàng (BOP).
+
+Bước 3: Tiki xử lý nhập kho và tăng tồn hàng bán trong vòng 24h kể từ khi hàng
+về đến cửa kho Tiki.
+
+**Lưu ý:**
+
+  * Các sản phẩm lưu kho tại Tiki đều phải tuân thủ các quy định Pháp luật.
+
+  * Các quy định tại chính sách này cũng được áp dụng đối với trường hợp hàng hóa giao đến kho Tiki thông qua đối tác giao nhận.
+
+  * Thời gian làm việc của kho là: 8h00-17h00 từ thứ 2 tới thứ 7 hàng tuần. Thời gian nghỉ trưa: từ 12h00 đến 13h00.
+
+  * Thời gian cuối cùng để lấy số thứ tự nhập kho: 16h30 từ thứ 2 tới thứ 7 hàng tuần. Nếu Nhà Bán đến sau 16h30, Tiki sẽ từ chối nhận hàng.
+
+  * Khi giao hàng, Nhà Bán phải cung cấp đầy đủ bộ chứng từ và không được đóng gói chứng từ bên trong kiện hàng. Chứng từ yêu cầu bao gồm 02 bản photo Phiếu nhập hàng (BOP) đã được duyệt.
+
+  * Tất cả mọi đơn hàng FBT khi giao trực tiếp qua kho, bắt buộc phải được nhân viên nhận hàng của Tiki đồng kiểm với Nhà Bán/đại diện Nhà Bán. Tiki chỉ nhập hàng đúng theo số lượng đã đồng kiểm và xác nhận trên phiếu nhập hàng. Đồng thời, Tiki miễn trừ trách nhiệm nếu Nhà Bán mang dư hàng hóa nhưng không chủ động nhận về hoặc mang hàng đến kho nhưng không quản lý hàng hóa trước khi bàn giao cho nhân viên TiKi.
+
+  * Nếu hàng hóa không được nhập kho do lỗi của Nhà Bán dẫn đến ảnh hưởng tới thời gian hoàn thành đơn hàng và/hoặc có khiếu nại, Nhà Bán phải chịu trách nhiệm với mọi chi phí và rủi ro phát sinh.
+
+  * Điều kiện để được nhập thêm hàng hóa vào kho: Số lượng hàng hóa nhập kho không được lớn hơn số lượng hàng hóa bán ra trong 60 ngày gần nhất.
+
+  * Tiki được quyền luân chuyển hàng hóa của Nhà Bán giữa các Kho Tiki mà không cần thông báo trước nhằm đảm bảo xử lý đơn hàng cho khách hàng.
+
+  * Cách tính tồn kho cuối kỳ:
+
+    * **Tồn kho cuối kỳ = Tồn kho đầu kỳ – Tổng số lượng đã giao cho khách hàng + Tổng số lượng nhận lại từ khách hàng – Tổng số lượng đã xuất trả**
+
+  * Trường hợp số tồn kho này chênh lệch với số tồn kho vật lý tại Kho Tiki do mất mát/thất thoát/hư hỏng được xác định không rõ nguyên nhân hay do lỗi của Tiki, sản phẩm xem như được xuất bán cho Tiki và xử lý theo Chính sách xử lý bồi thường (mục 7) thuộc Chính sách hoạt động SGD TMĐT Tiki.vn
+
+  * Nhà Bán cần chủ động theo dõi tồn kho của sản phẩm trên Seller Center. Trường hợp sản phẩm lưu kho Tiki nhưng không còn hoạt động theo mô hình FBT, Nhà Bán có trách nhiệm chuyển đổi về mô hình FBT để kinh doanh đến khi hết tồn, hoặc rút hàng, hoặc Tiki có quyền xuất trả theo quy định tại mục II, Điều 1.2.4 - Xử lý trả hàng thuộc Chính sách mô hình vận hành trên SGD TMĐT Tiki.vn và miễn trừ trách nhiệm nếu hàng hóa trả về không đủ điều kiện bán cho khách hàng.
+
+____ II. QUY ĐỊNH VỀ SỐ LƯỢNG NHẬP KHO
+
+**Số lượng cho phép nhập thêm được tính toán dựa trên:**
+
+  *     * Đối với các Nhà Bán đã có lịch sử tồn, tồn được phép nhập sẽ bằng sức bán 2 tuần gần nhất, tính theo từng kho.
+
+    * Đối với các Nhà Bán chưa có lịch sử tồn, tồn được phép nhập sẽ bằng sức bán trung bình của danh mục 2 tương ứng tại từng kho. _Ví dụ: Sản phẩm là gương trang điểm, thuộc danh mục **“Làm đẹp - Sức khỏe/trang điểm/dụng cụ trang điểm/gương trang điểm”**, thì danh mục 2 của sản phẩm này là “Trang điểm”. Nếu tại kho SGN3, các sản phẩm thuộc danh mục 2 “trang điểm” bán được trung bình 100 sản phẩm/2 tuần thì Nhà Bán sẽ được nhập vào 100 sản phẩm._
+
+  * Khi Nhà Bán tạo phiếu nhập hàng trên hệ thống, số lượng nhập thêm không được vượt quá số lượng tối đa cho phép nhập. 
+
+  * **Cách kiểm tra số lượng cho phép nhập kho trên Seller Center:**
+
+    * Vào **Kho & hàng tồn **> **Phiếu gửi hàng (BOP) >** **Tạo phiếu gửi hàng** > Chọn **Thêm sản phẩm**. Tại bước **Điền số lượng nhập dự kiến** , kiểm tra tại cột **Số lượng nhập kho dự kiến**.
+
+____ III. HƯỚNG DẪN TỰ NHẬP HÀNG VÀO KHO TIKI
+
+**Bước 1:** Nhà Bán chọn **Kho & hàng tồn** >  **Phiếu nhập hàng (BOP)** >
+**Tạo phiếu gửi hàng** hoặc **Sao chép** từ một phiếu gửi hàng có sẵn. Để
+chỉnh sửa phiếu gửi hàng nháp, Nhà Bán tìm phiếu nháp cần chỉnh sửa, chọn
+**Chỉnh sửa.**
+
+**Bước 2:** Chọn sản phẩm muốn nhập kho
+
+**Cách 1. Nhập sản phẩm từ danh sách**
+
+Nhà Bán có thể **lọc và tìm kiếm** sản phẩm hiện có trên gian hàng của mình
+theo các mục: Tên sản phẩm, Danh mục và Thương hiệu.
+
+  * Để **Thêm sản phẩm** : Nhà Bán chọn sản phẩm cần thêm vào danh sách từ bảng bên trái, chọn nút **“+”**.
+
+  * Để **Xóa sản phẩm** : Nhà Bán chọn sản phẩm cần xóa khỏi danh sách từ bảng bên phải, chọn nút **“x”**. 
+
+  * Hoặc Nhà Bán có thể chọn **Chọn toàn trang/Xóa tất cả** tại góc phải của mỗi bảng.
+
+Sau đó bấm **Tiếp tục.**
+
+**Lưu ý:  **
+
+  * Sản phẩm có thể chọn là sản phẩm thuộc mô hình FBT - Hàng lưu kho Tiki và không bao gồm những sản phẩm đã tắt hoặc bị khóa.
+
+  * Sản phẩm được sắp xếp tùy theo nhu cầu nhập hàng, mức độ nhập hàng cao ưu tiên hiển thị trước. 
+
+**Cách 2.   Nhập sản phẩm từ file**
+
+Nhà Bán chọn **Nhập sản phẩm từ file > Tải tập tin mẫu > **Điền thông tin và
+tải lên danh sách sản phẩm file Excel và bấm **Tiếp tục.**
+
+Sau khi file sản phẩm tải lên thành công, Nhà Bán kiểm tra dữ liệu tải lên và
+bấm **Xác nhận.**
+
+**Lưu ý:**
+
+  * Nếu số lượng sản phẩm nhập kho trong file thông tin vượt quá số lượng cho phép, Nhà Bán có thể điều chỉnh lại ở bước tiếp theo.
+
+  * Những sản phẩm sai thông tin sẽ không được thêm vào phiếu gửi hàng.
+
+**Bước 3:** Nhà Bán **chọn kho nhập hàng** tương ứng cho loại sản phẩm đã chọn
+và bấm **Tiếp tục**.
+
+**Lưu ý:**
+
+  * Với những phiếu có sản phẩm cồng kềnh hệ thống chia danh sách kho thành 2 phần: **Sản phẩm thường và Sản phẩm cồng kềnh.**
+
+  * Có thể chọn 1 hoặc nhiều kho nhập hàng. Phiếu gửi hàng sẽ **tự động tách** trong trường hợp kho được chọn nằm ở nhiều khu vực khác nhau.
+
+**Bước 4: Điền số lượng nhập dự kiến**
+
+Tại mỗi sản phẩm, Nhà Bán nhập số lượng sản phẩm tương ứng với từng kho nhập
+hàng và bấm **Tiếp tục**.
+
+**Lưu ý:**
+
+  * **Số lượng nhập kho** của từng sản phẩm đã được đề xuất từ hệ thống tùy theo tốc độ bán hàng. Bạn có thể chỉnh sửa nhưng không được vượt quá số lượng cho phép.
+
+**Bước 5: Chọn thời gian nhập hàng**
+
+Tại bước này, Tiki sẽ cung cấp lịch trình nhập hàng trong 14 ngày tiếp theo để
+Nhà Bán dễ dàng sắp xếp kế hoạch nhập hàng, Nhà Bán thao tác như sau:
+
+Nhà Bán chọn buổi trong ngày còn trống để nhập kho.
+
+Trạng thái nhập kho gồm:
+
+  * **Còn trống:** Nhà Bán có thể nhập khung thời gian này
+
+  * **Cho nhập nhưng chờ lâu:** Khung thời gian Nhà Bán có thể nhập nhưng nhu cầu nhập hàng lớn nên có thể sẽ phải chờ lâu.
+
+  * **Hết chỗ:** Khung giờ quá khả năng nhập kho, Nhà Bán vui lòng chọn khung thời gian khác.
+
+Sau khi đã chọn được thời gian nhập kho thích hợp, bấm **Hoàn tất** để hoàn
+thành phiếu gửi hàng.
+
+**Bước 6: Hoàn tất phiếu gửi hàng**
+
+Phiếu gửi hàng sau khi được hoàn tất sẽ xuất hiện thông báo tạo phiếu thành
+công. Nhà Bán có thể bổ sung thêm các thông tin cụ thể như:
+
+  * Mã phiếu gửi Nhà Bán (nếu có)
+
+  * Ghi chú (nếu có)
+
+Hệ thống hiển thị pop-up thông báo tạo phiếu gửi hàng thành công. Nhà Bán
+chuẩn bị hàng và đến kho Tiki bốc số thứ tự nhập hàng theo khung thời gian đã
+chọn. Có thể nhập mã phiếu gửi của Nhà Bán dễ dàng quản lý. Sau đó bấm **Lưu &
+Đóng.**
+
+**Bước 7: In phiếu gửi hàng và mã sản phẩm (mincode)**
+
+**1\. In mã sản phẩm và đóng gói hàng hoá**
+
+Bước 1: Vào **Kho & hàng tồn** **>** **Phiếu gửi hàng (BOP) > **Chọn phiếu gửi
+hàng cần in mincode sản phẩm > Bấm **In mincode.**
+
+Bước 2: Sửa số lượng cần in trên từng SSKU. Chọn khổ giấy và bấm **In mã**.
+Sau đó, dán mincode lên từng sản phẩm. Tham khảo cách dán mincode _tại đây._
+
+**2**. **In phiếu gửi hàng** và mang hàng đến kho theo đúng **Thời gian nhập
+kho**.
+
+  * Nhà Bán cần **in 02 phiếu gửi hàng (BOP)** cho đơn hàng cần gửi.
+
+  * Ví dụ mã BOP: SGN/BOP/2018/12/33879 có nghĩa là Kho nhập hàng là kho SGN, nếu Nhà Bán muốn nhập vào kho khác SGN, Nhà Bán cần **chọn đúng kho** để tạo mã BOP tương ứng.  
+
+  * Mỗi BOP có chú thích rõ địa chỉ, người liên hệ giao hàng của kho nhập hàng.
+
+**Bước 8: Đóng gói hàng hóa**
+
+Hàng hóa nhập kho Tiki phải đảm bảo đúng chuẩn quy định đóng gói và nhập kho
+Tiki: _Quy định về tiêu chuẩn nhập kho Tiki_
+
+**Bước 9: Kiểm tra thông tin trên hệ thống**
+
+  * Sau khi đóng gói, Nhà Bán mang hàng tới kho Tiki để được nhập hàng. Tiki kiểm tra giấy tờ và hàng hóa, nếu đủ, đúng và hàng hóa đảm bảo điều kiện nhập kho, Tiki sẽ ký nhận trên 2 bản phiếu gửi hàng.
+
+  * Nếu giấy tờ chưa đủ hoặc có sai sót, hàng hóa không đảm bảo tiêu chuẩn chất lượng và đóng gói, Tiki sẽ trả hàng lại Nhà Bán.  
+
+**Bước 10:** Nhà Bán đến kho Tiki và thực hiện thủ tục tại cổng bảo vệ theo
+quy định tại từng kho theo từng thời kỳ, bao gồm nhưng không giới hạn: Khai
+báo y tế, khai báo thông tin người giao hàng, cung cấp giấy tờ tùy thân
+(CMND/CCCD).
+
+**Bước 11:** Nhà Bán xếp hàng và lấy số thứ tự nhập kho.
+
+**Bước 12:** Nhà Bán thực hiện dỡ hàng theo hướng dẫn của nhân viên nhập hàng.
+
+**Bước 13:** Nhà Bán và nhân viên nhập hàng đồng kiểm hàng hóa về số lượng và
+ngoại quan sản phẩm.
+
+**Bước 14:** Thực hiện ký nhận phiếu nhập hàng (BOP), mỗi bên giữ 01 bản
+
+**Bước 15:** Nhà Bán ra về theo hướng dẫn của nhân viên kho.
+
+Thời gian làm việc của kho **là: 8h00 - 17h00 từ thứ 2 tới thứ 7 hàng tuần
+(ngoại trừ thời gian nghỉ trưa là 12h00 - 13h00)**. Thời gian trễ nhất để Nhà
+Bán lấy số tại kho là 16h30, sau thời gian đó Tiki sẽ từ chối nhận hàng.
+
+Tùy theo thời gian mà Nhà Bán đến kho Tiki giao hàng, Tiki sẽ có các phương án
+xử lý tương ứng, chi tiết được nêu trong bảng sau:
+
+**Trường hợp**
+
+|
+
+**Nội dung áp dụng**
+
+|
+
+**Lưu ý**  
+  
+---|---|---  
+  
+1\. Nhà Bán đến nhập hàng đúng buổi và đúng ngày đăng ký
+
+|
+
+Tiki tiến hành nhập hàng theo số thứ tự mà Nhà Bán đã đăng ký.
+
+|
+
+Đối với lô hàng số lượng nhiều hoặc hàng hóa cồng kềnh, Nhà Bán nên sắp xếp
+giao hàng vào đầu giờ của mỗi buổi.  
+  
+2\. Nhà Bán đến nhập hàng đúng ngày đăng ký nhưng sai buổi
+
+|
+
+Căn cứ theo tình hình thực tế tại kho, Tiki sẽ linh hoạt hỗ trợ nhập hàng.
+
+Thứ tự ưu tiên nhập kho:
+
+1\. Nhà Bán đến đúng buổi, đúng ngày.
+
+2\. Nhà Bán đến sai buổi, đúng ngày.
+
+|
+
+Đối với trường hợp Nhà Bán đến sai buổi, đúng ngày, Tiki được miễn trừ trách
+nhiệm cho các vấn đề phát sinh/ khiếu nại về việc nhập hàng không thành công
+hoặc bị từ chối nhập hàng.  
+  
+3\. Nhà Bán đến nhập kho sai ngày đăng ký
+
+|
+
+Tiki từ chối nhập hàng
+
+|
+
+Nhà Bán tạo BOP mới và giao hàng theo đúng thời gian đã đăng ký trên BOP.  
+  
+____ IV. HƯỚNG DẪN SỬ DỤNG DỊCH VỤ TIKI LẤY HÀNG TẠI KHO NHÀ BÁN (D2D)
+
+Dịch vụ **Tiki lấy hàng tại kho Nhà Bán** sẽ hỗ trợ Nhà Bán đang sử dụng mô
+hình FBT có thể nhập kho Tiki mà không cần tự vận chuyển hàng hóa đến kho
+Tiki. Xem giới thiệu về dịch vụ Tiki lấy hàng tại kho Nhà Bán tại đây.
+
+Để tạo phiếu gửi hàng, Nhà Bán thực hiện theo các bước sau:
+
+Bước 1: Nhà Bán chọn **Kho & hàng tồn **> **Phiếu gửi hàng (BOP)** > **Tạo
+phiếu gửi hàng** hoặc **Sao chép** từ một phiếu gửi hàng có sẵn. Để chỉnh sửa
+phiếu gửi hàng nháp, Nhà Bán tìm phiếu nháp cần chỉnh sửa, chọn **Chỉnh sửa.**
+
+**Bước 2:** Chọn sản phẩm muốn nhập kho
+
+**Cách 1. Nhập sản phẩm từ danh sách**
+
+Nhà Bán có thể **lọc và tìm kiếm** sản phẩm hiện có trên gian hàng của mình
+theo các mục: Tên sản phẩm, Danh mục và Thương hiệu.
+
+  * Để **Thêm sản phẩm** : Nhà Bán chọn sản phẩm cần thêm vào danh sách từ bảng bên trái, chọn nút **“+”**.
+
+  * Để **Xóa sản phẩm** : Nhà Bán chọn sản phẩm cần xóa khỏi danh sách từ bảng bên phải, chọn nút **“x”**. 
+
+  * Hoặc Nhà Bán có thể chọn **Chọn toàn trang/Xóa tất cả** tại góc phải của mỗi bảng.
+
+Sau đó bấm **Tiếp tục.**
+
+**Lưu ý:**
+
+  * Sản phẩm có thể chọn là sản phẩm thuộc mô hình FBT - Hàng lưu kho Tiki và không bao gồm những sản phẩm đã tắt hoặc bị khóa.
+
+  * Sản phẩm được sắp xếp tùy theo nhu cầu nhập hàng, mức độ nhập hàng cao ưu tiên hiển thị trước. 
+
+**Cách 2. Nhập sản phẩm từ file**
+
+Nhà Bán chọn **Nhập sản phẩm từ file > Tải tập tin mẫu > **Điền thông tin và
+tải lên danh sách sản phẩm file Excel và bấm **Tiếp tục.**
+
+Sau khi file sản phẩm tải lên thành công, Nhà Bán kiểm tra dữ liệu tải lên và
+bấm **Xác nhận.**
+
+**Lưu ý:**
+
+  * Nếu số lượng sản phẩm nhập kho trong file thông tin vượt quá số lượng cho phép, Nhà Bán có thể điều chỉnh lại ở bước tiếp theo.
+
+  * Những sản phẩm sai thông tin sẽ không được thêm vào phiếu gửi hàng.
+
+**Bước 3:** Nhà Bán **chọn kho nhập hàng** tương ứng cho loại sản phẩm đã chọn
+và bấm **Tiếp tục**.
+
+**Lưu ý:**
+
+  * Với những phiếu có sản phẩm cồng kềnh hệ thống chia danh sách kho thành 2 phần: **Sản phẩm thường và Sản phẩm cồng kềnh.**
+
+  * Có thể chọn 1 hoặc nhiều kho nhập hàng. Phiếu gửi hàng sẽ **tự động tách** trong trường hợp kho được chọn nằm ở nhiều khu vực khác nhau.
+
+**Bước 4: Điền số lượng nhập dự kiến**
+
+Tại mỗi sản phẩm, Nhà Bán nhập số lượng sản phẩm tương ứng với từng kho nhập
+hàng và bấm **Tiếp tục**.
+
+**Lưu ý:**
+
+  * **Số lượng nhập kho** của từng sản phẩm đã được đề xuất từ hệ thống tùy theo tốc độ bán hàng. Bạn có thể chỉnh sửa nhưng không được vượt quá số lượng cho phép.
+
+  * Giới hạn trọng lượng là 500kg/ phiếu gửi hàng. Trong trường hợp Nhà Bán chưa thiết lập kích thước sản phẩm, vui lòng bổ sung ở phần tạo sản phẩm.
+
+**Bước 5: Chọn phương thức nhập kho  
+**
+
+Nhà Bán chọn tab **Thuê dịch vụ Tiki đến lấy hàng (D2D) > Nhập địa chỉ lấy
+hàng** (địa chỉ kho Nhà Bán đã thiết lập trước đó hoặc nhập địa chỉ mới) >
+Điền thông tin người liên hệ (đại diện bàn giao hàng hóa).
+
+Sau đó chọn thời gian lấy hàng dự kiến và bấm **Hoàn tất**.
+
+**Lưu ý:** Nhà Bán cần đảm bảo thông tin người liên hệ chính xác và theo dõi
+nhận cuộc gọi từ đối tác vận chuyển của Tiki.
+
+**Bước 6: Hoàn tất phiếu gửi hàng**
+
+Phiếu gửi hàng sau khi được hoàn tất sẽ xuất hiện thông báo tạo phiếu thành
+công. Nhà Bán có thể bổ sung thêm các thông tin cụ thể như:
+
+  * Mã phiếu gửi Nhà Bán (nếu có)
+  * Ghi chú (nếu có)
+
+Sau đó bấm **Lưu và Đóng.**
+
+**Bước 7: In phiếu gửi hàng, mã sản phẩm (mincode) và tem niêm phong  
+**
+
+**1\. In phiếu gửi hàng**
+
+Tại mục đang xử lý, Nhà Bán chọn **Xem chi tiết,** sau đó chọn **In phiếu gửi
+hàng**.
+
+Phiếu gửi hàng Tiki lấy hàng sẽ cung cấp các thông tin cơ bản gồm:
+
+  * Thông tin mã phiếu
+  * Ngày tạo, ngày lấy hàng, ngày nhập dự kiến
+  * Thông tin lấy hàng
+  * Thông tin kho nhập
+
+**Lưu ý:**
+
+  * Nhà Bán cần in 2 bản copy phiếu gửi hàng.
+  * Khi giao hàng, ký xác nhận số kiện hàng với đối tác vận chuyển của Tiki và giữ lại 1 bản copy.
+
+Chi tiết cách in và quy cách kích thước, Nhà Bán xem _tại đây._
+
+**2\. In mã sản phẩm và đóng gói hàng hoá**
+
+Bước 1: Vào **Kho & hàng tồn** **>** **Phiếu gửi hàng (BOP) > **Chọn phiếu gửi
+hàng cần in mincode sản phẩm > Bấm **In mincode.**
+
+Bước 2: Sửa số lượng cần in trên từng SSKU. Chọn khổ giấy và bấm **In mã**.
+Sau đó, dán mincode lên từng sản phẩm. Tham khảo cách dán mincode _tại đây._
+
+**3**. **In tem niêm phong**
+
+**Hàng hóa nhập kho với dịch vụ **Tiki lấy hàng tại kho Nhà Bán (D2D)** sẽ
+được đóng hàng dạng kiện và bắt buộc in tem niêm phong theo mẫu Tiki cung cấp
+để dán bên ngoài kiện hàng. Nhà Bán bấm **Xem chi tiết > **Chọn **In tem niêm
+phong.****
+
+**Bước 8: Chuẩn bị và bàn giao hàng hóa cho đơn vị vận chuyển**
+
+Xem hướng dẫn chi tiết _tại đây_ (mục II)
+
+**Bước 9: Theo dõi kết quả xác nhận lấy hàng từ Tiki**
+
+  * Tiki sẽ lấy hàng từ 9h – 12h và 13h – 15h các ngày từ thứ Hai đến thứ Bảy.
+  * Trong trường hợp có thay đổi, đơn vị vận chuyển của Tiki sẽ thông báo qua số điện thoại Nhà Bán đã đăng ký sử dụng dịch vụ trên Seller Center. 
+
+  * Trong trường hợp Tiki từ chối cung cấp dịch vụ, phiếu gửi hàng sẽ chuyển trạng thái Hủy, Nhà Bán vui lòng tạo phiếu gửi hàng mới.
+
+**Bước 10: Theo dõi cập nhật tồn kho**
+
+  * Trong vòng 24 giờ kể từ khi hàng về đến cửa kho, Tiki sẽ kiểm tra để nhập kho.
+  * Trường hợp hàng hóa đủ điều kiện nhập kho, sản phẩm sẽ được tăng tồn và Nhà Bán có thể bắt đầu bán hàng.
+
+  * Trường hợp hàng hóa không đủ điều kiện nhập kho, Tiki sẽ xử lý theo quy trình trả hàng không đủ điều kiện nhập kho.
+
+******Lưu ý:** Các trường hợp giao thiếu và cần bổ sung thêm, Nhà Bán vui lòng
+tạo phiếu nhập hàng mới để giao bổ sung.
+
+____ V. QUẢN LÝ DANH SÁCH PHIẾU GỬI HÀNG
+
+Để xem và theo dõi lịch sử trạng thái phiếu gửi hàng, Nhà Bán truy cập
+**Seller Center** **>** **Kho & hàng tồn > Phiếu gửi hàng (BOP).**
+
+  * Trường hợp có sự chênh lệch tồn kho, Nhà Bán cần khiếu nại trong vòng 07 ngày kể từ khi số lượng hàng hóa được ghi nhận trên hệ thống. Quá thời hạn trên, Tiki có quyền từ chối tiếp nhận các khiếu nại liên quan.
+
+  * Các trường hợp giao thiếu và cần bổ sung thêm, Nhà Bán vui lòng tạo phiếu nhập hàng mới để giao bổ sung.
+
+Tại đây, Nhà Bán có thể:
+
+1\. Theo dõi tình trạng phiếu gửi hàng qua các tab chính: Nháp, Đang xử lý, Đã
+hoàn thành.
+
+2\. Sử dụng bộ lọc nhanh để tìm kiếm phiếu gửi hàng thường gặp ở các tab: Nhà
+Bán vận chuyển, Tiki đến lấy hàng, Phiếu gửi FBT.
+
+3\. Ngoài ra, Nhà Bán có thể tìm kiếm theo kho nhập hàng, lịch nhập hàng,
+phương thức nhập hàng, mã phiếu gửi hàng, trạng thái, ngày nhập hàng, loại
+phiếu gửi theo bộ lọc và thực hiện thao tác tùy theo nhu cầu:
+
+**Tab trạng thái**
+
+|
+
+**Trạng thái**
+
+|
+
+**Thao tác Nhà Bán có thể thực hiện**  
+  
+---|---|---  
+  
+Nháp
+
+|
+
+Nháp
+
+|
+
+  * Chỉnh sửa
+  * Xóa
+  * Sao chép
+  * In mincode
+
+  
+  
+Đang xử lý
+
+|
+
+Chờ xác nhận vận chuyển
+
+|
+
+  * Xem chi tiết
+  * In phiếu gửi 
+  * In mincode
+  * In tem niêm phong
+  * Sao chép
+
+  
+  
+Đã xác nhận vận chuyển  
+  
+Đang đi lấy hàng  
+  
+Đang chuyển về kho
+
+|
+
+  * Xem chi tiết
+  * Sao chép
+
+  
+  
+Kho đang xử lý  
+  
+Nhập kho một phần  
+  
+Đã hoàn thành
+
+|
+
+Chờ lên kho
+
+|
+
+  * Xem chi tiết
+  * In phiếu gửi 
+  * In mincode
+  * Sao chép
+
+  
+  
+Đã hủy
+
+|
+
+  * Xem chi tiết
+  * Sao chép
+
+  
+Từ chối toàn bộ  
+Nhập một phần  
+Nhập toàn bộ  
+Đang trả về nhà bán  
+Đã trả về nhà bán  
+Hoàn thành  
+Thất bại  
+  
+Để theo dõi báo cáo tồn kho, Nhà Bán tham khảo thêm tài liệu Hướng dẫn theo
+dõi báo cáo tồn kho.
+
+Nội dung này có hữu ích với bạn không?
+
+  * __
+  * __
+  * __
+  * __
+  * __
+
+Gửi đánh giá
+
+Đánh giá trung bình: 4.7 / 5. Số lượt đánh giá: 11
+
+Nếu bạn thấy nội dung này hữu ích...
+
+Hãy chia sẻ ngay với bạn bè nhé!
+
+Ôi 🙁
+
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+
+Gửi phản hồi
+
+## Về Tiki
+
+## Theo dõi chúng tôi trên
+
+## Hỗ trợ Nhà Bán
+
+## Tải ứng dụng bán hàng
+
+Tiki
+
+Trung Tâm Bán Hàng
+
+__
+
+YouTube Tiki University Official
+
+__
+
+Cộng Đồng Nhà Bán Hàng Tiki
+
+__
+
+19006034 (8h - 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+
+__
+
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường
+12, Quận 10, Thành phố Hồ Chí Minh
+
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư
+Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+
+© 2022 - Bản quyền của Công ty TNHH Ti Ki.
+

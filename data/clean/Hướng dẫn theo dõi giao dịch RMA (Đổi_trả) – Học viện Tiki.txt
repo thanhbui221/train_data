@@ -1,0 +1,138 @@
+
+
+Freeship Không Giới Hạn Phí lưu kho và phí rút hàng FBT Hoàn tiền nhanh ASTRA+
+Flash sale
+
+__Tham gia Lớp học cho Nhà Bán
+
+  * Trang chủ
+  * Hướng dẫn bán hàng __
+    * Cơ bản
+    * Nâng cao
+    * Chuyên nghiệp
+    * Dành cho Nhà Bán NGON
+    * Quy định & Chính sách
+  * Bí quyết bán hàng
+  * Giải pháp quảng cáo __
+    * Tiki Ads - Công cụ quảng cáo
+    * Tiki Affiliate - Tiếp thị liên kết
+    * Tiki Engagement - Tương tác khách hàng
+  * Liên hệ
+  * Cross-border Sellers __
+    * Basic
+    * Intermediate
+    * Advanced
+    * Policies
+
+X
+
+## Hoàn trả
+
+## Hướng dẫn theo dõi giao dịch RMA (Đổi/trả)
+
+  * ● Hướng dẫn theo dõi giao dịch RMA (Đổi/trả)
+  * ● Hướng dẫn tạo kho trả hàng
+  * ● Hướng dẫn quản lý giao dịch bồi thường
+  * ● [Mô hình FBT] Hướng dẫn quy trình xử lý đổi/trả/bảo hành
+  * ● [Mô hình Dropship] Hướng dẫn xử lý đơn hàng hoàn
+  * ● [Mô hình Dropship] Hướng dẫn quy trình xử lý đổi/trả/bảo hành
+  * ● [Mô hình Dropship] Hướng dẫn quy trình hoàn tiền nhanh
+  * ● [Mô hình SD] Hướng dẫn quy trình xử lý đổi/trả/bảo hành
+  * ● Quy định xử lý khiếu nại
+
+Giao dịch RMA là các giao dịch được ghi nhận trên sao kê khi khách hàng thực
+hiện đổi/trả hàng hóa. Sau khi đã đổi trả hàng hóa cho khách hàng, Nhà Bán cần
+theo dõi và quản lý các giao dịch RMA để kiểm soát chặt chẽ về nguồn lực tài
+chính, nhằm kinh doanh hiệu quả hơn.
+
+Để kiểm tra giao dịch RMA phát sinh, Nhà Bán theo dõi tại mục **Đơn hàng > Đổi
+trả bảo hành**.
+
+**Trường hợp 1: Khách hàng yêu cầu đổi sản phẩm khác**
+
+Khi đơn hàng 1 đã hiện trạng thái _Giao hàng thành công_ , sau đó khách hàng
+muốn đổi sản phẩm khác, đơn hàng đó sẽ ghi nhận vào sao kê như sau:
+
+**Bước 1**. ĐH 1 _Giao hàng thành công_ : Ghi nhận doanh thu, chi phí, lợi
+nhuận vào **G** **iao dịch bán hàng.**
+
+**Bước 2**. Trong thời hạn đổi/trả, Khách hàng có nhu cầu đổi sản phẩm khác,
+hệ thống tạo ĐH 2 (Đơn hàng đổi sản phẩm).
+
+**Bước 3**. ĐH 2 _Giao hàng thành công_ : Ghi nhận doanh thu, chi phí, lợi
+nhuận vào mục **G** **iao dịch bán hàng.**
+
+**Bước 4**. Phát sinh Giao dịch RMA: Thu lại giá trị hàng hóa, hoàn phí chiết
+khấu, phí thanh toán của ĐH 1 và thu phí đền bù khách hàng (nếu do lỗi NCC).
+
+**Bước 5.** Thu phí xử lý và phí đền bù khách hàng (nếu lỗi NCC) >> Phát sinh
+đơn RMA.
+
+**Trường hợp 2: Khách hàng yêu cầu trả sản phẩm**
+
+**Bước 1** **.** ĐH 1 _Giao hàng thành công:_ Tăng doanh thu, chi phí, lợi
+nhuận vào mục **Giao dịch bán hàng.**
+
+**Bước 2** **.** Khách hàng có nhu cầu **trả sản phẩm.**
+
+**Bước 3** **.** Phát sinh đơn RMA: Thu lại giá trị hàng hóa, hoàn phí chiết
+khấu, phí thanh toán của ĐH 1 và thu phí đền bù khách hàng (nếu do lỗi NCC).
+
+Nội dung này có hữu ích với bạn không?
+
+  * __
+  * __
+  * __
+  * __
+  * __
+
+Gửi đánh giá
+
+Đánh giá trung bình: 5 / 5. Số lượt đánh giá: 4
+
+Nếu bạn thấy nội dung này hữu ích...
+
+Hãy chia sẻ ngay với bạn bè nhé!
+
+Ôi 🙁
+
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+
+Gửi phản hồi
+
+## Về Tiki
+
+## Theo dõi chúng tôi trên
+
+## Hỗ trợ Nhà Bán
+
+## Tải ứng dụng bán hàng
+
+Tiki
+
+Trung Tâm Bán Hàng
+
+__
+
+YouTube Tiki University Official
+
+__
+
+Cộng Đồng Nhà Bán Hàng Tiki
+
+__
+
+19006034 (8h - 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+
+__
+
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường
+12, Quận 10, Thành phố Hồ Chí Minh
+
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư
+Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+
+© 2022 - Bản quyền của Công ty TNHH Ti Ki.
+
