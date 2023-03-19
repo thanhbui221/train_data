@@ -1,9 +1,0 @@
-Thế nào là sản phẩm có giá cạnh tranh?
-Một sản phẩm được cho là có giá cạnh tranh khi giá bán hiện tại thấp hơn hoặc bằng với mức giá thấp nhất trên thị trường. 
-
-Giới thiệu tính năng Chỉnh giá cạnh tranh
-Tính năng này cho phép Nhà bán:
-- Biết được khả năng cạnh tranh về giá bán, tình trạng tồn kho hiện tại (Còn hàng/ Hết hàng) của các sản phẩm cùng đang bán trên thị trường (trong Tiki và trên các trang TMĐT phổ biến khác ở Việt Nam).;
-- Cho phép Nhà Bán chỉnh sửa giá bán dễ dàng ngay trên giao diện so sánh.
-Tính năng hiện đang thử nghiệm với một số Nhà Bán. 
-

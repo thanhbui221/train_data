@@ -9,26 +9,27 @@ def config():
 def etl(h):
     import os 
     import logging
-    import pathlib
     src_path = os.getcwd() 
     dir_path = src_path + "/raw"
+    out_path = src_path + "/clean"
     try:
-        for path, subdirs, files in os.walk(dir_path):
-            for name in files:
-                out_path = path.replace("/raw", "/clear")
-                src_file = pathlib.PurePath(path, name)
-                src = open(src_file, "r")
-                data = src.read()
-                src.close()
-                # print(out_path)
-                if not os.path.exists(out_path):
-                    os.makedirs(out_path)
-                out_file = os.path.join(out_path, f"{name}.txt")
-                out = open(out_file, "w")
-                out.write(h.handle(data))
-                out.close()
+        for filename in os.listdir(dir_path):
+            name = filename[:-5]
+            src_file = os.path.join(dir_path, filename)
+            src = open(src_file, "r")
+            data = src.read()
+            src.close()
+            if not os.path.exists(out_path):
+                os.makedirs(out_path)
+            out_file = os.path.join(out_path, f"{name}.txt")
+            out = open(out_file, "w")
+            out.write(h.handle(data))
+            out.close 
     except Exception as e: 
-        logging.error(e)        
+        logging.error(e)
+        logging.error(dir_path)
+        logging.error(out_path)
+        
     return None
 
 if __name__ == "__main__":
