@@ -1,0 +1,187 @@
+
+
+Freeship Không Giới Hạn Phí lưu kho và phí rút hàng FBT Hoàn tiền nhanh ASTRA+
+Flash sale
+
+__Tham gia Lớp học cho Nhà Bán
+
+  * Trang chủ
+  * Hướng dẫn bán hàng __
+    * Cơ bản
+    * Nâng cao
+    * Chuyên nghiệp
+    * Dành cho Nhà Bán NGON
+    * Quy định & Chính sách
+  * Bí quyết bán hàng
+  * Giải pháp quảng cáo __
+    * Tiki Ads - Công cụ quảng cáo
+    * Tiki Affiliate - Tiếp thị liên kết
+    * Tiki Engagement - Tương tác khách hàng
+  * Liên hệ
+  * Cross-border Sellers __
+    * Basic
+    * Intermediate
+    * Advanced
+    * Policies
+
+X
+
+## Thanh toán và quản lý tài sản
+
+## Hướng dẫn nạp và quản lý Tiki Xu dành cho Nhà Bán
+
+  * ● Hướng dẫn tạo yêu cầu thanh toán và quản lý số dư tài khoản
+  * ● Hướng dẫn đổi và quản lý Astra dành cho Nhà Bán
+  * ● Hướng dẫn nạp và quản lý Tiki Xu dành cho Nhà Bán
+  * ● Hướng dẫn tra cứu chính sách phí và biểu phí trên sàn TMĐT Tiki​
+  * ● Hướng dẫn xem sao kê, đối soát giao dịch và tra cứu hóa đơn phí dịch vụ
+  * ● Hướng dẫn lập hóa đơn khi bán hàng
+  * ● Hướng dẫn đăng ký dịch vụ trả góp trên Tiki
+  * ● Nội dung tham khảo khi Nhà Bán làm việc với Cơ quan thuế
+
+Tiki Xu (còn gọi tắt là Xu) - đơn vị quy đổi có giá trị quy ước 1 Xu = 1 VNĐ,
+là phương tiện Nhà Bán sẽ sử dụng để trao đổi lấy Astra trên sàn giao dịch
+Tiki Exchange. Nhà Bán thực hiện nạp Tiki Xu vào tài khoản thông qua các
+phương thức thanh toán thông thường (thẻ nội địa/quốc tế, ví điện tử…), sau đó
+sử dụng Tiki Xu để đổi lấy Astra và sử dụng Astra cho các nhu cầu phù hợp.
+
+Tham khảo thêm:
+
+  * Hướng dẫn đổi và quản lý Astra dành cho Nhà Bán
+
+  * Hướng dẫn sử dụng công cụ Chiến dịch săn Astra
+
+  * Hướng dẫn sử dụng công cụ Chiến dịch đánh giá sản phẩm
+
+____ I. HƯỚNG DẪN NẠP TIKI XU
+
+Bước 1: Tại Seller Center, Nhà Bán chọn mục **Quản lý tài chính > Quản lý tài
+sản > **Tại tab Tiki Xu, chọn **Nạp Tiki Xu.**
+
+Bước 2: Nhập số tiền muốn nạp để mua Tiki Xu (tối thiểu 10.000 đồng/lần, tối
+đa 200 triệu đồng/ngày) > Bấm **Thanh toán.**
+
+Bước 3: Tại trang thanh toán, Nhà Bán chọn một trong các hình thức thanh toán
+khả dụng, sau đó bấm **Thanh toán** để thực hiện giao dịch. Ngay sau khi thanh
+toán thành công, Tiki Xu sẽ được nạp vào tài khoản của Nhà Bán.
+
+Lưu ý:
+
+  * Giá trị quy đổi 1 Tiki Xu = 1 VNĐ.
+  * Tiki chấp nhận thanh toán bằng hầu hết các loại thẻ ngân hàng và ví điện tử. 
+
+  * Đơn hàng sau khi thanh toán không thể **hủy hoặc trả lại.**
+  * Tiki Xu chưa thể tặng, hoặc chuyển qua lại trực tiếp giữa các tài khoản Nhà Bán.
+
+  * Đơn hàng nạp Tiki Xu hiện không hỗ trợ xuất hóa đơn.
+
+____ II. HƯỚNG DẪN THEO DÕI GIAO DỊCH TIKI XU
+
+Tại mục Lịch sử giao dịch, Nhà Bán có thể theo dõi các giao dịch nạp Tiki Xu
+và sử dụng Tiki Xu để mua Astra.
+
+Riêng với mỗi giao dịch dùng Tiki Xu để mua Astra, hệ thống sẽ hiển thị 3 dòng
+giao dịch trạng thái giao dịch theo thứ tự như sau:
+
+  * (1): Hiển thị số Xu Nhà Bán vừa nạp theo đơn hàng.
+
+  * (2): Hiển thị đúng số Xu mà Nhà Bán điền vào để mua Astra (20.000), với nội dung chi tiết ở cột Ghi chú “Tạo giao dịch Tiki Exchange”, trạng thái Thất bại → Nhà Bán không bị trừ 20.000 Xu.
+  * (3): Hiển thị số Xu thực trừ cuối cùng (19.980), với nội dung chi tiết ở cột Ghi chú, trạng thái “Hoàn thành” → Nhà Bán bị trừ 19.980 Xu.
+
+____ III. CÁC CÂU HỎI THƯỜNG GẶP
+
+**1\. Làm thế nào Nhà Bán có thể sở hữu Tiki Xu?**
+
+Nhà Bán có thể sở hữu Tiki Xu thông qua phương thức Nạp Tiki Xu trực tiếp vào
+tài khoản thông qua các phương thức thanh toán trực tuyến tại Tiki. Tiki Xu sẽ
+được nạp vào tài khoản Nhà Bán sau khi thanh toán thành công.
+
+**2\. Hạn mức nạp Tiki Xu trong một ngày là bao nhiêu?**
+
+Nhà Bán chỉ có thể nạp tối đa 200 triệu đồng tương đương 200 triệu Tiki
+Xu/ngày.
+
+**3\. Số tiền tối thiểu dùng để nạp Tiki Xu là bao nhiêu?**
+
+Nhà Bán cần nạp tối thiểu 10.000 đồng/giao dịch.
+
+**4\. Tôi có thể dùng Tiki Xu để làm gì?**
+
+Hiện tại Nhà Bán có thể dùng Tiki Xu để mua Astra, sau đó sử dụng Astra trên
+các công cụ khuyến mãi dành cho Nhà Bán.
+
+**5\. Tôi có thể chuyển Tiki Xu từ tài khoản mua hàng của tôi sang tài khoản
+Nhà Bán không?**
+
+Tiki Xu chưa thể tặng, hoặc chuyển qua lại trực tiếp giữa các tài khoản.
+
+**6\. Tôi có thể rút Tiki Xu về tài khoản ngân hàng được không?**
+
+Hiện tại Nhà Bán không thể rút Tiki Xu về tài khoản ngân hàng.
+
+**7\. Các giao dịch nạp Tiki Xu có thể hủy/trả không?**
+
+Các giao dịch nạp Tiki Xu vào tài khoản sẽ không thể hủy/trả.
+
+**8\. Tiki có cung cấp hóa đơn cho các giao dịch nạp Tiki Xu không?**
+
+Các giao dịch nạp Tiki Xu hiện không hỗ trợ xuất hóa đơn.
+
+Nội dung này có hữu ích với bạn không?
+
+  * __
+  * __
+  * __
+  * __
+  * __
+
+Gửi đánh giá
+
+Đánh giá trung bình: 5 / 5. Số lượt đánh giá: 1
+
+Nếu bạn thấy nội dung này hữu ích...
+
+Hãy chia sẻ ngay với bạn bè nhé!
+
+Ôi 🙁
+
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+
+Gửi phản hồi
+
+## Về Tiki
+
+## Theo dõi chúng tôi trên
+
+## Hỗ trợ Nhà Bán
+
+## Tải ứng dụng bán hàng
+
+Tiki
+
+Trung Tâm Bán Hàng
+
+__
+
+YouTube Tiki University Official
+
+__
+
+Cộng Đồng Nhà Bán Hàng Tiki
+
+__
+
+19006034 (8h - 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+
+__
+
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường
+12, Quận 10, Thành phố Hồ Chí Minh
+
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư
+Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+
+© 2022 - Bản quyền của Công ty TNHH Ti Ki.
+

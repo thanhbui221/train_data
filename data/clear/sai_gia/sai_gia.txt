@@ -1,0 +1,44 @@
+Quy trình sai giá - SWAT xử lý:
+a. Lỗi không xác định, lỗi hệ thống:
+b. Lỗi do nhà bán:
+Diễn giải quy trình:
+- PSC tiếp nhận case sai giá: 
++ Trường hợp sai giá do Seller ⇒ LV1 xử lý theo quy trình sai giá do Seller.
++ Trường hợp không xác định ⇒ LV1 hướng dẫn SL liên hệ với KAM. Nếu đồng ý -> solve case. Nếu không đồng ý, chuyển SWAT
++ Trường hợp sai giá do Tikie ⇒ LV1 chuyển cho SWAT xử lý.
+- SWAT sẽ tiếp nhận trong trường hợp sai giá do Tikie/ không rõ phát sinh sai giá và check log để kiểm tra user thao tác giá sai.
+==>SWAT dùng email cá nhân gửi email trực tiếp cho bạn sai giá thông báo tình huống phát sinh ⇒ đợi phản hồi:
+- Nếu sai giá do Seller: Xử lý lại như quy trình của LV1 
+- Nếu sai giá do Tikie: Swat sẽ kiểm tra lại trạng thái đơn hàng phát sinh 
++ Đã hủy: Xác nhận với Tikie để nới OVL cho Seller (hướng dẫn Tikie gửi email cho SOS) + phản hồi lại cho PSC.
+
++ Chưa hủy: Xác minh với Tikie hướng xử lý với Seller
+
++ Xác nhận hủy: Tikie sẽ tự liên hệ SOS loại trừ OVL cho Seller + phản hồi lại cho PSC.
+
++ Xác nhận tiếp tục giao: Tikie và Seller tự thỏa thuận việc quy chi phí chênh lệch + phản hồi lại cho PSC.
+==> Sau khi có kết quả, PSC thông báo Seller và done case.
+Riêng đối với trường hợp sai giá do Tikier mô hình FBT, PSC xin Seller SDT, tên; PSC sẽ chủ động liên hệ yêu cầu KAM email theo quy trình Tikier raise mail .
+c. Lỗi do Tikie:
+Diễn giải quy trình:
+Trường hợp 1: Nếu SKU thuộc mô hình FBT, Tikie sẽ chủ động chốt phương án xử lý với Seller, PSC solve case.
+Trường hợp 2: Nếu SKU thuộc các mô hình còn lại, Tikie sẽ tự chủ động trao đổi với Seller để chốt phương án (Trường hợp đang xử lý mà Seller liên hệ qua PSC, Swat sẽ push KAM để thông tin cho Seller)
+Lưu ý: Trường hợp này lỗi do Tikier nên không áp dụng OVL cho Seller.
+d. Hướng xử lý khi TC chuyển case sai giá:
+Diễn giải quy trình:
+
+TC sẽ share case trong trường hợp đơn hàng hủy bởi Seller và khách hàng gay gắt. Non Voice sẽ chuyển SWAT. 
+
+SWAT tiếp nhận và check log xem có sai giá hay không? SWAT liên hệ với Seller qua cuộc gọi hoặc email để thương lượng phương án đền bù (Coupon, quà tặng, đặt hàng lại).
+
+Seller đồng ý phương án từ Swat: Swat sẽ phản hồi TC để thông tin cho khách hàng. 
+
+KH đồng ý: Done case
+
+KH không đồng ý: phản hồi lại PSC để trao đổi tiếp (Escalation)
+
+Seller không đồng ý phương án: Jira Ops nhờ hỗ trợ coupon, nếu Ops đồng ý ⇒ SWAT phản hồi TC. Nếu Ops không đồng ý ⇒ Escalation
+
+KH đồng ý: Done case
+
+KH không đồng ý: phản hồi lại PSC để trao đổi tiếp (Escalation)

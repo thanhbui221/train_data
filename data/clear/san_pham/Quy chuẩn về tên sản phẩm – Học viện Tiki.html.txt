@@ -1,0 +1,547 @@
+
+
+Freeship Không Giới Hạn Phí lưu kho và phí rút hàng FBT Hoàn tiền nhanh ASTRA+
+Flash sale
+
+__Tham gia Lớp học cho Nhà Bán
+
+  * Trang chủ
+  * Hướng dẫn bán hàng __
+    * Cơ bản
+    * Nâng cao
+    * Chuyên nghiệp
+    * Dành cho Nhà Bán NGON
+    * Quy định & Chính sách
+  * Bí quyết bán hàng
+  * Giải pháp quảng cáo __
+    * Tiki Ads - Công cụ quảng cáo
+    * Tiki Affiliate - Tiếp thị liên kết
+    * Tiki Engagement - Tương tác khách hàng
+  * Liên hệ
+  * Cross-border Sellers __
+    * Basic
+    * Intermediate
+    * Advanced
+    * Policies
+
+X
+
+## Quy định đăng tải sản phẩm
+
+## Quy chuẩn về tên sản phẩm
+
+  * ● Quy chuẩn về thương hiệu
+  * ● Quy chuẩn về tên sản phẩm
+  * ● Quy chuẩn về hình ảnh sản phẩm
+  * ● Quy định từ khóa trong nội dung sản phẩm
+  * ● Quy định khi tạo sản phẩm có nhiều lựa chọn
+  * ● Quy định khi chỉnh sửa nội dung sản phẩm
+  * ● Quy chuẩn về nội dung đăng sản phẩm cho từng ngành hàng​
+  * ● Quy định về việc tăng giá trước khuyến mãi
+  * ● Quy định chính sách vi phạm sở hữu trí tuệ của Apple
+  * ● Danh sách các loại chứng từ yêu cầu
+  * ● Danh sách các sản phẩm cấm bán trên SGD TMĐT Tiki​
+  * ● Danh mục yêu cầu về hồ sơ pháp lý Nhà Bán Hàng và hàng hóa
+
+Việc đặt tên sản phẩm đúng quy định của Tiki sẽ giúp cho Nhà Bán được duyệt
+sản phẩm nhanh chóng và khách hàng dễ dàng nhớ đến.
+
+____ I. QUY ĐỊNH KHI ĐẶT TÊN SẢN PHẨM
+
+**1\. Quy định chung khi đặt tên sản phẩm:**
+
+_**- Áp dụng cho tất cả các ngành hàng:**_
+
+Cấu trúc: **Loại sản phẩm + Thương hiệu + Tên/Dòng sản phẩm + Model + Tính
+năng/thuộc tính cụ thể**
+
+  * Tên ngắn gọn và không trùng lặp từ khóa. Độ dài từ 3 – 255 ký tự.
+
+  * Tên sản phẩm không bao gồm: 
+
+    * Tên gian hàng
+
+    * Thông tin bảo hành
+
+    * Thông tin khuyến mãi
+    * Giá tiền
+
+    * Số điện thoại
+
+    * Đường dẫn cá nhân (.com.vn; .vn; …) 
+
+_Ví dụ minh họa vi phạm: Tên sản phẩm có chứa số điện thoại_
+
+|
+
+_Ví dụ minh họa vi phạm: Tên sản phẩm có chứa đường dẫn cá nhân_  
+  
+---|---  
+|  
+  
+  * Tên sản phẩm cấu hình không bao gồm giá trị LỰA CHỌN của sản phẩm có lựa chọn.
+
+  * Tên sản phẩm là quà tặng, vui lòng thêm cụm [Gift] ở đầu Tên sản phẩm.
+
+**_- Áp dụng cho các sản phẩm Điện tử - Điện lạnh:_**
+
+(1) Nếu sản phẩm có thương hiệu, cấu trúc tên sản phẩm cần có thông tin “Hàng
+chính hãng” hoặc “Hàng nhập khẩu” tùy loại hàng hóa.
+
+  * **Cấu trúc: Loại sản phẩm + Thương hiệu + Tên/Dòng sản phẩm + Model + Tính năng/thuộc tính cụ thể + Hàng chính hãng/Hàng nhập khẩu**
+
+  * ****_Ví dụ:_ Cáp sạc Tivi Samsung UA65TU7000KXXV - Hàng chính hãng
+
+  * **Đối tượng áp dụng:**
+
+**Ngành hàng**
+
+|
+
+**Bắt buộc**
+
+|
+
+**Không bắt buộc**  
+  
+---|---|---  
+  
+  * Thiết bị số - Phụ kiện số (ID - 1815)
+
+  * Điện thoại - Máy tính bảng (ID - 2902)
+
+  * Điện tử - Điện lạnh (ID - 4221)
+
+  * Linh kiện máy tính - Phụ kiện máy tính (ID - 8129)
+
+  * Laptop - Máy vi tính - Linh kiện (ID - 1846)
+
+  * Máy ảnh - Máy quay phim (ID - 1801)
+
+|
+
+  * Tivi
+
+  * Tủ lạnh_Tủ đông_Tủ Mát
+
+  * Máy Giặt_Máy Sấy
+
+  * Máy Lạnh_Máy Điều Hòa
+
+  * Máy Nước Nóng
+
+  
+  
+(2) Nếu sản phẩm là hàng cồng kềnh và khó khăn trong việc giao hàng liên khu
+vực, trong tên sản phẩm cần có thông tin “Khu vực giao hàng”.
+
+  * Cấu trúc: Loại sản phẩm + Thương hiệu + Tên/Dòng sản phẩm + Model + Tính năng/thuộc tính cụ thể + Khu vực giao hàng
+
+  * _Ví dụ:_ Tủ Lạnh Inverter Samsung RB30N4180B1/SV (307L) - **Chỉ giao HCM**
+
+  * Đối tượng áp dụng: 
+
+    * Tivi
+
+    * Tủ lạnh_Tủ đông_Tủ Mát
+
+    * Máy Giặt_Máy Sấy
+
+    * Máy Lạnh_Máy Điều Hòa
+
+    * Máy Nước Nóng
+
+**Ví dụ minh họa đối với ngành hàng Điện tử - Điện lạnh:**
+
+**Ngành hàng**
+
+|
+
+**Hợp lệ**
+
+|
+
+**Không hợp lệ**  
+  
+---|---|---  
+  
+Thiết bị số - Phụ kiện số (ID - 1815)
+
+|
+
+# Tai Nghe Chụp Tai Sony ExtraBass MDR-XB550AP - **Hàng Chính Hãng**
+
+|
+
+# Tai Nghe Chụp Tai Sony ExtraBass MDR-XB550AP  
+  
+Điện thoại - Máy tính bảng (ID - 2902)
+
+|
+
+# Điện Thoại Samsung Galaxy Note 10 (8GB/256GB) - **Hàng Chính Hãng**
+
+|
+
+# Điện Thoại Samsung Galaxy Note 10 (8GB/256GB)  
+  
+Linh kiện máy tính - Phụ kiện (ID - 8129)
+
+|
+
+# Card Màn Hình Asus PH-GT1030-O2G - **Hàng Nhập Khẩu**
+
+|
+
+# Card Màn Hình Asus PH-GT1030-O2G  
+  
+Laptop - Máy vi tính - Linh kiện (ID - 1846)
+
+|
+
+# Màn hình máy tính Samsung LF24T350FHEXXV 24 inch FHD 75Hz - **Hàng Chính
+Hãng**
+
+|
+
+# Màn hình máy tính Samsung LF24T350FHEXXV 24 inch FHD 75Hz  
+  
+Máy ảnh - Máy quay phim (ID - 1801)
+
+|
+
+# Máy Ảnh Canon Powershot G7X Mark II – Đen – **Hàng Nhập Khẩu**
+
+|
+
+# Máy Ảnh Canon Powershot G7X Mark II – Đen  
+  
+Điện tử - Điện lạnh (ID - 4221)
+
+|
+
+# Giá treo tivi đa năng North Bayou P5 (32-60 Inch) - **Hàng Chính Hãng**
+
+|
+
+# Giá treo tivi đa năng North Bayou P5 (32-60 Inch)  
+  
+Tivi (Không bắt buộc thông tin nơi giao hàng)
+
+|
+
+# Smart Tivi Samsung Full HD 43 inch UA43T6500
+
+|
+
+#  
+  
+Tủ lạnh_Tủ đông_Tủ Mát
+
+|
+
+# Tủ Lạnh Inverter Samsung RB30N4180B1/SV (307L) - **Chỉ giao HCM**
+
+|
+
+# Tủ Lạnh Inverter Samsung RB30N4180B1/SV (307L)  
+  
+Máy Giặt_Máy Sấy
+
+|
+
+# Máy giặt Samsung Inverter 8 kg WW80J52G0KW/SV - **Chỉ giao HN**
+
+|
+
+# Máy giặt Samsung Inverter 8 kg WW80J52G0KW/SV  
+  
+Máy Lạnh_Máy Điều Hòa
+
+|
+
+# Điều Hòa Nagakawa Inverter 9000Btu NIS-C09R2H08 - **Chỉ giao HCM**
+
+|
+
+# Điều Hòa Nagakawa Inverter 9000Btu NIS-C09R2H08  
+  
+Máy Nước Nóng
+
+|
+
+# Máy Nước Nóng Centon WH8338E/EP 3.5KW - **Giao Toàn Quốc**
+
+|
+
+# Máy Nước Nóng Centon WH8338E/EP 3.5KW  
+  
+**2\. Trường hợp đặt tên sản phẩm không đúng theo cấu trúc:**
+
+**Phân loại**
+
+|
+
+**Tên sản phẩm không đạt chuẩn**
+
+|
+
+**Tên sản phẩm đạt chuẩn**  
+  
+---|---|---  
+  
+**Tên sản phẩm quá dài, trùng lặp**
+
+|
+
+(22-30kg) Đồ bộ baby cho bé gái mặc nhà/mặc ngủ đùi in 3D chất thun lạnh rất
+mát tay khi sờ, ko xù lông và bề mặt bóng loáng. Đồ bộ bé gái thun lạnh. Đồ bộ
+bé gái 30kg. Bé gái đồ bộ mặc nhà. Họa tiết: the powerpuff girls cuộc chiến
+của những cô gái siêu nhân - mèo kitty - thỏ melody.
+
+|
+
+**_Đồ bộ baby mặc nhà in 3D cho bé gái nhiều họa tiết (22-30 kg)_**  
+  
+**Tên sản phẩm quá ngắn không thể hiện rõ sản phẩm cần bán**
+
+|
+
+Giấy hình thú
+
+|
+
+**_Giấy note tròn hình thú No.95-52 (70 x 70 mm)_**  
+  
+**3\. Trường hợp tên sản phẩm chứa thông tin KHÔNG HỢP LỆ:**
+
+**Nội dung từ chối**
+
+|
+
+**Hợp lệ**
+
+|
+
+**Không hợp lệ**  
+  
+---|---|---  
+  
+Tên gian hàng
+
+|
+
+(Mũ) Nón Sinh Nhật Nhiều Mẫu Cho Bé, Phụ Kiện trang Trí Sinh Nhật
+
+|
+
+(Mũ) Nón Sinh Nhật Nhiều Mẫu Cho Bé, Phụ Kiện trang Trí Sinh Nhật **ABSHOP COM
+VN**  
+  
+Thông tin bảo hành
+
+|
+
+Máy hút chân không ditim Cao Cấp - tặng 10 túi hút 1 mặt nhám 17-25cm
+
+|
+
+Máy hút chân không ditim Cao Cấp - tặng 10 túi hút 1 mặt nhám 17-25cm - **Bảo
+hành 12 tháng**  
+  
+Thông tin mã giảm giá
+
+|
+
+Balo thời trang Hàn Quốc vải đi mưa
+
+|
+
+**Mã giảm 25K (GTOCT186703)** Balo thời trang Hàn Quốc vải đi mưa  
+  
+**4\. Tên sản phẩm cấu hình không được chứa giá trị của các sản phẩm lựa
+chọn:**
+
+**Tên sản phẩm cấu hình không hợp lệ**
+
+|
+
+**Tên sản phẩm có lựa chọn**
+
+|
+
+**Tên sản phẩm cấu hình hợp lệ**  
+  
+---|---|---  
+  
+Hộp bút chì màu Deli EC00308 - 12 Màu / 24 Màu
+
+|
+
+  * Hộp bút chì màu Deli EC00308 - **12 Màu**
+
+  * Hộp bút chì màu Deli EC00308 - **24 Màu**
+
+|
+
+**Hộp bút chì màu Deli EC00308**  
+  
+# Đầm ôm nữ thiết kế xếp ngực bản eo GUMAC DB331 - Đen / Be
+
+|
+
+  * # Đầm ôm nữ thiết kế xếp ngực bản eo GUMAC DB331 - **Đen**
+
+  * # Đầm ôm nữ thiết kế xếp ngực bản eo GUMAC DB331 - **Be**
+
+|
+
+# **Đầm ôm nữ thiết kế xếp ngực bản eo GUMAC DB331**  
+  
+____ II. QUY ĐỊNH KHI CHỈNH SỬA TÊN SẢN PHẨM
+
+Quy định này áp dụng trong trường hợp Nhà Bán thao tác chỉnh sửa tên của sản
+phẩm đang bán trên sàn TMĐT Tiki.
+
+  * Tên sản phẩm chỉnh sửa không được bổ sung hoặc gỡ bỏ các thông tin “Hàng chính hãng (Tất cả ngành hàng)/ Hàng nhập khẩu” (các sản phẩm thuộc ngành hàng: Laptop - Máy Vi Tính - Linh kiện/Máy Ảnh - Máy Quay Phim/Thiết Bị Số - Phụ Kiện Số/Điện Gia Dụng/Điện Tử - Điện Lạnh/Điện Thoại - Máy Tính Bảng).
+  * Tên sản phẩm chỉnh sửa không được bổ sung hoặc gỡ bỏ các thông tin “GIFT/Quà tặng/Quà tặng không bán/Quà tặng đi kèm.”
+
+  * Tên sản phẩm chỉnh sửa không được bổ sung thông tin liên quan đến việc khẳng định thương hiệu nhưng khác với trường thương hiệu hiện tại.
+  * Tên sản phẩm chỉnh sửa không được thay đổi tính chất ban đầu của sản phẩm (Thay đổi về màu sắc, dung tích, khối lượng, quà tặng, số lượng, model, mã sản phẩm,…)
+
+**Loại Nhà Bán** | **Hợp lệ** | **Không hợp lệ**  
+---|---|---  
+**Lý do** | **Nội dung từ chối**  
+Nhà Bán không có sản phẩm bán chung |
+
+  * Tên sản phẩm chỉnh sửa giữ nguyên bản chất so với sản phẩm đăng bán ban đầu.
+  * Chỉ điều chỉnh bổ sung thông tin nhằm làm rõ hơn về sản phẩm.
+
+|
+
+Tên sản phẩm chỉnh sửa hoàn toàn khác với sản phẩm đăng bán trước đó về tính
+chất, loại, mẫu sản phẩm.
+
+Ví dụ:
+
+  * _Trước chỉnh sửa:_ Áo sơ mi nữ **tay ngắn** GUMAC AC06009 cơ bản
+
+  * _Sau chỉnh sửa:_ Áo sơ mi nữ **tay dài** GUMAC AC06009 cơ bản
+
+  
+
+Ví dụ:
+
+  * _Trước chỉnh sửa:_ **Nước Xả Làm Mềm Vải** Comfort Chăm Sóc Dịu Nhẹ Cho Da Nhạy Cảm 3.8L + Tặng khăn tắm 75 x 150cm
+
+  * _Sau chỉnh sửa:_ **Nước Lau Sàn** Lifebuoy BotaniTECH Hương Tràm Trà & Khuynh Diệp Can 3.6L
+
+| Thông tin sản phẩm chưa đồng nhất, Nhà Bán cần chỉnh sửa/bổ sung thông tin
+trên tên/hình ảnh/mô tả của sản phẩm.  
+Nhà Bán có sản phẩm bán chung  – Multiple Source (Buy Box) |
+
+  * Tên sản phẩm chỉnh sửa giữ nguyên bản chất so với sản phẩm đăng bán ban đầu.
+  * Chỉ điều chỉnh bổ sung thông tin nhằm làm rõ hơn về sản phẩm.
+
+|
+
+Tên sản phẩm chỉnh sửa hoàn toàn khác với sản phẩm đăng bán trước đó về tính
+chất, loại, mẫu sản phẩm.
+
+  
+
+Ví dụ:
+
+  * _Trước chỉnh sửa:_ Áo sơ mi nữ **tay ngắn** GUMAC AC06009 cơ bản
+
+  * _Sau chỉnh sửa:_ Áo sơ mi nữ **tay dài** GUMAC AC06009 cơ bản
+
+  
+
+Ví dụ:
+
+  * _Trước chỉnh sửa:_ **Nước Xả Làm Mềm Vải** Comfort Chăm Sóc Dịu Nhẹ Cho Da Nhạy Cảm 3.8L + Tặng khăn tắm 75 x 150cm
+
+  * _Sau chỉnh sửa:_ **Nước Lau Sàn** Lifebuoy BotaniTECH Hương Tràm Trà & Khuynh Diệp Can 3.6L
+
+|
+
+Thông tin sản phẩm chưa đồng nhất, Nhà Bán cần chỉnh sửa/bổ sung thông tin
+trên tên/hình ảnh/mô tả của sản phẩm.  
+  
+____ III. HÌNH THỨC XỬ LÝ VI PHẠM
+
+Nếu sản phẩm có dấu hiệu vi phạm thông tin sản phẩm đăng bán, căn cứ mục 2.5 –
+Bảng nội dung vi phạm và các hình thức xử lý vi phạm của Nhà Bán Hàng trên SGD
+TMĐT Tiki.vn, sản phẩm sẽ bị khóa và gửi thông báo đến Nhà Bán.
+
+Để được hỗ trợ mở khóa sản phẩm, Nhà Bán truy cập **Seller Center > Sản phẩm >
+Danh sách sản phẩm.** Nhà Bán thực hiện thay đổi thông tin hợp lệ và bấm **Cập
+nhật** để hoàn tất. Sau khi điều chỉnh, Nhà Bán vui lòng phản hồi lại email
+thông báo xử lý vi phạm hoặc gửi email về hộp thư hotrodoitac@tiki.vn để Tiki
+kiểm tra và mở khóa nếu đủ điều kiện.
+
+Lưu ý:
+
+  * Trong khi sản phẩm đang bị khóa, Khách hàng sẽ không thể tìm thấy sản phẩm này tại gian hàng của Nhà Bán. Tuy nhiên, Nhà Bán vẫn có thể nhìn thấy và điều chỉnh sản phẩm tại Seller Center để được hỗ trợ hiển thị lại bình thường. 
+
+  * Để có thể cập nhật tên sản phẩm của chính Nhà Bán khi chọn đăng sản phẩm có sẵn, sau khi sản phẩm được Tiki xét duyệt, Nhà Bán cập nhật tên sản phẩm hợp lệ. Đồng thời Nhà Bán có thể khiếu nại các Nhà Bán vi phạm đến Bộ phận Hỗ trợ đối tác của Tiki qua email: hotrodoitac@tiki.vn.
+
+Nội dung này có hữu ích với bạn không?
+
+  * __
+  * __
+  * __
+  * __
+  * __
+
+Gửi đánh giá
+
+Đánh giá trung bình: 4.9 / 5. Số lượt đánh giá: 9
+
+Nếu bạn thấy nội dung này hữu ích...
+
+Hãy chia sẻ ngay với bạn bè nhé!
+
+Ôi 🙁
+
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+
+Gửi phản hồi
+
+## Về Tiki
+
+## Theo dõi chúng tôi trên
+
+## Hỗ trợ Nhà Bán
+
+## Tải ứng dụng bán hàng
+
+Tiki
+
+Trung Tâm Bán Hàng
+
+__
+
+YouTube Tiki University Official
+
+__
+
+Cộng Đồng Nhà Bán Hàng Tiki
+
+__
+
+19006034 (8h - 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+
+__
+
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường
+12, Quận 10, Thành phố Hồ Chí Minh
+
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư
+Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+
+© 2022 - Bản quyền của Công ty TNHH Ti Ki.
+
