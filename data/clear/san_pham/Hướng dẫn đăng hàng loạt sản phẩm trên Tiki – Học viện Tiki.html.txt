@@ -1,0 +1,176 @@
+
+
+Freeship Không Giới Hạn Phí lưu kho và phí rút hàng FBT Hoàn tiền nhanh ASTRA+
+Flash sale
+
+__Tham gia Lớp học cho Nhà Bán
+
+  * Trang chủ
+  * Hướng dẫn bán hàng __
+    * Cơ bản
+    * Nâng cao
+    * Chuyên nghiệp
+    * Dành cho Nhà Bán NGON
+    * Quy định & Chính sách
+  * Bí quyết bán hàng
+  * Giải pháp quảng cáo __
+    * Tiki Ads - Công cụ quảng cáo
+    * Tiki Affiliate - Tiếp thị liên kết
+    * Tiki Engagement - Tương tác khách hàng
+  * Liên hệ
+  * Cross-border Sellers __
+    * Basic
+    * Intermediate
+    * Advanced
+    * Policies
+
+X
+
+## Đăng tải sản phẩm
+
+## Hướng dẫn tạo sản phẩm hàng loạt
+
+  * ● Hướng dẫn tạo và quản lý sản phẩm
+  * ● Hướng dẫn tạo sản phẩm hàng loạt
+  * ● Hướng dẫn cài đặt giá sản phẩm
+  * ● Hướng dẫn cài đặt số lượng sản phẩm tối thiểu/tối đa trong giỏ hàng của khách hàng
+  * ● Hướng dẫn tạo sản phẩm quà tặng (Gift)
+  * ● Hướng dẫn cập nhật kích thước và khối lượng sản phẩm
+  * ● Hướng dẫn sao chép sản phẩm từ sàn khác
+  * ● Hướng dẫn xử lý khi Nhà Bán bị xâm phạm quyền sở hữu trí tuệ
+
+Khi đăng bán sản phẩm, Nhà Bán có trách nhiệm đảm bảo rằng tất cả sản phẩm của
+mìnhđều tuân thủ đúng quy định và chính sách đăng bán của Tiki.
+
+Thao tác chuẩn bị các giấy tờ, tài liệu, hồ sơ pháp lý của Nhà Bán và sản phẩm
+đầy đủ và đúng luôn là yếu tố tiên quyết cũng như ảnh hưởng khá nhiều đến quá
+trình đăng sản phẩm lên sàn TMĐT Tiki.
+
+Việc đăng sản phẩm lên Tiki khi bán hàng số lượng sản phẩm lớn và sản phẩm có
+nhiều phân loại hàng trở nên dễ dàng hơn cho Nhà Bán với tính năng đăng sản
+phẩm hàng loạt.
+
+Đăng sản phẩm hàng loạt giúp Nhà Bán có số lượng sản phẩm lớn hoặc sản phẩm có
+nhiều phân loại hàng sẽ tiết kiệm thời gian hơn so với đăng từng sản phẩm.
+
+____ I. LƯU Ý KHI ĐĂNG SẢN PHẨM
+
+Để sản phẩm được duyệt nhanh chóng nhất, Nhà Bán lưu ý:
+
+  * Điền **chính xác** các thông tin sản phẩm bắt buộc;
+
+  * Chọn **đúng ngành hàng** **;**
+
+  * Cung cấp **đầy đủ** **** hồ sơ sản phẩm;
+
+  * Đảm bảo **hình ảnh** và **nội dung** sản phẩm tuân theo quy định về hình ảnh và nội dung sản phẩm của SGD TMĐT Tiki.vn
+
+____ II. QUY TRÌNH DUYỆT SẢN PHẨM
+
+**Lưu ý:**
+
+  * Thời gian duyệt hồ sơ sản phẩm và hồ sơ thương hiệu (đối với sản phẩm loại II) là 48 giờ;
+
+  * Thời gian duyệt hình ảnh và nội dung là 48 giờ;
+
+  * Việc thiếu hồ sơ, tài liệu hoặc nội dung, hình ảnh không đảm bảo sẽ kéo dài thời gian đăng bán sản phẩm.
+
+____ III. HƯỚNG DẪN ĐĂNG SẢN PHẨM HÀNG LOẠT
+
+Bước 1: Tại Seller Center, Nhà Bán chọn **Sản phẩm > Tạo mới / Cập nhật sản
+phẩm hàng loạt >** **Nhập hàng loạt,** chọn hình thức đăng bán:
+
+  * Tạo mới sản phẩm
+
+  * Đăng bán sản phẩm có sẵn trên Tiki
+
+Bước 2: Tại tab **Tập tin mẫu,** chọn một danh mục để tải về file mẫu.
+
+Bước 3: Nhà Bán cập nhật nội dung file Excel vừa tải xuống. Trong trường hợp
+sản phẩm có nhiều kho hàng, Nhà Bán nhập số lượng tồn của mỗi kho (vị trí theo
+thứ tự từ trái sang phải) và cách nhau bằng dấu phẩy ở cột **Số lượng tồn
+kho.**
+
+Lưu ý: Chỉ áp dụng với mô hình vận hành là SD, Dropship.
+
+Để lấy mã kho, Nhà Bán chọn **Thông tin nhà bán > Chi tiết > Thông tin kho
+hàng, mô hình vận hành và liên lạc > **Chọn **mã kho lấy hàng** có trạng thái
+**Bật.**
+
+Bước 4: Sau khi đã điền đủ thông tin vào mẫu file, Nhà Bán lưu file đã cập
+nhật và bấm kéo thả vào ô để tải lên hệ thống.
+
+Bước 5: Kiểm tra kết quả đăng bằng cách truy cập vào **Sản phẩm > Tạo mới /
+Cập nhật sản phẩm hàng loạt >** Chọn **Xem kết quả** để theo dõi trạng thái
+cập nhật.
+
+____ IV. HƯỚNG DẪN YÊU CẦU DUYỆT HÀNG LOẠT
+
+Bước 1: Chọn mục **Danh sách sản phẩm > Nháp.**
+
+Bước 2: Chọn các sản phẩm cần yêu cầu duyệt, bấm **Gửi duyệt hàng loạt.**
+
+Lưu ý:
+
+  * Các sản phẩm không duyệt được (lỗi) sẽ dòng chữ đỏ.
+
+  * **Các lỗi thường gặp khi yêu cầu duyệt sản phẩm: Sản phẩm không thoả yêu cầu về tài liệu danh mục, hình ảnh, thương hiệu.**
+
+Nội dung này có hữu ích với bạn không?
+
+  * __
+  * __
+  * __
+  * __
+  * __
+
+Gửi đánh giá
+
+Đánh giá trung bình: 5 / 5. Số lượt đánh giá: 5
+
+Nếu bạn thấy nội dung này hữu ích...
+
+Hãy chia sẻ ngay với bạn bè nhé!
+
+Ôi 🙁
+
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+
+Gửi phản hồi
+
+## Về Tiki
+
+## Theo dõi chúng tôi trên
+
+## Hỗ trợ Nhà Bán
+
+## Tải ứng dụng bán hàng
+
+Tiki
+
+Trung Tâm Bán Hàng
+
+__
+
+YouTube Tiki University Official
+
+__
+
+Cộng Đồng Nhà Bán Hàng Tiki
+
+__
+
+19006034 (8h - 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+
+__
+
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường
+12, Quận 10, Thành phố Hồ Chí Minh
+
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư
+Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+
+© 2022 - Bản quyền của Công ty TNHH Ti Ki.
+

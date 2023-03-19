@@ -1,0 +1,251 @@
+
+
+Freeship Không Giới Hạn Phí lưu kho và phí rút hàng FBT Hoàn tiền nhanh ASTRA+
+Flash sale
+
+__Tham gia Lớp học cho Nhà Bán
+
+  * Trang chủ
+  * Hướng dẫn bán hàng __
+    * Cơ bản
+    * Nâng cao
+    * Chuyên nghiệp
+    * Dành cho Nhà Bán NGON
+    * Quy định & Chính sách
+  * Bí quyết bán hàng
+  * Giải pháp quảng cáo __
+    * Tiki Ads - Công cụ quảng cáo
+    * Tiki Affiliate - Tiếp thị liên kết
+    * Tiki Engagement - Tương tác khách hàng
+  * Liên hệ
+  * Cross-border Sellers __
+    * Basic
+    * Intermediate
+    * Advanced
+    * Policies
+
+X
+
+## Công cụ khuyến mãi
+
+## Hướng dẫn sử dụng tính năng Ưu đãi Follower
+
+  * ● Quy định về việc tăng giá trước khuyến mãi
+  * ● Hướng dẫn cài đặt Mã giảm giá (Coupon)
+  * ● Hướng dẫn đăng ký và quản lý chương trình Flash Sale
+  * ● Hướng dẫn đăng ký và quản lý chương trình Deal ngành hàng (Category Deal)
+  * ● Hướng dẫn cài đặt Giảm giá sản phẩm
+  * ● Hướng dẫn cài đặt Giảm giá vận chuyển
+  * ● Hướng dẫn cài đặt Chương trình quà tặng
+  * ● Hướng dẫn cài đặt Mua kèm giảm thêm
+  * ● Hướng dẫn sử dụng tính năng Combo khuyến mãi
+  * ● Hướng dẫn sử dụng tính năng Ưu đãi Follower​
+  * ● Hướng dẫn sử dụng công cụ Chiến dịch săn Astra
+  * ● Hướng dẫn tham gia chương trình Chia Sẻ Có Lời dành cho Nhà Bán
+
+**Ưu đãi Follower** là một công cụ khuyến khích khách hàng bấm theo dõi gian
+hàng để nhận được các mã giảm giá từ Nhà Bán.
+
+**Lợi ích:**
+
+  * Tăng lượng truy cập và người theo dõi cho gian hàng.
+
+  * Tăng độ tin cậy khi gian hàng được nhiều người theo dõi.
+
+  * Nhà Bán dễ dàng quảng bá các thông tin sản phẩm, chương trình khuyến mãi mới nhất đến khách hàng thông qua Tiki Creative Studio.
+
+____ I. CÁCH THỨC HOẠT ĐỘNG CỦA ƯU ĐÃI FOLLOWER
+
+**1\. Điều kiện áp dụng:**
+
+Khách hàng cần đạt đủ 2 tiêu chí để nhận được mã giảm giá từ Nhà Bán:
+
+  * Chưa từng theo dõi gian hàng trước khi chương trình Ưu đãi follower diễn ra.
+
+  * Bấm **Theo dõi** trên trang chủ gian hàng trong thời gian diễn ra chương trình (áp dụng trên website Tiki và App Tiki).
+
+**2\. Cách nhận mã ưu đãi follower:**
+
+  * **Giao diện Web: Khách hàng bấm nút Theo dõi cạnh tên gian hàng hoặc trong popup dưới cuối trang.**
+
+  * **Giao diện App: Khách hàng bấm nút Theo dõi dưới mục Chat hoặc trong popup dưới cuối trang.**
+
+**Lưu ý:** Hiện tại, Ưu đãi follower **chưa áp dụng** cho các khách hàng bấm
+nút **Theo dõi** tại các vị trí không nằm trên trang chủ của gian hàng.
+
+____ II. HƯỚNG DẪN TẠO ƯU ĐÃI FOLLOWER
+
+Bước 1: Truy cập vào Seller Center, chọn **Trung tâm Marketing > Công cụ
+khuyến mãi >** **Ưu đãi follower.**
+
+Bước 2: Chọn **Tạo ưu đãi cho follower.**
+
+Bước 3: Điền đầy đủ **các thông tin cơ bản.**
+
+**1\. Tên ưu đãi: Nhà Bán đặt tên của chương trình ưu đãi. Tên này sẽ không
+hiển thị với Khách hàng. _Tiki gợi ý Nhà Bán nên đặt tên này sao cho dễ nhớ và
+dễ quản lý._**
+
+**2\. Loại giảm giá: Có 2 lựa chọn:**
+
+  * **Theo số tiền:** Giảm giá theo số tiền cụ thể. Tối thiểu: 5.000đ; Tối đa: 30.000.000đ.
+
+  * **Theo phần trăm:** Giảm giá theo phần trăm tương ứng với giá sản phẩm. Tối thiểu: 2%; Tối đa: 99%.
+
+**3\. Giá trị đơn hàng tối thiểu: Có 2 lựa chọn:**
+
+  * **Không giới hạn:** Khách hàng được áp dụng mã giảm giá cho tất cả giá trị đơn hàng.
+
+  * **Giá trị đơn hàng tối thiểu:** Giới hạn giá trị tối thiểu của đơn hàng để được áp dụng mã giảm giá.
+
+**4\. Số lượng ưu đãi: Có 2 lựa chọn:**
+
+  * **Không giới hạn:** Không giới hạn tổng số lượng mã giảm giá được khách hàng sử dụng trên toàn gian hàng trong suốt thời gian hiệu lực của chương trình.
+
+  * **Giới hạn số lần sử dụng tối đa:** Nhà Bán nhập số mã giảm giá tối đa trên toàn gian hàng. Tối thiểu: 1; Tối đa: 99999999.
+
+**5\. Thời gian hiệu lực: Cài đặt thời gian bắt đầu và thời gian kết thúc của
+chương trình ưu đãi (giờ, ngày, tháng, năm). Khoảng thời gian hiệu lực của
+chương trình ưu đãi không vượt quá 6 tháng.**
+
+**Ngày hết hạn (dành cho khách hàng):** 07 ngày kể từ thời điểm chương trình
+ưu đãi kết thúc. Ví dụ: Nhà Bán cài đặt ngày kết thúc là 01/01/2022 thì mã
+giảm giá khách hàng nhận được sẽ có hiệu lực đến ngày 08/01/2022.
+
+Sau khi hoàn tất thông tin, bấm **Tạo mới.**
+
+**Lưu ý:**
+
+  * Trong thời gian hiệu lực của chương trình, mã giảm giá có giá trị sử dụng cho tất cả sản phẩm tại gian hàng.
+
+  * Mỗi mã giảm giá đã phát ra cho khách hàng chỉ có giá trị sử dụng duy nhất 1 lần.
+
+____ III. HƯỚNG DẪN CHỈNH SỬA ƯU ĐÃI FOLLOWER
+
+Trên trang chủ của tính năng, Nhà Bán có thể theo dõi danh sách các chương
+trình đã tạo, tình trạng hiện tại của chương trình (đã được kích hoạt hay
+chưa, số người theo dõi gian hàng nhờ chương trình này là bao nhiêu, số ưu đãi
+đã được khách hàng sử dụng là bao nhiêu…).
+
+Nhà Bán có thể chỉnh sửa khi chương trình ở trạng thái **Sắp diễn ra** hoặc
+**Đang diễn ra** , cụ thể:
+
+**Trạng thái**
+
+|
+
+**Ý nghĩa**
+
+|
+
+**Thao tác Nhà Bán có thể thực hiện**  
+  
+---|---|---  
+  
+Sắp diễn ra
+
+|
+
+Ưu đãi đã được tạo và đang chờ đến thời gian chạy
+
+|
+
+  * Tăng số lượng ưu đãi.
+
+  * Thay đổi thời gian kết thúc ưu đãi: Sớm hoặc muộn hơn so với thời gian cài đặt trước đó.
+
+  * Hủy chương trình ưu đãi
+
+  
+  
+Đang diễn ra
+
+|
+
+Ưu đãi đang trong thời gian chạy  
+  
+Nhà Bán thao tác như sau:
+
+Bước 1: Truy cập vào Seller Center, chọn **Trung tâm Marketing > Công cụ
+khuyến mãi >** **Ưu đãi follower > **Bấm vào **tên ưu đãi** đã tạo.
+
+Bước 2: Tại trang chi tiết, Nhà Bán cập nhật các thông tin và bấm **Chỉnh
+sửa**.
+
+Trong trường hợp muốn hủy chương trình ưu đãi (đang diễn ra hoặc sắp diễn ra),
+trên giao diện màn hình tại bước 1, Nhà Bán tìm ưu đãi muốn hủy, tại cột
+**Thao tác** tương ứng, chọn **Kết thúc** , sau đó nhấn xác nhận để kết thúc
+chương trình ưu đãi.
+
+**Lưu ý:** Trong trường hợp Nhà Bán gia hạn hoặc kết thúc sớm một chương trình
+ưu đãi follower ở trạng thái Đang diễn ra, các mã giảm giá đã phát ra cho
+khách hàng sẽ có hạn sử dụng là 07 ngày **kể từ thời điểm kết thúc thực tế**
+của chương trình ưu đãi.
+
+💡 Tiki có đa dạng các công cụ Marketing để hỗ trợ Nhà Bán đạt được mục tiêu
+kinh doanh của mình.  
+  
+Quý Nhà Bán hãy tham gia lớp học trực tuyến **Kinh doanh hiệu quả - Tối ưu
+doanh số dành cho Mọi Nhà Bán** do chuyên gia của Tiki University giảng dạy để
+nắm được cách phối hợp các công cụ marketing tối ưu cho việc kinh doanh.
+
+Đăng ký tham gia TẠI ĐÂY!
+
+Nội dung này có hữu ích với bạn không?
+
+  * __
+  * __
+  * __
+  * __
+  * __
+
+Gửi đánh giá
+
+Đánh giá trung bình: 5 / 5. Số lượt đánh giá: 7
+
+Nếu bạn thấy nội dung này hữu ích...
+
+Hãy chia sẻ ngay với bạn bè nhé!
+
+Ôi 🙁
+
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+
+Gửi phản hồi
+
+## Về Tiki
+
+## Theo dõi chúng tôi trên
+
+## Hỗ trợ Nhà Bán
+
+## Tải ứng dụng bán hàng
+
+Tiki
+
+Trung Tâm Bán Hàng
+
+__
+
+YouTube Tiki University Official
+
+__
+
+Cộng Đồng Nhà Bán Hàng Tiki
+
+__
+
+19006034 (8h - 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+
+__
+
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường
+12, Quận 10, Thành phố Hồ Chí Minh
+
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư
+Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+
+© 2022 - Bản quyền của Công ty TNHH Ti Ki.
+

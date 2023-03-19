@@ -1,0 +1,364 @@
+
+
+Freeship Không Giới Hạn Phí lưu kho và phí rút hàng FBT Hoàn tiền nhanh ASTRA+
+Flash sale
+
+__Tham gia Lớp học cho Nhà Bán
+
+  * Trang chủ
+  * Hướng dẫn bán hàng __
+    * Cơ bản
+    * Nâng cao
+    * Chuyên nghiệp
+    * Dành cho Nhà Bán NGON
+    * Quy định & Chính sách
+  * Bí quyết bán hàng
+  * Giải pháp quảng cáo __
+    * Tiki Ads - Công cụ quảng cáo
+    * Tiki Affiliate - Tiếp thị liên kết
+    * Tiki Engagement - Tương tác khách hàng
+  * Liên hệ
+  * Cross-border Sellers __
+    * Basic
+    * Intermediate
+    * Advanced
+    * Policies
+
+X
+
+## Công cụ khuyến mãi
+
+## Hướng dẫn cài đặt Giảm giá vận chuyển
+
+  * ● Quy định về việc tăng giá trước khuyến mãi
+  * ● Hướng dẫn cài đặt Mã giảm giá (Coupon)
+  * ● Hướng dẫn đăng ký và quản lý chương trình Flash Sale
+  * ● Hướng dẫn đăng ký và quản lý chương trình Deal ngành hàng (Category Deal)
+  * ● Hướng dẫn cài đặt Giảm giá sản phẩm
+  * ● Hướng dẫn cài đặt Giảm giá vận chuyển
+  * ● Hướng dẫn cài đặt Chương trình quà tặng
+  * ● Hướng dẫn cài đặt Mua kèm giảm thêm
+  * ● Hướng dẫn sử dụng tính năng Combo khuyến mãi
+  * ● Hướng dẫn sử dụng tính năng Ưu đãi Follower​
+  * ● Hướng dẫn sử dụng công cụ Chiến dịch săn Astra
+  * ● Hướng dẫn tham gia chương trình Chia Sẻ Có Lời dành cho Nhà Bán
+
+Phí vận chuyển có khả năng tác động rất lớn đến quyết định mua hàng trực tuyến
+của khách hàng. Nhiều khách hàng đã bỏ sản phẩm vào giỏ hàng nhưng vẫn đắn đo
+chưa ra quyết định mua do chi phí vận chuyển chưa phù hợp với túi tiền của họ.
+
+Hiểu được điều đó, Tiki đã ra mắt tính năng **Giảm giá vận chuyển** (Theo sản
+phẩm và theo giá trị đơn hàng) khách hàng, giúp tăng tỷ lệ ra đơn hàng.
+
+____ I. HƯỚNG DẪN CÀI ĐẶT GIẢM GIÁ VẬN CHUYỂN
+
+**Bước 1:** Nhà Bán truy cập vào **Trung tâm Marketing > Công cụ khuyến mãi >
+**Chọn **Giảm giá vận chuyển.**
+
+Chọn **Tạo giảm giá.**
+
+**Bước 2:** Cài đặt các thông số của mã giảm giá vận chuyển.
+
+**1\. Tên khuyến mãi: Nhà Bán đặt tên của mã giảm giá. Tên này sẽ không hiển
+thị với Khách hàng. Tiki gợi ý Nhà Bán nên đặt tên này sao cho dễ nhớ và dễ
+quản lý.**
+
+******2\. Sản phẩm áp dụng:** Có 2 lựa chọn:
+
+  * **Tất cả sản phẩm:** Cài giảm giá cho toàn bộ sản phẩm của gian hàng.
+
+  * **Danh mục cụ thể:** Chỉ cài giảm giá cho các sản phẩm thuộc danh mục.
+  * **Sản phẩm cụ thể:** Chỉ cài giảm giá cho các sản phẩm nhất định (tối đa 1000 sản phẩm /lần) theo 1 trong 2 hình thức: 
+
+    * **Tùy chọn từng sản phẩm:** Nhấn **C** **họn sản phẩm** để thêm sản phẩm cụ thể > Bấm **Lưu**.
+
+  *     * **Tải lên danh sách sản phẩm:** Chọn **Tải về bản mẫu** để tải file Excel về máy tính, Nhà Bán điền thông tin và tải lên danh sách sản phẩm bằng cách bấm chọn hoặc kéo thả file vừa điền vào cửa sổ tải lên, sau đó bấm **Lưu** để hoàn tất **.**
+
+**3\. Hình thức giảm giá: Có 2 lựa chọn:**
+
+  * **100% giảm giá:** Giảm toàn bộ phí vận chuyển.
+
+  * **Tùy chọn và điền số tiền giảm giá vào ô bên dưới:** Giảm một phần chi phí. Lưu ý số tiền phải chia hết cho 1.000đ.
+
+**4\. Giá trị đơn hàng tối thiểu:** Có 2 lựa chọn:
+
+  * **Không ràng buộc:** Giảm cho bất kỳ giá trị đơn hàng.
+
+  * **Tùy chọn:** Quy định giá trị đơn hàng tối thiểu được áp dụng giảm giá.
+
+**5\. Phương thức vận chuyển:** Các phương thức vận chuyển được áp dụng giảm
+giá phí vận chuyển (TikiFAST - Giao Tiết Kiệm, TikiNOW - Giao Siêu Tốc 2H,
+TikiPRO - Chọn Giờ Giao Lắp).
+
+**6\. Số lượng đơn hàng áp dụng khuyến mãi**
+
+  * **Không giới hạn:** Không giới hạn số lượng sử dụng.
+
+  * **Tùy chọn:** Nhà Bán nhập số lần sử dụng tối đa áp dụng giảm giá vận chuyển.
+
+**7\. Thời gian áp dụng:** Cài đặt thời gian bắt đầu và thời gian kết thúc của
+giảm giá (giờ, ngày, tháng, năm).
+
+**Lưu ý:**
+
+  * Nhà Bán không thể **thay đổi/chỉnh sửa** thông số này sau khi cài đặt.
+
+  * Số lượng đơn hàng có áp dụng giảm giá vận chuyển sẽ được trừ dần khi có đơn hàng phát sinh thỏa điều kiện, hệ thống **sẽ tự tắt** khi hết số lượng đơn hàng được cài đặt.
+
+**Bước 3:** Kiểm tra lại thông tin giảm giá
+
+**1\. Điều kiện áp dụng** | **2\. Hiển thị trên trang sản phẩm chi tiết (Dữ
+liệu giả định)**  
+---|---  
+|  
+  
+**Bước 4:** Sau khi kiểm tra tất cả các thông tin của mã giảm giá, bấm **Tạo
+mới** để hoàn tất.
+
+  * Nếu phát hiện sai sót, thoát màn hình này và quay lại chỉnh sửa mã giảm giá.
+
+  * Chọn **Tạo mới** nếu Nhà Bán thấy các điều kiện Mã giảm giá đã được cài đặt.
+
+**Bước 5:** Mã giảm giá vận chuyển tạo thành công sẽ nằm tại trang **Danh sách
+khuyến mãi.**
+
+____ II. HƯỚNG DẪN CHỈNH SỬA GIẢM GIÁ VẬN CHUYỂN
+
+Nhà Bán có thể chỉnh sửa khi chương trình ở trạng thái **Sắp diễn ra** hoặc
+**Đang diễn ra** , cụ thể:
+
+**Trạng thái**
+
+|
+
+**Ý nghĩa**
+
+|
+
+**Thao tác Nhà Bán có thể thực hiện**  
+  
+---|---|---  
+  
+Sắp diễn ra
+
+|
+
+Giảm giá đã được tạo và đang chờ đến thời gian chạy
+
+|
+
+  * Thay đổi tất cả các thông tin và điều kiện (ngoại trừ mục Sản phẩm áp dụng và Số lượng đơn hàng áp dụng khuyến mãi).
+
+  * Hủy/Sao chép chương trình.
+
+  
+  
+Đang diễn ra
+
+|
+
+Giảm giá đang trong thời gian chạy
+
+|
+
+  * Thay đổi tên chương trình và thời gian kết thúc ưu đãi: Sớm hoặc muộn hơn so với thời gian cài đặt trước đó.
+
+  * Hủy/Sao chép chương trình.
+
+  
+  
+Nhà Bán thao tác như sau:
+
+**Bước 1:** Truy cập vào Seller Center, chọn **Trung tâm Marketing > Công cụ
+khuyến mãi >** **Giảm giá vận chuyển > **Tại cột Thao tác, chọn **Chỉnh sửa.**
+
+**Bước 2:** Tại trang chi tiết, Nhà Bán cập nhật các thông tin và bấm **Chỉnh
+sửa**.
+
+Trong trường hợp muốn tắt chương trình, trên giao diện màn hình tại bước 1,
+Nhà Bán tìm mã giảm giá vận chuyển muốn tắt, tại cột **Thao tác** , bấm **Kết
+thúc.**
+
+____ III. LƯU Ý
+
+1\. Nếu Nhà Bán không cài đặt phí vận chuyển, hệ thống sẽ tự động tính 100%
+phí vận chuyển cho Khách hàng.
+
+2\. Sản phẩm thuộc nhiều quy tắc giảm giá vận chuyển, hệ thống sẽ giảm giá
+theo thứ tự ưu tiên bên dưới và cộng dồn các giá trị giảm giá cho Khách hàng.
+Theo thứ tự ưu tiên như sau:
+
+  * Bước 1: Giảm giá dựa trên quy tắc giảm giá theo sản phẩm (SSKU). 
+
+  * Bước 2: Giảm giá dựa trên quy tắc giảm giá theo giá trị đơn hàng.
+
+3\. Khi đơn hàng có nhiều SSKU mà các sản phẩm đó có cài đặt giảm giá vận
+chuyển riêng biệt và khác nhau thì giảm giá cho Khách hàng được tính bằng cách
+cộng gộp phí giảm trên từng SSKU lại với nhau.
+
+4\. Nhà Bán có thể cài chương trình giảm giá vận chuyển cho toàn gian hàng.
+
+5\. Nếu đơn hàng thỏa mãn cả chiến dịch giảm giá phí vận chuyển của cả Tiki và
+Nhà Bán thì phí vận chuyển của đơn hàng sẽ được tính theo thứ tự: Trừ phí giảm
+giá của Nhà Bán trước, sau đó trừ phí giảm giá chiến dịch do Tiki trợ giá nếu
+đủ điều kiện.
+
+6\. Khi Nhà Bán tạo 3 chiến dịch giảm giá phí vận chuyển theo giá trị đơn hàng
+bị trùng nhau và chạy song song cả 3 chiến dịch, thì hệ thống sẽ báo lỗi và
+không thể khởi tạo được chiến dịch mới có cùng nội dung.
+
+7\. Số SSKU tối đa cho một chiến dịch giảm giá **không quá 200 SKU.**
+
+8\. Công cụ cài đặt giảm giá vận chuyển được áp dụng cho tất cả các mô hình
+vận hành.
+
+____ IV. CÂU HỎI THƯỜNG GẶP
+
+**1\. Cách tính phí vận chuyển cho khách hàng như thế nào ?**
+
+  * **Trường hợp 1:** Sản phẩm chỉ thuộc một quy tắc giảm giá phí vận chuyển duy nhất, hệ thống sẽ giảm giá theo thông tin Nhà Bán đã cài đặt trên hệ thống.
+
+  * **Trường hợp 2:** Sản phẩm thuộc nhiều quy tắc giảm giá phí vận chuyển, hệ thống sẽ giảm giá theo thứ tự ưu tiên bên dưới, và cộng dồn các giá trị giảm giá cho Khách Hàng. Thứ tự ưu tiên: 
+
+    * Bước 1: Giảm giá dựa trên quy tắc giảm giá theo sản phẩm (SSKU) 
+
+    * Bước 2: Giảm giá dựa trên quy tắc giảm giá theo giá trị đơn hàng
+
+_Ví dụ: Nhà Bán cài đặt 2 quy tắc giảm giá phí vận chuyển:_
+
+  * Quy tắc 1: Giảm 100% phí vận chuyển cho sản phẩm A (giá bán 240k)
+
+  * Quy tắc 2: Giảm 10k phí vận chuyển cho đơn hàng có giá trị trên 250k
+
+Khách hàng đặt một đơn hàng giá trị 300k bao gồm:
+
+  * Sản phẩm A trị giá 240k. Phí vận chuyển là 40k. 
+
+  * Sản phẩm B trị giá 60k. Phí vận chuyển là 14k.
+
+Khi đó, Phí vận chuyển Khách hàng phải trả: (40k + 14k) – (40k + 10k) = 4k.
+
+**2\. Nhà Bán có thể cài đặt giảm giá vận chuyển theo TỔNG số lượng sản phẩm
+trong 1 đơn hàng được không?**
+
+Nhà Bán chỉ có thể cài đặt giảm phí vận chuyển theo từng sản phẩm hoặc từng
+đơn hàng.
+
+**3\. Trường hợp Nhà Bán có cài đặt 2 chương trình giảm giá vận chuyển theo
+từng sản phẩm và giảm theo giá trị đơn hàng. Vậy nếu phát sinh đơn hàng thỏa
+mãn cả 2 điều kiện trên thì phí vận chuyển sẽ được tính như thế nào?**
+
+Phí vận chuyển được giảm cho khách hàng sẽ cộng gộp 2 nguyên tắc giảm phí này.
+
+Ví dụ: Nhà Bán cài đặt SSKU A giảm 10.000đ. Và quy định đơn hàng từ 200.000đ
+trở lên được giảm 20.000đ phí vận chuyển. Khách hàng đặt đơn hàng có chứa SKU
+A và đơn hàng > 200.000đ.
+
+Cách tính như sau:
+
+  * **Về phía Khách hàng:** Khách hàng được giảm 30.000đ phí vận chuyển.
+
+  * **Về phía Nhà Bán:** Nhà Bán hỗ trợ giảm 30.000đ phí vận chuyển này và ở kỳ sao kê Tiki thu lại từ Nhà Bán 30.000đ này.
+
+**4\. SSKU tham gia mô hình vận hành Dropship thì có được cài đặt giảm phí vận
+chuyển theo phương thức giao hàng không?**
+
+Bất cứ mô hình vận hành nào thì Nhà Bán đều có thể tham gia cài đặt miễn phí
+vận chuyển.
+
+**5\. Nhà Bán có thể cập nhật giảm hàng loạt/ theo file được không?**
+
+Hiện tại chưa thể cài đặt phí vận chuyển giảm hàng loạt/ theo file. Tiki đang
+tiến hành cập nhật thêm tính năng này trong thời gian sắp tới.
+
+**6\. Nếu đơn hàng thỏa mãn cả chương trình giảm giá phí vận chuyển của Tiki
+và chương trình phí vận chuyển của Nhà Bán thì sẽ áp dụng theo chương trình
+nào?**
+
+Phí vận chuyển của đơn hàng sẽ được tính theo thứ tự: Trừ phí giảm giá của Nhà
+Bán trước, sau đó trừ phí giảm của chương trình Tiki trợ giá nếu đủ điều kiện.
+
+**7\. Một đơn hàng có 2 SSKU: 1 SSKU giảm 10k và 1 SSKU giảm 20k. Vậy khi đơn
+hàng phát sinh phí vận chuyển sẽ được tính như thế nào?**
+
+Phí vận chuyển được giảm cho Khách hàng được tính bằng cách cộng gộp phí giảm
+trên từng SSKU lại với nhau.
+
+Ví dụ: SSKU A: Giảm 10.000đ phí vận chuyển, SSKU B giảm 20.000đ phí vận chuyển
+>> Khách hàng sẽ được giảm 30.000đ phí vận chuyển.
+
+**8\. SSKU A đang chạy 1 chiến dịch giảm phí vận chuyển (từ ngày 1/1 – 10/1),
+nếu Nhà Bán muốn tạo thêm 1 chiến dịch giảm phí vận chuyển thứ 2 trên SSKU này
+từ ngày 8/1 – 15/1, thì khi Nhà Bán thao tác tạo deal, hệ thống có cảnh báo
+cho Nhà Bán biết SSKU này đang có 1 chiến dịch khác đang chạy không?**
+
+Hiện tại hệ thống chưa cảnh báo nên Nhà Bán cần chủ động kiểm tra các chiến
+dịch đã bật trước khi tiến hành tạo thêm chiến dịch mới.
+
+💡 Tiki có đa dạng các công cụ Marketing để hỗ trợ Nhà Bán đạt được mục tiêu
+kinh doanh của mình.  
+  
+Quý Nhà Bán hãy tham gia lớp học trực tuyến **Kinh doanh hiệu quả - Tối ưu
+doanh số dành cho Mọi Nhà Bán** do chuyên gia của Tiki University giảng dạy để
+nắm được cách phối hợp các công cụ marketing tối ưu cho việc kinh doanh.
+
+Đăng ký tham gia TẠI ĐÂY!
+
+Nội dung này có hữu ích với bạn không?
+
+  * __
+  * __
+  * __
+  * __
+  * __
+
+Gửi đánh giá
+
+Đánh giá trung bình: 4.2 / 5. Số lượt đánh giá: 5
+
+Nếu bạn thấy nội dung này hữu ích...
+
+Hãy chia sẻ ngay với bạn bè nhé!
+
+Ôi 🙁
+
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+
+Gửi phản hồi
+
+## Về Tiki
+
+## Theo dõi chúng tôi trên
+
+## Hỗ trợ Nhà Bán
+
+## Tải ứng dụng bán hàng
+
+Tiki
+
+Trung Tâm Bán Hàng
+
+__
+
+YouTube Tiki University Official
+
+__
+
+Cộng Đồng Nhà Bán Hàng Tiki
+
+__
+
+19006034 (8h - 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+
+__
+
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường
+12, Quận 10, Thành phố Hồ Chí Minh
+
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư
+Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+
+© 2022 - Bản quyền của Công ty TNHH Ti Ki.
+

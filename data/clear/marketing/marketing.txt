@@ -1,0 +1,29 @@
+Mục Mã giảm giá & Giảm giá vận chuyển ở “Công cụ khuyến mãi” tăng giới hạn tải SKU từ 100 lên 1000 SKU/ lần tải.
+Seller có thể tạo Giảm giá vận chuyển cho danh mục cụ thể. Nếu Seller có nhiều danh mục hoặc muốn tạo giảm giá vận chuyển mà không phải tải tệp CSV lên như trước đó. 
+Công cụ tương tác khách hàng (Remarketing):
+- Tương tác khách hàng là công cụ marketing giúp Nhà bán chủ động gửi coupon cho khách hàng tiềm năng thông qua Chat để khuyến khích họ quay trở lại và mua hàng:
+    - Tăng tỉ lệ chuyển đổi => tăng số đơn hàng.
+    - Tăng hiển thị mã giảm giá.
+    - Tối ưu hoá nguồn traffic vào gian.
+Một số điểm nổi bật của công cụ Remarketing::
+- Xác định nhóm khách hàng tiềm năng;
+- Tiếp cận và tương tác với khách hàng;
+- Nhà bán có thể gửi nhiều lần cho 1 tập khách hàng.;
+- Mỗi Nhà bán có hạn mức gửi riêng: phụ thuộc vào số khách hàng tiềm năng của Nhà bán đó. Lượng Tin nhắn khả dụng sẽ được tính theo tuần và reset vào mỗi thứ 2 hàng tuần.:
+    - Hạn mức = (tổng số KH tiềm năng của Nhà bán trong tuần trước đó/3);
+    - Hạn mức nhỏ nhất = 2.000 tin nhắn/tuần ;
+    - Nhà bán có nhu cầu tăng Hạn mức gửi tin thì liên hệ team MakeSense để được hỗ trợ mua gói (coming soon).
+- Số lượng tin nhắn khách hàng sẽ nhận được từ Nhà bán trong tuần: Mỗi khách hàng nhận tối đa 1 tin nhắn quảng cáo/tuần/ 1 Nhà bán và 2 tin nhắn quảng cáo/tuần từ 2 Nhà bán khác nhau.
+Từ ngày 02/03/2023, Tiki ngừng cung cấp tính năng “Gửi coupon qua kênh Chat”. 
+Tính năng "Gửi coupon vào tài khoản mã giảm giá của khách" vẫn hoạt động bình thường. 
+Hướng xử lý liên quan đến lỗi tính năng Remarketing (Cập nhật ngày 14/10/2022):
+Khi Seller khiếu nại lỗi hiển thị/ những vấn đề liên quan đến tính năng Remarketing, bạn trấn an Seller và Jira DEV để kiểm tra:
+- Link: http://ti.ki/support
+- Component: Promotion - Khuyến mãi, chọn “Công cụ tương tác khách hàng Remarketing”.
+
+Các chỉ số chính:
+- Hiệu quả kinh doanh
+- Chỉ số đo lường lượng truy cập
+- Chỉ số sản phẩm
+- Chỉ số khuyến mãi
+- Hiệu quả vận hàn

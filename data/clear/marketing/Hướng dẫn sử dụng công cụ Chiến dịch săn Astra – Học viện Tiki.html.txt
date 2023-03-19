@@ -1,0 +1,331 @@
+
+
+Freeship Không Giới Hạn Phí lưu kho và phí rút hàng FBT Hoàn tiền nhanh ASTRA+
+Flash sale
+
+__Tham gia Lớp học cho Nhà Bán
+
+  * Trang chủ
+  * Hướng dẫn bán hàng __
+    * Cơ bản
+    * Nâng cao
+    * Chuyên nghiệp
+    * Dành cho Nhà Bán NGON
+    * Quy định & Chính sách
+  * Bí quyết bán hàng
+  * Giải pháp quảng cáo __
+    * Tiki Ads - Công cụ quảng cáo
+    * Tiki Affiliate - Tiếp thị liên kết
+    * Tiki Engagement - Tương tác khách hàng
+  * Liên hệ
+  * Cross-border Sellers __
+    * Basic
+    * Intermediate
+    * Advanced
+    * Policies
+
+X
+
+## Công cụ khuyến mãi
+
+##  Hướng dẫn sử dụng công cụ Chiến dịch săn Astra
+
+  * ● Quy định về việc tăng giá trước khuyến mãi
+  * ● Hướng dẫn cài đặt Mã giảm giá (Coupon)
+  * ● Hướng dẫn đăng ký và quản lý chương trình Flash Sale
+  * ● Hướng dẫn đăng ký và quản lý chương trình Deal ngành hàng (Category Deal)
+  * ● Hướng dẫn cài đặt Giảm giá sản phẩm
+  * ● Hướng dẫn cài đặt Giảm giá vận chuyển
+  * ● Hướng dẫn cài đặt Chương trình quà tặng
+  * ● Hướng dẫn cài đặt Mua kèm giảm thêm
+  * ● Hướng dẫn sử dụng tính năng Combo khuyến mãi
+  * ● Hướng dẫn sử dụng tính năng Ưu đãi Follower​
+  * ● Hướng dẫn sử dụng công cụ Chiến dịch săn Astra
+  * ● Hướng dẫn tham gia chương trình Chia Sẻ Có Lời dành cho Nhà Bán
+
+Chiến dịch săn Astra là công cụ tạo mã giảm giá giúp Nhà Bán có cơ hội tăng số
+lượng đơn hàng và nhận Astra, thông qua việc tiếp cận với hàng chục ngàn khách
+hàng tiềm năng đang thường xuyên trao đổi Astra để đổi mã giảm giá mua sắm
+trên Tiki.
+
+____ I. LỢI ÍCH DÀNH CHO NHÀ BÁN KHI TẠO MÃ GIẢM GIÁ ASTRA
+
+  * Tăng mức độ ưu tiên hiển thị (so với coupon thường) 
+
+Hiển thị trên đầu trang danh sách mã giảm giá trên trang chi tiết sản phẩm
+
+|
+
+Hiển thị trên danh sách mã giảm giá của toàn sàn và trên các trang chương
+trình khuyến mãi lớn  
+  
+---|---  
+  
+|  
+  
+  * Giúp gian hàng nổi bật hơn so với đối thủ cạnh tranh và dễ dàng tiếp cận với khách hàng tiềm năng.
+
+  * Astra sẽ được cộng vào tài khoản của Nhà Bán khi đơn hàng áp dụng mã giảm giá và được giao thành công. Từ đó, Nhà Bán có thể sử dụng vào mục đích khác (Tặng khách hàng khi đánh giá sản phẩm hoặc các tính năng mới sẽ được Tiki phát triển trong tương lai).
+
+____ II. CÁCH THỨC HOẠT ĐỘNG CỦA MÃ GIẢM GIÁ ASTRA
+
+Bước 1: Nhà Bán tạo chương trình và cài đặt mã giảm giá Astra tại Seller
+Center.
+
+|  
+---|---  
+  
+Bước 2: Khách hàng đổi Astra lấy mã giảm giá trên trang chi tiết sản phẩm.
+
+Bước 3: Khách hàng sử dụng mã giảm giá Astra vừa đổi để mua hàng.
+
+Bước 4: Nhà Bán nhận Astra sau khi đơn hàng được giao thành công.
+
+____ III. HƯỚNG DẪN TẠO CHIẾN DỊCH
+
+Bước 1: Truy cập vào Seller Center, chọn **Trung tâm Marketing > Công cụ
+khuyến mãi > Chiến dịch săn Astra.**
+
+Bước 2: Chọn **Tạo mới.**
+
+Bước 3: Cài đặt các thông số của mã giảm giá Astra.
+
+**1\. Thông tin chiến dịch**
+
+  * **Tên chiến dịch**
+
+Nhà Bán đặt tên của chiến dịch. Tên này sẽ không hiển thị với Khách hàng. Tiki
+gợi ý Nhà Bán nên đặt tên này sao cho dễ nhớ và dễ quản lý.
+
+  * **Thời gian diễn ra**
+
+Cài đặt thời gian bắt đầu và thời gian kết thúc của chương trình ưu đãi (giờ,
+ngày, tháng, năm).
+
+****
+
+**2\. Thông tin mã giảm giá**
+
+  * **Mức giảm giá:** Là số tiền mà khách hàng được giảm khi sử dụng mã giảm giá, tối thiểu: 10.000đ. Khuyến khích tạo mã giảm giá có giá trị hấp dẫn (từ 20.000đ trở lên) để thu hút khách hàng.
+
+  * **Gợi ý giá trị nên cài:** Tiki gợi ý cài đặt này để cải thiện hiệu suất sử dụng mã giảm giá dựa trên tính cạnh tranh giữa các Nhà Bán khác và theo xu hướng của khách hàng. 
+
+**💡** **Mẹo:** Khách hàng sẽ đổi mã giảm giá nhiều hơn nếu giá trị đổi ≤ 20%
+mức giảm giá trên mã.
+
+Ví dụ: Mức giảm giá: 50.000đ → Lượng Astra để đổi mã giảm giá trên nên có giá
+trị VNĐ ước tính khoảng 10.000đ trở xuống.
+
+  * **Lượng ASA để đổi mã giảm giá**
+
+Nhập số tiền quy đổi mà khách hàng sẽ trả để đổi lấy mã giảm giá. Hệ thống sẽ
+tự động quy đổi thành giá trị ASA tương ứng. Giá trị quy đổi này phải nhỏ hơn
+hoặc bằng mức giảm giá.
+
+**Lưu ý:**
+
+  *     * Tỷ giá ASA liên tục thay đổi theo các lệnh mua trên thị trường, số lượng Astra thực nhận có thể sẽ khác với số lượng ước tính của hệ thống.
+
+    * Số lượng ASA thực nhận của Nhà Bán sẽ bằng số lượng ASA khách hàng đã đổi trừ đi phí giao dịch do Tiki quy định.
+
+  * **Số lượng mã giảm giá:** Nhà Bán nhập số lượng mã giảm giá tối đa mà khách hàng có thể đổi trên toàn gian hàng.
+
+  * **Hạn sử dụng của mã:** Hạn sử dụng phải cách ít nhất 30 ngày kể từ ngày kết thúc của chiến dịch. Ví dụ: Nhà Bán cài đặt ngày kết thúc chiến dịch là 01/09/2022 thì mã giảm giá khách hàng nhận được sẽ có hiệu lực đến ít nhất ngày 02/10/2022.
+  * **Sản phẩm áp dụng:** Lựa chọn các sản phẩm cho chương trình quà tặng theo hình thức: Tất cả sản phẩm hoặc Sản phẩm cụ thể.  
+
+**Cách 1: Cài đặt từng sản phẩm chính**
+
+|
+
+**Cách 2: Cài đặt hàng loạt sản phẩm chính**  
+  
+---|---  
+  
+Nhà Bán bấm **Chọn sản phẩm** > Thêm các sản phẩm chính.
+
+Tại khung tìm kiếm, Nhà Bán có thể nhập SKU, mô hình vận hành, trạng thái sản
+phẩm và chọn ngành hàng.
+
+  * Chọn sản phẩm cần thêm từ bảng bên trái, nhấn chọn **nút +** hoặc **Chọn tất cả** để thêm vào bảng bên phải. Nhà Bán có thể thêm tối đa 1000 SKU.
+  * Chọn sản phẩm cần xóa từ bảng bên phải, nhấn chọn **nút x** hoặc **Xóa tất cả** để xóa.
+
+|
+
+Nhà Bán có thể tạo quà tặng cho nhiều sản phẩm chính một lúc bằng cách sử dụng
+file Excel để đăng tải hàng loạt và quản lý danh sách tải lên như sau:
+
+Tại mục **Tải lên danh sách sản phẩm** , chọn **Tải về bản mẫu** để tải file
+Excel về máy tính. Sau đó **nhập các mã SKU** mà Nhà Bán muốn chọn.
+
+Để tải lên danh sách sản phẩm đăng ký, Nhà Bán bấm **chọn hoặc kéo thả**
+**file** vừa điền vào ô được đánh dấu như hình. Sau đó, bấm **Lưu**.
+
+**Lưu ý:**
+
+  * Chỉ hỗ trợ tập tin excel có định dạng .xls hoặc .xlsx
+
+  * Hỗ trợ tối đa 1000 SKU mỗi tập tin.
+  * File không được có bộ lọc/trang tính ẩn/nhiều hơn một trang tính.
+
+  
+|  
+  
+  * **Giá trị đơn hàng tối thiểu:** Có 2 lựa chọn: 
+    * **Không ràng buộc:** Khách hàng có thể áp dụng mã giảm giá cho mọi đơn hàng.
+
+    * **Có ràng buộc:** Quy định giá trị đơn tối thiểu để được áp dụng mã giảm giá. Tối thiểu: 1.000đ.
+  * **Số lượt đổi mã tối đa/khách hàng:** Có 2 lựa chọn: 
+
+    * **Không giới hạn:** Không giới hạn số lượt mã giảm giá mà một khách hàng có thể đổi trong suốt thời gian hiệu lực của chương trình.
+    * **Có giới hạn: Nhà Bán nhập số lượt mã giảm giá khách hàng có thể đổi tối đa trên toàn gian hàng. Tối thiểu: 1.**
+
+Sau khi hoàn tất thông tin, bấm **Tạo.**
+
+Bước 3: Kiểm tra lại thông tin mã giảm giá trong mục **Hiển thị mẫu trên ứng
+dụng Tiki.**
+
+**1\. Trang chi tiết sản phẩm**
+
+|
+
+**2\. Các trang marketing**  
+  
+---|---  
+|  
+  
+____ IV. HƯỚNG DẪN CHỈNH SỬA CHIẾN DỊCH
+
+Trên trang chủ của tính năng, Nhà Bán có thể theo dõi danh sách các chương
+trình đã tạo, tình trạng hiện tại của chương trình (đã được kích hoạt hay
+chưa, số khách hàng đã đổi Astra để lấy, số đơn hàng áp dụng mã giảm giá thành
+công, tổng số Astra Nhà Bán nhận được từ chiến dịch…).
+
+Nhà Bán có thể chỉnh sửa khi chương trình ở trạng thái **Sắp diễn ra** hoặc
+**Đang diễn ra** , cụ thể:
+
+**Trạng thái**
+
+|
+
+**Ý nghĩa**
+
+|
+
+**Thao tác Nhà Bán có thể thực hiện**  
+  
+---|---|---  
+  
+Sắp diễn ra
+
+|
+
+Chiến dịch đã được tạo và đang chờ đến thời gian chạy
+
+|
+
+  * Thay đổi tất cả các thông tin và điều kiện (ngoại trừ mục Mã giảm giá và Ngày bắt đầu).
+
+  * Hủy/Sao chép chiến dịch.
+
+  
+  
+Đang diễn ra
+
+|
+
+Chiến dịch đang trong thời gian chạy
+
+|
+
+  * Tăng số lượng mã giảm giá.
+
+  * Thay đổi thời gian kết thúc ưu đãi: Sớm hoặc muộn hơn so với thời gian cài đặt trước đó.
+
+  * Hạn sử dụng của mã giảm giá
+
+  * Hủy/ Sao chép chiến dịch.
+
+  
+  
+Nhà Bán thao tác như sau:
+
+**1\. Chỉnh sửa chiến dịch**
+
+Truy cập vào Seller Center, chọn **Trung tâm Marketing > Chiến dịch săn
+Astra** > Bấm vào **tên chiến dịch** đã tạo hoặc bấm **Chỉnh sửa** tại cột
+Thao tác để thực hiện chỉnh sửa. Sau đó bấm **Cập nhật.**
+
+**2\. Kết thúc chiến dịch**
+
+Nhà Bán tìm chiến dịch muốn hủy, tại cột **Thao tác** tương ứng, chọn **Kết
+thúc** , sau đó bấm **Xác nhận** để kết thúc chiến dịch.
+
+**3\. Sao chép chiến dịch**
+
+💡 Tiki có đa dạng các công cụ Marketing để hỗ trợ Nhà Bán đạt được mục tiêu
+kinh doanh của mình.  
+  
+Quý Nhà Bán hãy tham gia lớp học trực tuyến **Kinh doanh hiệu quả - Tối ưu
+doanh số dành cho Mọi Nhà Bán** do chuyên gia của Tiki University giảng dạy để
+nắm được cách phối hợp các công cụ marketing tối ưu cho việc kinh doanh.
+
+Đăng ký tham gia TẠI ĐÂY!
+
+Nội dung này có hữu ích với bạn không?
+
+  * __
+  * __
+  * __
+  * __
+  * __
+
+Gửi đánh giá
+
+Đánh giá trung bình: 5 / 5. Số lượt đánh giá: 5
+
+Nếu bạn thấy nội dung này hữu ích...
+
+Hãy chia sẻ ngay với bạn bè nhé!
+
+Ôi 🙁
+
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+
+Gửi phản hồi
+
+## Về Tiki
+
+## Theo dõi chúng tôi trên
+
+## Hỗ trợ Nhà Bán
+
+## Tải ứng dụng bán hàng
+
+Tiki
+
+Trung Tâm Bán Hàng
+
+__
+
+YouTube Tiki University Official
+
+__
+
+Cộng Đồng Nhà Bán Hàng Tiki
+
+__
+
+19006034 (8h - 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+
+__
+
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường
+12, Quận 10, Thành phố Hồ Chí Minh
+
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư
+Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+
+© 2022 - Bản quyền của Công ty TNHH Ti Ki.
+
