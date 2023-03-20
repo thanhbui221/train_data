@@ -12,7 +12,7 @@ with open(f"{os.getcwd()}/raw/hocvien_urls.txt", "r") as f:
             script.extract()    # rip it out
 
         # get text
-        text = soup.get_text()
+        text = soup.body.get_text()
 
         # break into lines and remove leading and trailing space on each
         lines = (line.strip() for line in text.splitlines())
