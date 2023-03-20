@@ -1,0 +1,138 @@
+Hướng dẫn kiểm tra sao kê, đối soát và thanh toán – Học viện Tiki
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng FBT     Hoàn tiền nhanh       ASTRA+      Flash sale
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Thanh toán và quản lý tài sản
+Hướng dẫn xem sao kê, đối soát giao dịch và tra cứu hóa đơn phí dịch vụ
+● Hướng dẫn tạo yêu cầu thanh toán và quản lý số dư tài khoản
+● Hướng dẫn đổi và quản lý Astra dành cho Nhà Bán
+● Hướng dẫn nạp và quản lý Tiki Xu dành cho Nhà Bán
+● Hướng dẫn tra cứu chính sách phí và biểu phí trên sàn TMĐT Tiki​
+● Hướng dẫn xem sao kê, đối soát giao dịch và tra cứu hóa đơn phí dịch vụ
+● Hướng dẫn lập hóa đơn khi bán hàng
+● Hướng dẫn đăng ký dịch vụ trả góp trên Tiki
+●
+Nội dung tham khảo khi Nhà Bán làm việc với Cơ quan thuế
+Các thao tác về sao kê, đối soát và tra cứu hóa đơn phí dịch vụ là những phần cực kỳ quan trọng trong chuỗi các thao tác khi kinh doanh trên TMĐT. Việc quản lý chặt chẽ và hiệu quả sẽ giúp Nhà Bán kiểm soát tốt về nguồn lực tài chính, nhằm kinh doanh hiệu quả hơn.
+I. CHU KỲ SAO KÊ
+Theo định kỳ, Tiki sẽ phát hành sao kê để giúp Nhà Bán có đầy đủ thông tin về tình trạng thanh toán của các đơn hàng, phục vụ mục đích đối soát định kỳ.
+Tần suất sao kê: 02 (hai) lần/tháng: vào ngày 01 và 16 hàng tháng.
+Chu kỳ sao kê
+Ngày xuất sao kê
+Từ ngày 01 đến ngày 15
+Ngày 16
+Từ ngày 16 đến ngày cuối cùng của tháng
+Ngày 01 của tháng kế tiếp
+II. HƯỚNG DẪN KIỂM TRA SAO KÊ VÀ ĐỐI SOÁT GIAO DỊCH
+Bước 1. Kiểm tra số dư công nợ
+Nhà Bán vào mục Thanh toán > Sao kê > Chọn kỳ sao kê và bấm Xem chi tiết để kiểm tra Công nợ tổng hợp hoặc xuất báo cáo sao kê để kiểm tra theo kỳ sao kê.
++ Nhà Bán có thể tìm kiếm theo mã đơn hàng (20 mã/lần) hoặc kỳ sao kê với nhiều trạng thái khác nhau sẽ hiển thị trong mục Tất cả.
+Tất cả đơn hàng trong sao kê chưa đủ điều kiện vào số dư khả dụng để yêu cầu thanh toán sẽ hiển thị ở trạng thái Chờ vào số dư khả dụng.
+Một số đơn hàng trong sao kê đã vào số dư khả dụng của Nhà Bán sẽ hiển thị ở trạng thái Đã vào số dư khả dụng một phần.
+Tất cả đơn hàng trong sao kê đã vào số dư khả dụng của Nhà Bán sẽ hiển thị ở trạng thái Đã vào số dư khả dụng toàn phần.
+(Nhà Bán rê chuột vào tên trạng thái để xem ý nghĩa).
+Bước 2. Theo dõi giao dịch đã vào sao kê
+Tại đây, Nhà Bán có thể theo dõi các thông tin như:
+Tổng doanh thu: Tổng doanh số bán hàng của Nhà Bán trong chu kỳ hiện tại.
+Doanh thu đã vào Số dư khả dụng: Tổng doanh số bán hàng đã ghi nhận vào số dư khả dụng của Nhà Bán.
+Doanh thu đang xử lý: Tổng doanh số bán hàng đang được xử lý để ghi nhận vào số dư khả dụng của Nhà Bán.
+Tại trang Chi tiết sao kê, Nhà Bán có thể xem chi tiết giao dịch. Biểu tượng ví thể hiện doanh thu đã được chuyển vào Số dư khả dụng.
+Danh sách giao dịch đã vào sao kê gồm có:
+Giao dịch bán hàng
+RMA (Giao dịch đổi/ trả sản phẩm)
+Giao dịch điều chỉnh
+Các khoản phạt
+Giao dịch bồi thường một phần
+Hoa hồng liên kết
+Hoặc Nhà Bán có thể chọn Xuất sao kê để kiểm tra doanh thu đơn hàng dưới dạng file Excel.
+Bước 3. Đối soát giao dịch
+Sau khi Xuất sao kê, Nhà Bán kiểm tra chi tiết giao dịch đã vào sao kê: Số lượng đơn hàng đã vào sao kê thanh toán, Giá trị hàng hóa/ Phí phải trả Tiki/ Lợi nhuận của Giao dịch bán hàng / RMA / Giao dịch điều chỉnh / Giao dịch bồi thường…
+Bước 3.1: Nhà Bán kiểm tra Phí bán hàng mà Tiki áp dụng khi xử lý các đơn hàng, bao gồm: Phí chiết khấu, Phí thanh toán… Nhà Bán tính Tỷ lệ (%) Phí trả Tiki / Giá trị hàng hóa của các giao dịch bán hàng có trạng thái Giao hàng thành công đã vào Sao kê. (Tương tự đối với các Giao dịch RMA, Giao dịch điều chỉnh).
+Bước 3.2: Nhà Bán kiểm tra các loại Phí vận hành được áp dụng nếu Nhà Bán sử dụng dịch vụ vận hành của Tiki, bao gồm: Phí lấy hàng, Phí lưu kho, Phí lưu kho quá hạn, Phí xử lý đơn hàng, Phí vận chuyển, Phí xử lý rút hàng, Phí xử lý trả hàng, Phí xử lý đổi – trả – bảo hành. Tham khảo thêm Chính sách phí và biểu phí.
+Bước 3.3: Trường hợp hệ thống tính sai các loại phí so với quy định trên hợp đồng hoặc số lượng đơn hàng vào sao kê không đầy đủ, Nhà Bán gửi mã đơn hàng trong vòng 30 ngày kể từ ngày xuất sao kê đến Trung tâm hỗ trợ đối tác (PSC) qua email hotrodoitac@tiki.vn/partnersupport@tiki.vn hoặc Hotline 19006034 để được hỗ trợ.
+Bước 3.4: Tiki tiếp nhận thông tin, kiểm tra giao dịch và thực hiện bổ sung giao dịch điều chỉnh vào kỳ sao kê tiếp theo (nếu có).
+III. HƯỚNG DẪN TRA CỨU HÓA ĐƠN PHÍ DỊCH VỤ
+1. Các loại hóa đơn phí dịch vụ
+Tiki xuất cho Nhà Bán 2 loại hóa đơn như sau:
+Hóa đơn số
+Loại hóa đơn
+Bao gồm
+Ghi chú
+1
+Hóa đơn phát sinh mới
+Tổng phí chiết khấu của giao dịch bán hàng
+Tổng phí thanh toán của giao dịch bán hàng
+Tổng phí vận chuyển của giao dịch bán hàng
+Tổng phí xử lý của giao dịch bán hàng
+Tổng phí tham gia tài trợ chương trình phát sinh trong kỳ
+Tổng phí của giao dịch RMA (bao gồm phí đền bù cho khách hàng, phí hoàn tiền, phí xử lý, ngoại trừ Tiki trợ giá không tính vào hóa đơn)
+Tổng phí dịch vụ quản lý sàn – Hoạt động thanh toán nhiều lần
+Mỗi kỳ sẽ có 1 hóa đơn dịch vụ
+2
+Hóa đơn điều chỉnh
+Hoàn phí chiết khấu của giao dịch RMA
+Hoàn phí thanh toán của giao dịch RMA
+Hoàn phí tham gia tài trợ chương trình của giao dịch RMA
+Tổng hoàn phí của giao dịch điều chỉnh
+Tiki trả phí đã thu
+Tổng thu phí của giao dịch điều chỉnh
+Mỗi hóa đơn điều chỉnh sẽ điều chỉnh cụ thể cho một hóa đơn gốc trước đó. (có thể có nhiều hóa đơn điều chỉnh trong kỳ)
+Lưu ý:
+Thông tin đơn vị mua hàng trên hóa đơn sẽ được xuất theo thông tin Nhà Bán cài đặt khi đăng ký gian hàng. Nếu thông tin này có thay đổi, Nhà Bán cần liên hệ Tiki để được hỗ trợ cập nhật thông tin, tránh trường hợp hóa đơn xuất theo thông tin cũ hoặc không chính xác.
+Ngày ghi trên hóa đơn là ngày Tiki phát hành hóa đơn. Ví dụ: Hóa đơn của kỳ sao kê từ 01/09/2022 – 15/09/2022 – Ngày thanh toán 16/09/2022 > Ngày xuất hóa đơn nằm trong thời gian 05 ngày làm việc tiếp theo kể từ ngày thanh toán (Từ 16/09/2022 đến 23/09/2022).
+Kỳ xuất hóa đơn: Tiki xuất hóa đơn 2 lần/tháng.
+Lần 1: Xuất hóa đơn dịch vụ cho các đơn hàng đã ghi nhận vào sao kê và các giao dịch Thanh toán linh hoạt được thực hiện thành công từ ngày 01 đến ngày 15.
+Lần 2: Xuất hóa đơn dịch vụ cho các đơn hàng đã ghi nhận vào sao kê và các giao dịch Thanh toán linh hoạt được thực hiện thành công từ ngày 16 đến ngày cuối cùng của tháng.
+Tổng tiền xuất hóa đơn: Tổng tiền = Tổng phí trả Tiki trong kỳ sao kê. Bao gồm: Tổng phí trả Tiki do Giao dịch bán hàng, Phí trả Tiki do đổi/trả/bảo hành (RMA), Phí trả Tiki do Giao dịch điều chỉnh, Phí dịch vụ quản lý sàn – hoạt động thanh toán nhiều lần.
+Thông tin đơn vị mua hàng trên hóa đơn sẽ được xuất theo thông tin Nhà Bán cài đặt khi đăng ký gian hàng. Nhà Bán cần kiểm tra và đảm bảo các thông tin xuất hóa đơn là chính xác. Nếu thông tin này có thay đổi, Nhà Bán cần liên hệ Tiki để được hỗ trợ cập nhật thông tin, tránh trường hợp hóa đơn xuất theo thông tin cũ hoặc không chính xác.
+Tiki chỉ hỗ trợ xuất lại hóa đơn trong vòng 7 ngày làm việc kể từ khi Nhà Bán nhận được hóa đơn.
+Tiki sẽ không xuất hóa đơn phí dịch vụ với các giao dịch được xác định là bồi thường hàng hóa bị hư hỏng/thất thoát.
+2. Hướng dẫn tra cứu hóa đơn phí dịch vụ
+Cách 1: Trên hệ thống Seller Center
+Tại Seller Center, Nhà Bán chọn Thanh toán > Quản lý tài sản. Tại mục Hóa đơn điện tử sẽ hiển thị các hóa đơn phí dịch vụ Tiki xuất cho các khoản phí đã thu. Nhà Bán bấm Xem thêm để lọc theo một khoảng thời gian và xem danh sách các hóa đơn trong năm hiện tại.
+Tiki sẽ gửi hoá đơn cho Nhà Bán 2 lần/tháng.
+Thời hạn xuất hóa đơn dịch vụ: Trong vòng 05 ngày làm việc sau khi thanh toán định kỳ.
+Để tra cứu hóa đơn, Nhà Bán thực hiện như sau:
+Bước 1: Nhà Bán bấm Sao chép mã tra cứu. Tại cột Thao tác, bấm Tra cứu.
+Bước 2: Hệ thống chuyển đến trang https://hoadon.tiki.com.vn. Nhà Bán nhập mã số thuế của bên bán (Tiki): 0309532909
+Bước 3: Nhập số bảo mật (Mã tra cứu hóa đơn) và bấm Xem hóa đơn.
+Mẫu hóa đơn điện tử Tiki xuất cho Nhà Bán theo thông tư 78/2021/TT-BTC
+Cách 2: Trên email của Nhà Bán
+Ngoài việc cập nhật trên Seller Center thì hóa đơn sẽ được gửi đến email của Người tạo cửa hàng.
+Để đảm bảo nhận được thông tin email của hóa đơn Tiki, Nhà Bán vui lòng cập nhật đúng và chính xác. Nếu có thay đổi email nhận, Nhà Bán chủ động cập nhật  thông tin mới trên gian hàng.
+Tiêu đề email hóa đơn Tiki cho Nhà Bán: [TIKI] HOÁ ĐƠN ĐIỆN TỬ CỦA ĐƠN HÀNG KỲ XUẤT HÓA ĐƠN_THÁNG CỦA KỲ SAO KÊ_NĂM CỦA KỲ SAO KÊ_SELLER ID
+Ví dụ: Hóa đơn của chu kỳ từ 01/10/2022 – 15/10/2022 – Ngày sao kê 16/10/2022 của Seller ID: 123
+→ Tiêu đề email hóa đơn: [TIKI] HOÁ ĐƠN ĐIỆN TỬ CỦA ĐƠN HÀNG 01_10_2022_123
+Hóa đơn của  chu kỳ từ 16/10/2022 –  31/10/2022 – Ngày sao kê 01/11/2022 của Seller ID: 123
+→ Tiêu đề email hóa đơn: [TIKI] HOÁ ĐƠN ĐIỆN TỬ CỦA ĐƠN HÀNG 02_10_2022_123
+Mẫu email hóa đơn Tiki gửi cho Nhà Bán:
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 3.6 / 5. Số lượt đánh giá: 22
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

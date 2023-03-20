@@ -1,0 +1,145 @@
+OVL – Chỉ số giới hạn đơn hàng hàng ngày – Học viện Tiki
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng FBT     Hoàn tiền nhanh       ASTRA+      Flash sale
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Xử lý đơn hàng
+OVL - Chỉ số giới hạn đơn hàng hàng ngày
+● [Mô hình FBT] Quy trình xử lý đơn hàng
+● [Mô hình Dropship] Hướng dẫn xác nhận và xử lý đơn hàng
+● [Mô hình Dropship] Hướng dẫn đóng gói đơn hàng
+● [Mô hình SD] Hướng dẫn xử lý đơn hàng
+● [Mô hình SD] Quy chuẩn đóng gói hàng hóa
+● [Mô hình E-Delivery] Hướng dẫn xử lý đơn hàng
+● OVL - Chỉ số giới hạn đơn hàng hàng ngày
+● Hướng dẫn xem lịch sử mua hàng của khách hàng
+● Hướng dẫn phòng tránh việc giao sai, giao thiếu hoặc giao hàng rỗng
+OVL – Chỉ số giới hạn đơn hàng hàng ngày​ là tổng số đơn hàng cố định mà Nhà Bán được nhận trong 01 ngày do chưa đảm bảo chỉ số vận hành. Giá trị OVL được cập nhật lại từ 00:00 thứ Sáu mỗi tuần và duy trì đến 23:59 thứ Năm tuần tiếp theo.
+Lợi ích:
+Giúp Nhà Bán nhận được số lượng đơn hàng phù hợp với năng lực vận hành thực tế.
+Giảm tỷ lệ hủy đơn hàng do thời gian xử lý đơn quá lâu.
+Giúp Nhà Bán dễ dàng sắp xếp nguồn lực và thời gian để xử lý đơn, cải thiện hiệu quả, chất lượng vận hành.
+I. ĐỐI TƯỢNG VÀ ĐIỀU KIỆN ÁP DỤNG
+1. Đối tượng áp dụng: Tất cả Nhà Bán có tỷ lệ vi phạm vận hành vượt ngưỡng quy định và thuộc các mô hình vận hành:
+Giao thẳng từ Nhà Bán (Dropship).
+Nhà Bán tự vận hành (SD = Seller Delivery).
+NGON – Giao thẳng từ Nhà Bán (P2P)
+2. Điều kiện áp dụng
+Trong vòng 1 tuần, Nhà Bán có chỉ số vận hành thuộc 1 trong 2 trường hợp được quy định tại mục II. Công thức tính chỉ số vận hành.
+Trong vòng 1 tuần, Nhà Bán nhận > 5 đơn hàng (bao gồm cả đơn hoàn thành và đơn bị hủy).
+Nhà Bán hoạt động trên sàn Tiki > 45 ngày (kể từ ngày đầu tiên có đơn hàng) hoặc đã xử lý hoàn thành > 100 đơn hàng (bao gồm cả đơn hoàn thành và đơn bị hủy) trong vòng 45 ngày hoặc < 45 ngày.
+Tuy nhiên, miễn trừ OVL cho Nhà Bán:
+[Mới lên sàn] Nhà Bán hoạt động trên sàn < 45 ngày (kể từ ngày đầu tiên có đơn) HOẶC xử lý hoàn thành < 100 đơn hàng trong 45 ngày này (tùy điều kiện nào đến trước).
+Miễn trừ cho Nhà Bán nhận < 5 đơn/tuần.
+(Đơn vị Tuần được quy định từ 00:00:00 thứ Sáu đến 23:59:59 thứ Năm của tuần liền kề).
+II. CÔNG THỨC TÍNH CHỈ SỐ VẬN HÀNH
+Tỷ lệ hủy đơn (do lỗi Nhà Bán) = (Tổng số đơn hủy do lỗi Nhà Bán/Tổng số đơn đã nhận) x 100% (chỉ tiêu <=2%)
+Tỷ lệ xử lý đơn đúng hạn = (Tổng số đơn xử lý đúng hạn/Tổng số đơn đã nhận) x 100% (chỉ tiêu >=97%)
+Trong đó:
+Tổng số đơn đã nhận là tổng số đơn hàng được ghi nhận trong tuần bao gồm cả đơn bị hủy bởi khách hàng và Nhà Bán.
+Đơn hàng bị hủy là các đơn hàng mà Nhà Bán thực hiện không thành công, được tính do lỗi bởi Nhà Bán trong các trường hợp sau:
+Nhà Bán xác nhận Hết hàng trên Seller Center .
+Nhà Bán không xác nhận đơn hàng hoặc không bàn giao hàng hóa cho Tiki/Đối tác vận chuyển của Tiki trong thời gian quy định (tùy theo từng loại mô hình vận hành) dẫn đến quá hạn đơn hàng bị hủy.
+Nhà Bán không cập nhật trạng thái đơn hàng trên Seller Center khi quá hạn dự kiến giao hàng (tùy theo ngành hàng) dẫn đến đơn hàng bị hủy (áp dụng cho mô hình SD).
+Đơn hàng xử lý đúng hạn là các đơn hàng mà Nhà Bán thực hiện thành công trong khoảng thời gian quy định theo từng mô hình vận hành, không bao gồm Đơn hàng xử lý chậm do lỗi Nhà Bán trong các trường hợp sau:
+Nhà Bán xác nhận đơn hàng trễ so với thời gian quy định (được quy định theo từng mô hình vận hành) nhưng chưa đến hạn hủy đơn.
+Nhà Bán bàn giao hàng hóa cho Tiki hoặc đối tác vận chuyển của Tiki trễ hơn thời gian quy định (được quy định theo từng mô hình vận hành) nhưng chưa đến hạn hủy đơn. Lưu ý: Đơn hàng bị tính là xử lý chậm không bao gồm các nguyên nhân sau:
+Đối tác vận chuyển lấy hàng thất bại sau khung thời gian 17h00 hàng ngày
+Đối tác vận chuyển lấy hàng không thành công vì hàng cồng kềnh
+Đối tác vận chuyển không lấy kịp/không chở kịp
+Bàn giao cho người vận chuyển khác lấy hàng
+Nhà Bán chậm cập nhật trạng thái khi quá hạn ngày dự kiến giao hàng, tùy theo ngành hàng (áp dụng cho mô hình Seller Delivery) nhưng chưa đến hạn hủy đơn.
+III. CÁCH TÍNH GIỚI HẠN ĐƠN HÀNG OVL
+OVL = Số lượng đơn hàng cao nhất trong 01 ngày mà Nhà Bán bàn giao thành công(*) trong 04 tuần gần nhất x 80%.
+Trong đó: (*) Bàn giao hàng hóa thành công được định nghĩa như sau:
+Mô hình vận hành
+Trạng thái bàn giao hàng hóa thành công
+Dropship – Giao thẳng từ Nhà Bán
+Lấy hàng thành công
+Seller Delivery – Nhà Bán tự vận hành
+Giao hàng thành công
+NGON – Giao thẳng từ Nhà Bán (P2P)
+Bàn giao cho đối tác vận chuyển/
+Ví dụ: Tính chỉ số OVL của Nhà Bán:
+Tuần 0:
+1. Tỷ lệ hủy đơn (do lỗi Nhà Bán):
+Số đơn hàng Nhà Bán đã nhận trong tuần: 1000 đơn.
+Số đơn hàng bị hủy (do lỗi Nhà Bán) trong tuần (cùng thời điểm): 30 đơn.
+Tính Tỷ lệ hủy đơn (do lỗi Nhà Bán) của tuần 0 = (30/1000)x100% = 3%
+→ Gian hàng bị áp OVL do không đạt chỉ tiêu nhỏ hơn hoặc bằng 2%.
+2. Tỷ lệ xử lý đơn đúng hạn:
+Số đơn hàng Nhà Bán đã nhận trong tuần: 1000 đơn
+Số đơn hàng xử lý chậm do Nhà Bán trong tuần (cùng thời điểm): 70 đơn
+Số đơn hàng xử lý đúng hạn là: 1000 – 70 = 930 đơn
+Tính Tỷ lệ xử lý đúng hạn của tuần 0 = (930/1000)x100%= 93%
+→ Gian hàng bị áp OVL do không đạt chỉ tiêu quy định lớn hơn hoặc bằng 97%.
+Tuần 1:
+Khi đó, gian hàng của Nhà Bán sẽ bị áp OVL từ tuần 1 và OVL được tính như sau:
+Số lượng đơn hàng Nhà Bán bàn giao thành công của một ngày (trong 4 tuần gần nhất): 200 đơn.
+→ Giới hạn đơn hàng hàng ngày (OVL) = 200 * 80% = 160 đơn/ngày
+Vậy trong tuần 1, Nhà Bán chỉ được phép nhận tối đa 160 đơn hàng/ngày.
+IV. NGUYÊN TẮC HOẠT ĐỘNG
+Giới hạn đơn hàng OVL được điều chỉnh tự động bởi Tiki và được tính lại mỗi tuần.
+STT
+Nguyên tắc hoạt động của OVL
+Định nghĩa
+1
+OVL được kích hoạt trên gian hàng của Nhà Bán
+Nhà Bán chỉ nhận được số lượng đơn hàng cố định mỗi ngày theo công thức tính giá trị OVL, bao gồm những đơn hàng bị hủy bởi khách hàng hoặc Nhà Bán.
+2
+Nhà Bán đạt đến số lượng đơn hàng tối đa được nhận trong ngày
+Nhà Bán sẽ ngưng nhận đơn hàng.
+Tất cả sản phẩm không thuộc mô hình vận hành FBT sẽ bị tắt mô hình hiện tại (không còn hiển thị sản phẩm) trên website Tiki và ứng dụng Tiki cho đến 2h sáng ngày kế tiếp.
+3
+Nhà Bán cải thiện được Tỷ lệ hủy đơn và Tỷ lệ xử lý đơn đúng hạn trong 02 tuần liên tiếp
+Ngừng áp dụng OVL.
+4
+Nhà Bán có Tỷ lệ hủy đơn hoặc Tỷ lệ xử lý đơn đúng hạn cao trong 04 tuần liên tiếp
+Tất cả sản phẩm không thuộc mô hình vận hành FBT sẽ bị tắt mô hình hiện tại (không còn hiển thị sản phẩm) trên website Tiki và ứng dụng Tiki trong vòng 01 tuần.
+Sau 01 tuần, tất cả sản phẩm sẽ được kích hoạt lại để tiếp tục đăng bán và Nhà Bán bắt đầu nhận đơn hàng bình thường.
+5
+Nhà Bán có 04 lần/năm bị tắt mô hình vận hành
+Tiki sẽ ngừng hợp tác kinh doanh các sản phẩm không thuộc mô hình FBT trong 01 (một) năm.
+Nhà Bán có thể chuyển mô hình hoạt động của các sản phẩm này sang mô hình FBT.
+V. CÁCH THEO DÕI CHỈ SỐ VẬN HÀNH OVL
+Nhà Bán đăng nhập Seller Center >> Chọn Trung tâm phát triển >> Hiệu quả vận hành.
+VI. CÂU HỎI THƯỜNG GẶP
+1. Khi vi phạm OVL, Nhà Bán cần cải thiện chỉ số vận hành trong thời gian bao lâu mới được khôi phục lại?
+Sau khi Nhà Bán cải thiện 2 tỷ lệ hủy đơn và tỷ lệ xử lý đơn đúng hạn trong ngưỡng liên tục 2 tuần.
+2. Theo công thức tính tỷ lệ xử lý đơn đúng hạn: Số đơn hàng xử lý đúng hạn / Tổng số đơn đã nhận. Vậy tổng số đơn đặt hàng đã nhận bao gồm những mô hình nào? Các đơn ở trạng thái Hủy có được tính vào không?
+Tính trên các mô hình vận hành Dropship, Seller Delivery (trừ ngành hàng NGON) mà Nhà Bán có phát sinh đơn hàng, bao gồm cả trạng thái Hủy.
+3. Làm thế nào để xem chi tiết những đơn hàng bị tính điểm OVL?
+Nhà Bán có thể tìm tại mục Xuất các đơn trễ hạn/Xuất các đơn bị hủy để xem chi tiết những đơn hàng bị tính điểm OVL.
+4. Ngoài giới hạn đơn hàng ra thì chỉ số OVL còn có những ảnh hưởng nào đến gian hàng của tôi nếu tôi bị tính OVL không?
+Nhà Bán chỉ bị giới hạn đơn hàng được nhận.
+5. Trên giao diện OVL mới có phần Tỷ lệ phản hồi Chat, vậy OVL phiên bản mới sẽ bắt đầu tính tỷ lệ này luôn phải không?
+OVL chỉ tính cho Tỷ lệ hủy đơn và Tỷ lệ xử lý đơn đúng hạn.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 3.1 / 5. Số lượt đánh giá: 19
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

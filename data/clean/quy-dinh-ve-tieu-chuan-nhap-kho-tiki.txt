@@ -1,0 +1,259 @@
+[Mô hình FBT] Quy định về tiêu chuẩn nhập kho Tiki – Học viện Tiki
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng FBT     Hoàn tiền nhanh       ASTRA+      Flash sale
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Vận chuyển
+[Mô hình FBT] Quy định về tiêu chuẩn nhập kho Tiki
+●
+[Mô hình FBT] Quy định về tiêu chuẩn nhập kho Tiki
+●
+[Mô hình FBT] Hướng dẫn giao nhận hàng hóa tại kho Tiki
+●
+[Mô hình FBT] Hướng dẫn nhập hàng vào kho Tiki
+●
+[Mô hình FBT] Phí lưu kho và phí xử lý rút hàng
+●
+[Mô hình FBT] Hướng dẫn rút hàng lưu kho Tiki
+● [Mô hình Dropship] Danh sách khu vực lấy hàng của đối tác vận chuyển TED
+Hàng hóa được đóng gói tiêu chuẩn từ đầu vào sẽ đảm bảo được chất lượng của sản phẩm trong suốt quá trình lưu kho và vận chuyển, từ đó giúp nâng cao những trải nghiệm của khách hàng, cho thấy được sự chuyên nghiệp và quảng bá rộng rãi hình ảnh của thương hiệu.
+I. ĐIỀU KIỆN HÀNG HÓA KHI NHẬP KHO TIKI
+Hàng hóa nhập trực tiếp và hàng hóa được luân chuyển đi cần đảm bảo đóng gói đúng theo quy định đã ban hành.
+Hàng hóa khi đưa tới Tiki không được phép để logo của một tổ chức kinh doanh sàn thương mại điện tử khác ngoài Tiki. Chỉ có logo của nhà sản xuất, Nhà Bán, Tiki.
+Hàng hóa phải đảm bảo là hàng mới, có ngoại quan đẹp, không móp méo, không trầy xước, không ố vàng, không dơ cũ, không ướt. Và hình ảnh thực tế sản phẩm phải khớp thông tin, hình ảnh trên hệ thống Tiki.
+Hàng hóa  phải đúng tên, hình ảnh, màu sắc, mã hàng hoặc thông số, mẫu mã (đối với hàng điện tử, gia dụng, thiết bị số) so với nội dung trên đơn đặt hàng PO/BOP và hệ thống của Tiki, chi tiết quy chuẩn tên sản phẩm của Tiki tại đây Nếu hàng hóa được khai báo trên hệ thống không có phân loại theo màu sắc/model hay không để rõ ràng hàng hóa giao ngẫu nhiên trên hệ thống Tiki nhưng giao hàng hóa có màu sắc/model ngẫu nhiên thì bộ phận nhập kho Tiki không nhập hàng. (Ngẫu nhiên được hiểu là một loại sản phẩm khi có cùng kiểu dáng, cùng chất liệu, cùng hoa  văn, cùng chi tiết… nhưng có màu sắc khác nhau khác nhau và phải được thể hiện trên web bằng hình ảnh và tên sản phẩm  có ghi chú ngẫu nhiên sẽ được hiểu là nhập kho sản phẩm ngẫu nhiên).
+Để đảm bảo tiêu chuẩn khi nhập hàng hóa vào kho Tiki, hàng đóng gói phải đảm bảo có thông tin cho Tiki kiểm tra:
+Phiếu gửi hàng từ Seller Center
+Mã mincode – Mã vạch của sản phẩm
+Sản phẩm được đóng gói theo quy chuẩn nhập kho của Tiki
+IMEI/Serial Number, hạn sử dụng và thời gian kích hoạt bảo hành điện tử
+Seal niêm phong
+Nhãn hàng hóa
+Về tem cảnh báo, Nhà Bán có thể linh động sử dụng các mẫu tem phù hợp nhưng phải đảm bảo các điều kiện sau:
+Tem phải còn nguyên vẹn, không rách, nhăn, mờ, không dễ dàng bị bôi xóa.
+Tem có thể dán ở bất cứ vị trí nào trên thùng sản phẩm (không dán mặt đáy) nhưng phải đảm bảo tem dễ dàng được thấy và nhận biết bằng mắt thường.
+Kích thước tem không quá nhỏ, đảm bảo hình và chữ được nhận biết rõ ràng.
+Tham khảo Chính sách nhập kho (mục 5) tại đây.
+II. HÀNG HÓA ĐÓNG GÓI THEO ĐÚNG QUY CHUẨN NHẬP KHO TIKI
+Thao tác đóng gói đúng chuẩn trước khi nhập kho sẽ:
+Bảo vệ được hàng hóa tránh thiệt hại
+Xử lý đơn hàng, nhập kho nhanh chóng hơn
+Quản lý, kiểm soát tốt, hạn chế thất lạc
+Lưu ý:
+Tem barcode nếu in bằng giấy A4 (hoặc chất liệu giấy tương tự) thì BẮT BUỘC dán 1 lớp băng keo trong bên ngoài để bảo vệ tem. (Tem barcode in bằng giấy chuyên dụng thì không cần làm điều này).
+1. Quy định chung của hàng hóa khi nhập kho
+1.1 Các bước kiểm tra hàng hóa:
+Sau khi xác nhận thông tin ngày, giờ và địa chỉ giao hàng trên hệ thống, Nhà Bán đem theo chứng từ và hàng hóa qua kho Tiki giao hàng hoặc đơn vị vận chuyển qua Nhà Bán lấy hàng đúng theo thời gian, địa điểm đã xác nhận. Kho Tiki tiến hành kiểm tra các  thông tin chứng từ và hàng hóa trước khi nhập hàng theo thông tin chi tiết bên dưới.
+Thời gian làm việc của kho: 8h00- 17h00 từ thứ 2 tới thứ 7 hàng tuần (ngoại trừ thời gian nghỉ trưa là 12h00 – 13h00). Thời gian trễ nhất để Nhà Bán lấy số tại kho là 16h30, sau thời gian đó Tiki sẽ từ chối nhận hàng.
+Bước 1: Kiểm tra thời gian giao hàng
+Nhà Bán cần giao hàng đúng với thời gian đã xác nhận trên hệ thống đặt hàng, thông tin này được hiển thị trên Phiếu nhập hàng (BOP/3P). Bộ phận nhập kho Tiki sẽ tiến hành kiểm tra thông tin thời gian giao hàng trên chứng từ có khớp với thời gian thực tế Nhà Bán giao qua kho Tiki.
+Nếu Nhà Bán giao hàng sớm hoặc trễ hơn so với thời gian giao hàng thể hiện trên PO/BOP, kho Tiki sẽ từ chối nhận hàng.
+Sau khi kiểm tra đúng thông tin ngày giao hàng thì Bộ phận Kho Tiki  tiến hành scan mã PO/BOP. Lúc này trên hệ thống sẽ hiển thị trạng thái “Đã đến kho” đối với PO/BOP giao trực tiếp và trạng thái “Đã đến kho trung chuyển” đối với PO luân chuyển.
+Bước 2: Kiểm tra kho giao hàng
+Đối với PO/BOP giao trực tiếp, Nhà Bán cần giao hàng đúng với kho nhận hàng đã lựa chọn và được hiển thị trên  PO/BOP.
+Nếu hàng hóa giao đến kho Tiki thông qua đối tác giao nhận. Chứng từ cũng cần được chuẩn bị đúng, đầy đủ và giao trực tiếp cho bộ phận nhập kho Tiki. Không đóng gói chứng từ kèm trong kiện hàng (áp dụng cả PO giao trực tiếp, PO luân chuyển).
+Bước 3: Kiểm tra bộ chứng từ
+Trong trường hợp Nhà Bán cung cấp đầy đủ bộ chứng từ, bộ phận nhập kho Tiki tiến hành kiểm tra hàng để làm thủ tục nhập hàng hoặc bàn giao hàng hóa. Bộ phận nhập kho Tiki sẽ từ chối nhận hàng hóa nếu Nhà Bán không được đi kèm với bộ chứng từ cần thiết.
+Trong trường hợp nếu Nhà Bán bàn giao hàng hóa thông qua đối tác giao hàng thì bộ chứng từ cần bàn giao trực tiếp  cho nhân viên bộ phận nhập kho Tiki nhận hàng mà không đóng chung trong kiện hàng.
+Đối với các sản phẩm lần đầu tiên nhập hàng vào kho thì kho cần kiểm tra cân nặng và kích thước sản phẩm để cập nhật vào hệ thống, phục vụ cho việc phân phối luồng nhập hàng và lưu trữ thông tin các sản phẩm  về sau. Lưu ý: Kho không từ chối nhận hàng cho PO có dòng chữ “cần cân đo”.
+Trường hợp: Hàng hóa là hàng có thùng đóng gói của nhà sản xuất, Tiki chỉ kiểm tra ngoại quan của sản phẩm theo quy cách đóng gói được áp dụng hiện hành.
+Tiki không kiểm tra chi tiết các loại phụ kiện bên trong thùng carton hoặc vật liệu đóng gói.
+2. Quy chuẩn đóng gói nhập kho của các loại hàng hóa
+2.1 Đối với hàng Tiki không kiểm tra – không đóng gói
+Các hàng hóa thuộc nhóm này là hàng có đóng sẵn kiện/hộp của Nhà sản xuất, Tiki chỉ có trách nhiệm gửi hàng cho khách mà không chịu trách nhiệm đóng gói.
+2.1.1 Hàng hóa được đóng gói theo tiêu chuẩn NCC (gốm sứ theo bộ, máy ảnh, điện thoại, phụ kiện đồ mẹ và bé, …)
+2.1.2. Hàng hóa là hàng dễ vỡ (thủy tinh, gốm sứ, các mặt hàng đồ nhựa giòn cứng, …)
+2.1.3. Hàng hóa là gương kính và mặt hàng có mặt kính lớn:
+2.1.4. Hàng hóa là hàng có giá trị cao (hàng hóa có giá trị lớn hoặc tương đối lớn như hàng điện tử, điện lạnh,…hàng phải còn nguyên tem nhãn, nguyên seal)
+2.1.5. Hàng hóa là hàng nội thất:
+2.1.6. Hàng hóa là chai lọ bình có nắp rời dễ vỡ, chai lọ là hàng dễ vỡ:
+2.1.7. Hàng hóa là hàng lẻ, hàng có số lượng nhiều hoặc kích thước nhỏ:
+2.1.8. Hàng hóa là chất lỏng và chất lỏng có vòi:
+2.1.9. Hàng hóa là hàng có kích thước cồng kềnh, nặng (thường đi theo bộ như máy chạy thể dục, máy tập tạ, hàng nhiều phụ kiện, có kim loại hoặc kích thước nặng)
+Nhà Bán đặc biệt lưu ý với những sản phẩm dễ gãy, trầy xước (chảo, nồi,…)
+2.2 Đối với hàng Tiki có kiểm hàng (Các hàng hóa thuộc nhóm này bao gồm hàng FBT và MCF)
+Hàng hóa nhập kho Tiki bắt buộc đồng kiểm 100% đối với các mặt hàng có thể mở kiểm tra hoặc không có seal từ nhà sản xuất để đảm bảo hàng hóa đến kho Tiki còn nguyên vẹn và đầy đủ.
+Hàng hóa đảm bảo là hàng mới, đầy đủ, chưa khui bóc, qua sử dụng.
+Hàng hóa có tem, seal bắt buộc tem seal còn nguyên vẹn, không bị rách mất, dán chồng băng keo lên.
+Hàng đóng gói khi giao hàng qua kho Tiki không được bịt kín hết thông tin sản phẩm, không được bọc bằng các túi nilon tối màu để Tiki vẫn có thể kiểm tra được hàng hóa, bao bì bên ngoài của sản phẩm.
+Hóa đơn mua hàng giữa người bán và người mua hay tài liệu hướng dẫn sử dụng cần được để trong thùng hàng trước khi đóng gói, không dán bên ngoài thùng.
+Thùng carton đóng hàng không được có hiện tượng ẩm mốc, rách bao bì, có hiện tượng có gián, mối mọt, kiến, các loại côn trùng. Không sử dụng thùng cũ nát tạm bợ để đóng hàng.
+2.1.1. Hàng hóa là chất lỏng (bao gồm chất lỏng chứa trong chai thủy tinh, chai nhựa, túi nhựa – plastic, hàng mỹ phẩm)
+Hàng đóng theo kiện, theo đóng gói quy cách của nhà sản xuất:
+Hàng chất lỏng được đóng lẻ:
+2.2.2. Hàng hóa là hàng dễ vỡ, hàng nhựa cứng giòn, dễ nứt (bao gồm nhựa mỏng, thủy tinh, pha lê, sành, sứ, gốm, đất nung, thạch cao, các sản phẩm bằng nhựa cứng giòn dễ nứt gãy)
+Hàng hóa là hàng lẻ:
+Hàng hóa là hàng đi theo bộ (bao gồm hàng có nhiều sản phẩm trong cùng 1 bộ nhưng cùng 1 mã barcode, vd: bộ ly tách, bộ hộp thủy tinh, bộ nồi, bộ chén dĩa)
+Hàng hóa là hàng có độ rỗng bên trong lớn:
+Hàng hóa là nhựa giòn – cứng:
+2.2.3. Hàng hóa là hàng đã được đóng gói theo tiêu chuẩn của Nhà sản xuất (hàng hóa là thiết bị điện tử, đồ điện gia dụng, điện tử điện lạnh và sản phẩm khác như thùng mì tôm, thùng bia, thùng nước ngọt, bỉm, sữa, …)
+2.2.4. Hàng hóa là thực phẩm:
+2.2.5. Hàng hóa là nệm, chăn, ga, gối:
+2.2.6. Hàng hóa là đồ gia dụng, nhà cửa đời sống:
+Nhà Bán đặc biệt lưu ý với những sản phẩm dễ gãy, trầy xước (chảo, nồi,…)
+2.2.7. Hàng hóa là mỹ phẩm làm đẹp, thực phẩm chức năng:
+2.2.8. Hàng hóa là Combo, hàng hóa có quà tặng, phụ kiện, linh kiện kèm sản phẩm chính:
+2.2.9. Hàng hóa là Sách:
+2.2.10. Hàng hóa có hình dáng đặc biệt (là những sản phẩm quá dài, lồi lõm không đều, quá khổ so với thùng đóng gói Tiki)
+2.2.11. Hàng hóa là gương kính: Tiki hạn chế lưu kho các sản phẩm này
+2.2.12. Hàng hóa là hàng thời trang phụ kiện (bao gồm quần áo, giày dép, phụ kiện, …)
+2.2.13. Hàng hóa là mặt hàng nguy hiểm (bao gồm kiếm, dao, …) → Tiki hạn chế lưu kho các sản phẩm này.
+2.2.14. Hàng hóa là hàng dễ bị méo móp, biến dạng trong thời gian lưu kho (bao gồm những sản phẩm là vật dụng có nhựa dễ nóng chảy như bảng nhựa, đồ gia dụng bằng nhựa, …) → Tiki hạn chế lưu kho các sản phẩm này.
+2.2.15. Hàng hóa là hàng dễ cháy nổ (bao gồm pháo hoa, xăng dầu, bình cứu hỏa, …) → Tiki sẽ không tiến hành lưu kho mà sẽ chỉ hỗ trợ đóng gói và vận chuyển từ Nhà Bán đến tay khách hàng.
+III. PHIẾU GỬI HÀNG
+Nhà Bán cần in 02 phiếu gửi hàng (BOP) cho đơn hàng cần gửi và mang hàng đến kho theo đúng Thời gian nhập kho. Vào Kho & hàng tồn > Phiếu gửi hàng (BOP) > Chọn phiếu gửi hàng cần in.
+Ví dụ mã BOP: SGN/BOP/2018/12/33879 có nghĩa là Kho nhập hàng là kho SGN, nếu Nhà Bán muốn nhập vào kho khác SGN, Nhà Bán cần chọn đúng kho để tạo mã BOP tương ứng.
+Mỗi BOP có chú thích rõ địa chỉ, người liên hệ giao hàng của kho nhập hàng.
+Lưu ý:
+Sau khi xác nhận phiếu, Nhà Bán có thể hủy nếu phát hiện sai sót.
+Trong trường hợp Số lượng thực nhận khác với Số lượng dự kiến, phiếu gửi hàng sẽ được chuyển sang trạng thái Chờ bổ sung.
+Nếu thông tin chưa chính xác, Nhà Bán liên hệ lại trong 48h. Quá thời hạn, phiếu sẽ chuyển sang trạng thái Hoàn thành.
+IV. MÃ MINCODE - MÃ VẠCH CỦA SẢN PHẨM
+Kho Tiki sẽ không tiếp nhận các sản phẩm có tem dán không đạt tiêu chuẩn. Vì vậy, Quý Nhà Bán cần đặc biệt chú ý các tiêu chuẩn về tem dán sản phẩm khi nhập kho như sau để tránh ảnh hưởng đến quy trình nhập kho của gian hàng.
+Mọi sản phẩm nhập kho Tiki cần có mã Mincode – mã do Tiki cung cấp tại Seller Center
+Mã vạch SSKU do Tiki cung cấp (in từ hệ thống Seller Center)
+HƯỚNG DẪN IN MINCODE
+1. Hướng dẫn in mã vạch Mincode từ Seller Center theo Phiếu gửi hàng (BOP)
+Bước 1: Vào Seller Center 🡪 Mục Quản lý kho 🡪 Phiếu nhập hàng 🡪 Chọn phiếu gửi hàng cần in 🡪 Bấm In phiếu tại cột Thao tác.
+Bước 2: Chọn In mincode danh sách sản phẩm và sửa số lượng cần in trên từng SSKU.
+Bước 3: Chọn khổ giấy và bấm In.
+Bước 4: Dán mincode lên từng sản phẩm.
+Lưu ý: Giấy in tem mã vạch hệ thống Seller Center đang hỗ trợ là giấy in A4 & tem siêu thị 3 tem ngang.
+2. Hướng dẫn in mã vạch Mincode từ Seller Center theo từng sản phẩm
+Bước 1: Tại Seller Center, Nhà Bán vào mục Sản phẩm 🡪 Danh sách sản phẩm 🡪 Chọn sản phẩm cần in Mincode 🡪 Chọn Thêm tác vụ 🡪 In mincode
+Bước 2: Chọn mincode, nhập số lượng cần in trên từng SSKU.
+Bước 3: Chọn khổ giấy và bấm In.
+Bước 4: Dán mincode lên từng sản phẩm.
+Lưu ý: Giấy in tem mã vạch hệ thống Seller Center đang hỗ trợ là giấy in A4 & tem siêu thị 3 tem ngang.
+CHÚ Ý KHI DÁN MÃ MINCODE
+Mã Mincode phải dán trên từng sản phẩm.
+Đối với sản phẩm là Combo, hàng tặng (gift) Nhà Bán phải dán mã vạch SKU tương ứng với Combo, hàng tặng (gift).
+Mincode phải dán tách rời với phiếu gửi hàng (PO).
+Tem barcode in bằng giấy A4 (hoặc chất liệu giấy tương tự) cần được dán 1 lớp băng keo trong bên ngoài để bảo vệ tem. (Tem barcode in bằng giấy chuyên dụng thì không cần làm điều này).
+Chất lượng tem in và cách dán mã vạch: Mã vạch không bị mờ, lem mực, không dán vào mép, góc sản phẩm.
+Không dán tem ở vị trí làm che khuất tên sản phẩm chính và nội dung chi tiết của sản phẩm hay thông tin quan trọng: Mã ITC, mã Serial Number/IMEI, tem phụ…. Mã vạch cần được dán cho mỗi sản phẩm, không đặt code vào bên trong túi hàng khó nhận biết quét mã và  không được sử dụng một mã vạch cho nhiều sản phẩm được đóng gói chung (trừ hàng combo).
+Dán mã vạch trên 1 mặt phẳng và đồng nhất cùng 1 vị trí để các bộ phận trong kho dễ nhận thấy, dễ scan mã vạch. Vị trí dán mã  vạch tốt nhất là đè lên mã vạch có sẵn trên sản phẩm (không che toàn bộ, có thể để lại mã số) để 1 sản phẩm chỉ có 1 mã vạch duy  nhất tránh nhầm lẫn khi nhập, lưu trữ hàng hóa.
+Trong trường hợp tem barcode  không đảm bảo được chất lượng để lưu kho, bộ phận nhập kho Tiki có quyền từ chối hàng hóa nhập kho của Nhà Bán.
+Trong trường hợp tem barcode  không đảm bảo được chất lượng để lưu kho, bộ phận nhập kho Tiki có quyền từ chối hàng hóa nhập kho của Nhà Bán.
+V. IMEI/SERIAL NUMBER, HẠN SỬ DỤNG, THỜI GIAN KÍCH HOẠT BẢO HÀNH ĐIỆN TỬ
+1. IMEI/Serial Number
+Đối với hàng hóa có IMEI/Serial number, Nhà Bán phải có trách nhiệm cung cấp danh sách IMEI hoặc;  và mã Seri Number theo từng đơn hàng hoặc Phiếu nhập hàng . Theo đó, Nhà Bán phải chịu trách nhiệm trên tính đúng đắn, hợp lệ của mã này.
+Nếu thuộc tính của sản phẩm có IMEI/Serial Number hay trên hệ thống cần khai báo mã IMEI/Seri Number thì đối với tất cả loại hình nhập kho Tiki sẽ kiểm tra và quét mã IMEI/Serial Number thực tế của hàng hóa đó trước khi nhập kho.
+Lưu ý: Mã IMEI hoặc Serial Number trên hàng hóa cần đảm bảo rõ ràng, không bị gạch xóa, mờ, không che chắn bởi tem phụ hoặc các thông tin khác để kho Tiki dễ dàng quét mã.
+2. Thời gian kích hoạt bảo hành điện tử
+Sản phẩm điện tử CẦN KÍCH HOẠT TRƯỚC, Nhà bán cần đảm bảo:
+KHÔNG kích hoạt trước ngày Tiki đến lấy hàng
+KHÔNG kích hoạt trước QUÁ 7 NGÀY tính đến ngày “Giao hàng thành công”
+Thời gian kích hoạt bảo hành cần ĐẢM BẢO QUYỀN LỢI CHO KHÁCH HÀNG liên quan đến:
+Các chính sách
+Chương trình khuyến mãi về bảo hành
+Bảo hiểm của hãng.
+Sản phẩm ĐÃ ĐƯỢC KÍCH HOẠT TRƯỚC khi giao khách hàng:
+Nhà Bán cần đảm bảo đầy đủ quyền lợi về đổi/trả/bảo hành cho Khách hàng khi có yêu cầu.
+Nếu Khách hàng từ chối nhận hàng, Tiki sẽ thu hồi và trả hàng cho Nhà Bán.
+Nếu Khách hàng khiếu nại về việc sản phẩm đã được kích hoạt trước khi nhận & không đồng ý sử dụng, Nhà bán phải:
+Đồng ý cho Khách trả hàng/đổi hàng.
+Trong trường hợp đổi hàng, Nhà bán có trách nhiệm xử lý yêu cầu trong 24 giờ làm việc (3 ngày) cho Khách hàng
+3. Hạn sử dụng (HSD)
+Nếu bản chất hàng hóa cần có quản lý HSD, Nhà Bán bắt buộc khai báo lên hệ thống trước khi nhập kho như sau:
+Bước 1: Nhà Bán truy cập Seller Center, tại mục Sản phẩm > Danh sách sản phẩm > Chọn sản phẩm cần chỉnh sửa.
+Bước 2: Tại phần Thông tin chung, chọn Có và nhập hạn sử dụng của sản phẩm.
+Tại thời điểm nhập hàng vào kho Tiki: Thời hạn sử dụng còn lại của hàng hóa phải không nhỏ hơn và thỏa mãn đồng thời quy định gồm: % tổng thời hạn sử dụng còn lại và số ngày hạn sử dụng còn lại, cụ thể như sau:
+Ngành hàng
+Loại sản phẩm
+% Tổng thời hạn sử dụng còn lại
+Số ngày hạn sử dụng còn lại
+Sức khỏe – Làm đẹp
+Sản phẩm chính
+40%
+90 ngày
+Sản phẩm quà tặng
+35%
+90 ngày
+Ngành hàng khác
+Sản phẩm chính và sản phẩm quà tặng
+50%
+90 ngày
+Thông tin về Ngày sản xuất (NSX) và Hạn sử dụng (HSD) phải được thể hiện trên sản phẩm và/hoặc bao bì sản phẩm. Trong trường hợp sản phẩm chỉ có 1 trong 2 thông tin trên, Nhà Bán cần bổ sung lên tem phụ của sản phẩm.
+Trong từng lần nhập hàng, nếu sản phẩm có HSD không đồng nhất, Nhà Bán cần phân loại theo theo từng mức HSD tương ứng với từng SKU.
+Với sản phẩm được đóng dạng combo, Nhà Bán cần đặt các sản phẩm của combo sao cho phần thông tin HSD dễ nhìn, nếu combo có HSD chung thì phải là HSD ngắn nhất của 1 trong các sản phẩm thuộc combo.
+VI. NHÃN HÀNG HÓA
+1. Định nghĩa về nhãn hàng hóa
+Nhãn hàng hóa là bản viết, bản in, bản vẽ, bản chụp của chữ, hình vẽ, hình ảnh được dán, in, đính, đúc, chạm, khắc trực tiếp trên hàng hóa, bao bì thương phẩm của hàng hóa hoặc trên các chất liệu khác được gắn trên hàng hóa, bao bì thương phẩm của hàng hóa;
+Ghi nhãn hàng hóa là thể hiện nội dung cơ bản, cần thiết về hàng hóa lên nhãn hàng hóa để người tiêu dùng nhận biết, làm căn cứ lựa chọn, tiêu thụ và sử dụng; để nhà sản xuất, kinh doanh, thông tin, quảng bá cho hàng hóa của mình và để các cơ quan chức năng thực hiện việc kiểm tra, kiểm soát;
+Nhãn gốc của hàng hóa là nhãn thể hiện lần đầu do tổ chức, cá nhân sản xuất hàng hóa gắn trên hàng hóa, bao bì thương phẩm của hàng hóa;
+Nhãn phụ là nhãn thể hiện những nội dung bắt buộc được dịch từ nhãn gốc của hàng hóa bằng tiếng nước ngoài ra tiếng Việt và bổ sung những nội dung bắt buộc bằng tiếng Việt theo quy định của pháp luật Việt Nam mà nhãn gốc của hàng hóa còn thiếu.
+2. Quy định về nhãn hàng hóa:
+2.1 Quy định chung:
+Đối với hàng hóa nhập khẩu, không có xuất xứ từ Việt Nam (bao gồm hàng có thương hiệu và hàng OEM) mà trên nhãn chưa thể hiện hoặc thể hiện chưa đủ nội dung bắt buộc bằng Tiếng Việt thì trên bao bì đóng gói của nhà sản xuất hoặc trên  sản phẩm phải có nhãn phụ bằng Tiếng Việt và giữ nguyên nhãn gốc hàng hóa (không áp dụng nhãn phụ hàng hóa đối với những sản phẩm thuộc ngành hàng Book và OEM nội địa).
+Nhà Bán cam kết và bảo đảm rằng tất cả hàng hóa niêm yết trên SGD TMĐT Tiki.vn phải được dán nhãn hàng hóa với những nội dung bắt buộc bằng Tiếng Việt như sau:
+Tên hàng hóa
+Tên và địa chỉ của tổ chức, cá nhân chịu trách nhiệm về hàng hóa
+Xuất xứ hàng hóa
+Hướng dẫn sử dụng và lưu ý an toàn khi sử dụng (nếu có)
+Ngày sản xuất hoặc hạn dùng phải được thể hiện một cách rõ ràng
+Định lượng thể hiện bằng khối lượng tịnh hoặc thể tích.
+Nhãn hàng hóa phải được thể hiện trên hàng hóa, bao bì thương phẩm của hàng hóa ở vị trí khi quan sát có thể nhận biết được dễ dàng, đầy đủ các nội dung quy định của nhãn mà không phải tháo rời các chi tiết, các phần của hàng hóa và không  được che khuất những nội dung bắt buộc của nhãn gốc.
+2.2 Theo mô hình vận hành:
+Đối với hàng hóa mô hình lưu kho Tiki (FBT): Nhân viên kho Tiki sẽ kiểm tra nhãn hàng hóa bắt buộc cho tất cả các loại hàng hóa để nhập kho, nếu không đảm bảo các nội dung được nêu trong hướng dẫn này hàng hóa sẽ không được nhập hàng và lưu kho.
+Đối với hàng hóa mô hình Dropship và mô hình Nhà bán tự vận hành (SD): Hàng hóa đã được đóng gói sẵn sàng giao hàng, Tiki sẽ không kiểm tra hàng hóa có nhãn hay không, Nhà Bán chịu trách nhiệm về các vấn đề liên quan đến nhãn hàng hóa.
+3. Nhãn hàng hóa bắt buộc
+Lưu ý: Tên hàng hóa phải ở vị trí dễ thấy, dễ đọc trên nhãn hàng hóa. Chữ viết tên hàng hóa phải là chữ có kích thước lớn nhất so với các nội dung bắt buộc khác trên nhãn hàng hóa. Tên hàng hóa ghi trên nhãn do tổ chức, cá nhân sản xuất hàng hóa tự đặt và không được làm hiểu sai lệch về bản chất, công dụng và thành phần của hàng hóa.
+4. Vị trí dán nhãn hàng hóa
+Nhãn hàng hóa phải được thể hiện trên hàng hóa, bao bì thương phẩm của hàng hóa ở vị trí khi quan sát có thể nhận biết được dễ dàng, đầy đủ các nội dung quy định của nhãn mà không phải tháo rời các chi tiết, các phần của hàng hóa.
+Trường hợp không được hoặc không thể mở bao bì ngoài thì trên bao bì ngoài phải có nhãn và nhãn phải trình bày đầy đủ nội dung bắt buộc.
+Trường hợp do kích thước của nhãn hàng hóa không đủ để thể hiện tất cả các nội dung bắt buộc trên nhãn.
+5. Kích thước nhãn hàng hóa, màu sắc nhãn hàng hóa
+Kích thước của chữ và số phải bảo đảm đủ để đọc bằng mắt thường.
+Kích thước của chữ và số thể hiện đại lượng đo lường thì phải tuân thủ quy định của pháp luật về đo lường (ví dụ: kilôgam (kg), gam (g), miligam (mg), lít (l), mililít (ml); mét (m), decimét (dm), centimét (cm), milimét (mm) ….)
+Màu sắc của chữ, chữ số, hình vẽ, hình ảnh, dấu hiệu, ký hiệu ghi trên nhãn hàng hóa phải rõ ràng. Đối với những nội dung bắt buộc theo quy định thì chữ, chữ số phải có màu tương phản với màu nền của nhãn hàng hóa.
+6. Các lỗi thường gặp dẫn đến không đủ điều kiện nhập kho
+Hàng không có nhãn/nhãn phụ
+Nhiều sản phẩm được dán chung 1 nhãn hàng hóa
+Nhãn có chữ bị lem, chữ quá mờ, ướt lem,…
+Nhãn hàng hóa hoặc nhãn phụ bị dơ bẩn, bong tróc, rách dơ, bám bụi, gạch xóa, gấp nhăn.
+VII. SEAL NIÊM PHONG
+Seal niêm phong là một loại dụng cụ chuyên dùng để niêm phong, bảo mật và đảm bảo an ninh hàng hóa, sản phẩm. Tùy theo nhu cầu sử dụng của Nhà Bán mà có thể sử dụng những loại seal niêm phong khác nhau: Seal dạng tem dễ bể vỡ, seal void, … Băng keo trong suốt không được coi là dạng seal niêm phong nên đối với những sản phẩm lưu kho Tiki mà đóng gói đơn giản và dán bằng băng keo trong suốt, Tiki sẽ kiểm tra ngẫu nhiên sản phẩm bên trong.
+Đối với sản phẩm có tem niêm phong (seal) trên sản phẩm cần đảm bảo nhập kho còn nguyên seal, nếu seal của nhà sản xuất đã bị xé vì lý do kiểm tra hàng và bổ sung thông tin khác cho mỗi sản phẩm (dán tem phụ, dán code, tem bảo hành, …) trước khi giao hàng cho Tiki thì cần được niêm phong kín lại bằng seal của NCC/NBH.
+Đối với sản phẩm được niêm phong (seal) bằng chất liệu dễ bể vỡ, dễ rách, Nhà Bán có thể thực hiện bằng cách khò, quấn seal có chất liệu chống rách (PE, băng keo, …) chồng lên seal giấy để đảm bảo seal niêm phong sản phẩm còn nguyên vẹn.
+Đối với sản phẩm lưu kho Tiki có tem niêm phong (seal) trên sản phẩm mà hộp, thùng, … đựng sản phẩm không có niêm phong bên ngoài hoặc dán bằng băng keo trong thì Tiki sẽ tiến hành kiểm tra chi tiết hoặc kiểm tra ngẫu nhiên tùy theo tình hình nhập hàng tại mỗi kho của Tiki. Mục đích để đảm bảo sản phẩm bên trong nhập kho còn nguyên vẹn/nguyên seal hoặc có sản phẩm bên trong hay không. Sau đó kho Tiki sẽ tiến hành niêm phong lại bằng tem xanh của Tiki (nếu là hàng hóa giá trị cao) hoặc dán bằng băng keo trong.
+VIII. SẢN PHẨM CÓ GIFT, PHỤ KIỆN HOẶC COMBO
+Quấn chung và chắc chắn với nhau để tránh việc rơi rớt, thất thoát trong quá trình xử lý đơn hàng và dán mã vạch tương ứng với combo.
+Chất lượng vật tư dùng để quấn combo cần đảm bảo bền, sạch, không nên sử dụng các vật liệu đóng gói dễ hư hỏng (giòn, màng co cứng, dễ vỡ), không sử dụng túi nilon có màu (đen, đỏ….) vì không kiểm tra được sản phẩm bên trong, không dán băng keo trực tiếp lên sản phẩm.
+Nếu Nhà Bán sử dụng băng keo để quấn combo, cần đóng gói riêng từng sản phẩm, sau đó quấn băng keo các sản phẩm với nhau hoặc nếu không đóng gói riêng từng loại mà combo được quấn băng keo chung với nhau thì cần phải có bao bì phủ kín bên ngoài sản phẩm combo.
+Nếu Nhà Bán sử dụng túi nilon trong suốt: cần có băng keo niêm phong của Nhà Bán trên miệng túi để đảm bảo sản phẩm không rơi rớt, không bị bung trong quá trình lưu kho.
+Sản phẩm combo kèm quà tặng (thú bông, đồ chơi…) có hình thù khác biệt và kích thước lớn, Nhà Bán cần đóng gói riêng cho từng loại, đúng và chắc chắn theo quy định.
+Sản phẩm combo là hàng có vòi, nắp vặn, nắp bật, Nhà Bán cần lưu ý khi đóng gói combo với nhau cần để đúng chiều nắp của sản phẩm, không để lẫn lộn chiều nắp với nhau tránh ảnh hưởng sản phẩm khi lưu kho.
+IX. HÀNG NHẬP KHO NGẪU NHIÊN
+Sản phẩm nhập kho ngẫu nhiên được hiểu là một loại sản phẩm có cùng kiểu dáng, cùng chất liệu, cùng hoa văn, cùng chi tiết… nhưng có màu sắc khác nhau và phải được thể hiện trên trang web bằng hình ảnh và tên sản phẩm có ghi chú ngẫu nhiên.
+Nếu hàng hóa được khai báo trên hệ thống không phân loại theo màu sắc/ model hay không để rõ ràng hàng hóa giao ngẫu nhiên nhưng giao hàng hóa có màu sắc/ model ngẫu nhiên thì Tiki không nhập hàng.
+Đối với sản phẩm quà tặng ngẫu nhiên thì trên trang web Nhà Bán không cần để nhiều hình ảnh kèm theo, có thể để 1 hình ảnh duy nhất nhưng vẫn đáp ứng khái niệm của ngẫu nhiên mà Tiki đề ra.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 4.1 / 5. Số lượt đánh giá: 11
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

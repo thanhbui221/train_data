@@ -1,0 +1,137 @@
+Quy định khi chỉnh sửa nội dung sản phẩm – Học viện Tiki
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng FBT     Hoàn tiền nhanh       ASTRA+      Flash sale
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Quy định đăng tải sản phẩm
+Quy định khi chỉnh sửa nội dung sản phẩm
+● Quy chuẩn về thương hiệu
+● Quy chuẩn về tên sản phẩm
+● Quy chuẩn về hình ảnh sản phẩm
+● Quy định từ khóa trong nội dung sản phẩm
+● Quy định khi tạo sản phẩm có nhiều lựa chọn
+● Quy định khi chỉnh sửa nội dung sản phẩm
+● Quy chuẩn về nội dung đăng sản phẩm cho từng ngành hàng​
+● Quy định về việc tăng giá trước khuyến mãi
+● Quy định chính sách vi phạm sở hữu trí tuệ của Apple
+● Danh sách các loại chứng từ yêu cầu
+● Danh sách các sản phẩm cấm bán trên SGD TMĐT Tiki​
+● Danh mục yêu cầu về hồ sơ pháp lý Nhà Bán Hàng và hàng hóa
+Hợp lệ
+Không hợp lệ
+Lý do
+Nội dung từ chối
+Nội dung/
+Hình ảnh
+– Nội dung/hình ảnh sản phẩm chỉnh sửa giữ nguyên bản chất so với sản phẩm đăng bán ban đầu.
+– Chỉ điều chỉnh bổ sung thông tin hoặc hình ảnh nhằm làm rõ hơn về sản phẩm
+– Nội dung/hình ảnh hoàn toàn khác với sản phẩm đăng bán trước đó về tính chất, loại, mẫu sản phẩm.
+Ví dụ:
+Trước chính sửa: Iphone 7 vàng
+Sau chỉnh sửa: Iphone 7 đen
+Nội dung không đúng với sản phẩm đang bán, vui lòng tạo PSKU/MSKU mới
+– Trường hợp thay đổi bao bì sản phẩm BẮT BUỘC cần cung cấp :
+Hình ảnh bao bì cũ/mới
+Nội dung mô tả chi tiết cần thêm thông tin “Bao bì sản phẩm thay đổi theo đợt nhập hàng”.
+Trường hợp thay đổi bao bì:
+Không cung cấp hình ảnh bao bì cũ/mới
+Không có nội dung cụ thể để hướng dẫn khách hàng.
+Bao bì mới thể hiện tính chất sản phẩm hoàn toàn khác với sản phẩm gốc ban đầu. (*)
+Hình ảnh không đúng với sản phẩm đang bán. Nếu khác sản phẩm, vui lòng tạo PSKU/MSKU mới
+Thumbnail sản phẩm
+– Có chứa thời gian khuyến mãi rõ ràng
+– Thời gian khuyến mãi đồng bộ với thời gian hiện tại
+– Không có thời gian khuyến mãi
+– Thời gian khuyến mãi đã quá thời gian tại thời điểm kiểm duyệt
+Thumbnail khuyến mãi không có thời gian rõ ràng hoặc hết thời hạn khuyến mãi
+Ví dụ minh họa:
+TH1: Thay đổi nội dung/hình ảnh sản phẩm
+Trước chỉnh sửa
+Sau chỉnh sửa
+Kết quả
+Giày chạy bộ nam ASICS GT-2000 KNIT – Size US8.5 Xanh Dương
+Giày chạy bộ nam ASICS GT-2000 KNIT – Size US8.5 Xám
+Từ chối do thay đổi bản chất sản phẩm
+Giày chạy bộ nam ASICS GT-2000 KNIT – Size US8.5 Xanh Dương
+Mô tả sản phẩm:
+Thương hiệu: Asics
+Xuất xứ thương hiệu: Nhật Bản
+Mã sản phẩm: 1011A844.401
+Giày chạy bộ nam ASICS GT-2000 KNIT – Size US8.5 Xanh Dương
+Mô tả sản phẩm:
+Thương hiệu: Asics
+Xuất xứ thương hiệu: Nhật Bản
+Mã sản phẩm: 1011A844.401
+Hướng dẫn bảo quản
+Lau nhẹ với nước chất làm sạch chuyên dụng
+Không sử dụng chất tẩy
+Tránh phơi trực tiếp dưới ánh nắng gắt
+Thông tin thương hiệu
+Duyệt do chỉ điều chỉnh bổ sung thông tin làm rõ về sản phẩm
+TH2: Sản phẩm thay đổi bao bì
+Trước chỉnh sửa
+Sau chỉnh sửa
+Kết quả
+Bộ 4 Kem đánh răng Colgate the mát thổi bùng sảng khoái Maxfresh 230g tặng bàn chải đánh răng lông tơ
+Mô tả sản phẩm:
+Bộ 4 Kem đánh răng Colgate Maxfresh Thổi Bùng Sảng Khóai 230g, tặng bàn chải đánh răng lông tơ cao cấp Thái Lan
+Công thức dạng Gel Thơm Mát với Tinh Thể Nước Súc Miệng
+Hương bạc hà the mát tự hòa tan trộn lẫn trong kem, mang cảm giác thật sáng khoái và hơi thở thơm mát suốt nhiều giờ
+Chống mảng bám, phòng chống sâu răng, hôi miệng và các bệnh nha chu
+Phát triển bởi đội ngũ chuyên gia uy tín hàng đầu của tập đoàn Unilever, sản xuất trên dây chuyền công nghệ hiện đại, đảm bảo vệ sinh
+Bộ 4 Kem đánh răng Colgate the mát thổi bùng sảng khoái Maxfresh 230g tặng bàn chải đánh răng lông tơ
+Mô tả sản phẩm:
+Bộ 4 Kem đánh răng Colgate Maxfresh Thổi Bùng Sảng Khóai 230g, tặng bàn chải đánh răng lông tơ cao cấp Thái Lan
+Công thức dạng Gel Thơm Mát với Tinh Thể Nước Súc Miệng
+Hương bạc hà the mát tự hòa tan trộn lẫn trong kem, mang cảm giác thật sáng khoái và hơi thở thơm mát suốt nhiều giờ
+Chống mảng bám, phòng chống sâu răng, hôi miệng và các bệnh nha chu
+Phát triển bởi đội ngũ chuyên gia uy tín hàng đầu của tập đoàn Unilever, sản xuất trên dây chuyền công nghệ hiện đại, đảm bảo vệ sinh
+“Bao bì sản phẩm giao ngẫu nhiên tùy đợt nhập hàng”
+Duyệt do có đầy đủ hình ảnh bao bì cũ và mới.
+Nội dung có “Bao bì sản phẩm thay đổi theo đợt nhập hàng”
+(*) Trường hợp nhà bán thay đổi thumbnail KM, nhưng không đúng với yêu cầu Tiki sẽ từ chối với lý do: Thumbnail khuyến mãi không có thời gian rõ ràng hoặc hết thời hạn khuyến mãi.
+TH3: Thumbnail sản phẩm:
+Trước chỉnh sửa
+Sau chỉnh sửa
+Kết quả
+Dầu Xả Bưởi – Phục Hồi Tóc Hư Tổn, Nuôi Dưỡng Tóc Mềm Mượt Tự Nhiên Milaganics (200ml / Chai)
+Dầu Xả Bưởi – Phục Hồi Tóc Hư Tổn, Nuôi Dưỡng Tóc Mềm Mượt Tự Nhiên Milaganics (200ml / Chai)
+Từ chối do không có thời gian KM rõ ràng
+Ví dài cầm tay YV35 mẫu mới nhiều màu
+Ví dài cầm tay YV35 mẫu mới nhiều màu
+Từ chối do: Thời gian trong thumbnail không rõ ràng (Không ghi rõ từ ngày mấy đến ngày mấy)
+Áo sơ mi nữ tay raglan GUMAC đồ công sở thanh lịch AB413 – Hồng – XS
+Áo sơ mi nữ tay raglan GUMAC đồ công sở thanh lịch AB413 – Hồng – XS
+Từ chối do: Thời gian khuyến mãi đã quá thời gian tại thời điểm kiểm duyệt (19/5/2021)
+Serum Bưởi Kích Thích Mọc Tóc Milaganics (250ml)
+Serum Bưởi Kích Thích Mọc Tóc Milaganics (250ml)
+Duyệt: Do có thông tin thời gian KM rõ ràng và đúng với thời điểm duyệt (18/06/2021)
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 4.3 / 5. Số lượt đánh giá: 7
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

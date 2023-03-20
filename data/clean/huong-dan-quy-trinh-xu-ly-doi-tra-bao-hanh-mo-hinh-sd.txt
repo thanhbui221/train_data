@@ -1,0 +1,112 @@
+[Mô hình SD] Hướng dẫn quy trình xử lý đổi/trả/bảo hành – Học viện Tiki
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng FBT     Hoàn tiền nhanh       ASTRA+      Flash sale
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Hoàn trả
+[Mô hình SD] Hướng dẫn quy trình xử lý đổi/trả/bảo hành
+● Hướng dẫn theo dõi giao dịch RMA (Đổi/trả)
+● Hướng dẫn tạo kho trả hàng
+● Hướng dẫn quản lý giao dịch bồi thường
+●
+[Mô hình FBT] Hướng dẫn quy trình xử lý đổi/trả/bảo hành
+● [Mô hình Dropship] Hướng dẫn xử lý đơn hàng hoàn
+●
+[Mô hình Dropship] Hướng dẫn quy trình xử lý đổi/trả/bảo hành
+●
+[Mô hình Dropship] Hướng dẫn quy trình hoàn tiền nhanh
+●
+[Mô hình SD] Hướng dẫn quy trình xử lý đổi/trả/bảo hành
+● Quy định xử lý khiếu nại
+Thao tác xử lý đơn hàng hoàn trả về Nhà Bán đúng sẽ giúp hạn chế các sai phạm ảnh hưởng đến hiệu quả kinh doanh. Với mô hình vận hành SD, Quý Nhà Bán cần quan tâm quy trình xử lý hàng đổi/trả/bảo hành – Đơn hàng giao thành công.
+I. QUY ĐỊNH CHUNG
+1. Điều kiện áp dụng
+Đối với hàng hóa đủ điều kiện đổi – trả
+Nhà Bán phản hồi cho Tiki qua hệ thống, Tiki lên đơn hàng mới theo đơn hàng đổi trả và Nhà Bán giao tới khách hàng sản phẩm mới tương tự hoặc Tiki xử lý hoàn tiền cho khách hàng.
+Đối với hàng hóa đủ điều kiện bảo hành
+Nhà Bán bảo hành hàng hóa đúng như quy định (15-30 ngày), sau đó gửi trả hàng hóa về cho khách hàng khi hoàn tất bảo hành.
+Nếu lỗi thuộc về Nhà Sản Xuất hoặc từ Nhà Bán không thể bảo hành, Nhà Bán hoàn trả cho khách hàng sản phẩm mới tương tự hoặc Tiki xử lý hoàn tiền cho khách hàng.
+2. Cam kết xử lý vận hànhKhi vận hành theo mô hình SD, Nhà Bán phải đảm bảo:
+Khách hàng chỉ phải thanh toán đúng số tiền của đơn hàng thể hiện trên SGD TMĐT Tiki.vn.
+Đóng gói và bảo quản hàng hóa theo đúng quy định tiêu chuẩn của Tiki dành cho Nhà Bán.
+Khách hàng được quyền kiểm tra và xác nhận hàng hóa khi giao hàng.
+Hỗ trợ tư vấn thông tin liên quan cho khách hàng và hỗ trợ khách hàng lắp đặt hàng hóa trong trường hợp Hàng hóa có yêu cầu lắp đặt.
+II. QUY TRÌNH XỬ LÝ YÊU CẦU ĐỔI/ TRẢ/ BẢO HÀNH - MÔ HÌNH SD
+Bước 1: Tiki tiếp nhận, kiểm tra yêu cầu đổi/trả/bảo hành của khách hàng, tạo mã khiếu nại (C-return).
+Bước 2: Tiki thông báo với Nhà Bán lý do và yêu cầu đổi/trả/bảo hành của khách hàng.
+Bước 3: Nhà Bán tự thu hồi sản phẩm và phản hồi (Đồng ý/Từ chối) phương án xử lý yêu cầu của khách hàng trên Seller Center.
+Bước 4: Tiki tiếp nhận phản hồi của Nhà Bán và xử lý yêu cầu đổi/trả/bảo hành như bên dưới:
+Đồng ý yêu cầu hoàn tiền: Tiki xử lý hoàn tiền cho khách hàng và cấn trừ vào kỳ thanh toán tiếp theo của Nhà Bán.
+Đồng ý yêu cầu đổi mới: Tiki tạo đơn hàng mới trên hệ thống, Nhà Bán tiến hành xử lý đơn hàng.
+Đồng ý yêu cầu bảo hành: Nhà Bán/Hãng có trách nhiệm xử lý và chịu chi phí liên quan đến xử lý bảo hành và hoàn trả hàng lại cho khách hàng.
+Từ chối yêu cầu của khách hàng: Tiki thông báo cho Nhà Bán trả lại hàng cho khách hàng.
+III. GIẢI NGHĨA CÁC TRẠNG THÁI TRÊN HỆ THỐNG SELLER CENTER
+Trạng thái
+Ý nghĩa
+Mới
+Tiki tiếp nhận yêu cầu và xác minh thông tin đổi, trả và tạo mã yêu cầu đổi trả trên hệ thống.
+Trạng thái chi tiết Đã tạo yêu cầu – Seller tự thu hồi
+Nhà Bán tiến hành thu hồi hàng hóa, kiểm tra hàng hóa,  trao đổi với Khách hàng và xác nhận Đồng ý/Từ chối phương án xử lý yêu cầu đổi-trả-bảo hành.
+Xử lý khiếu nại
+Trường hợp Nhà Bán Từ chối yêu cầu đổi – trả của Khách hàng, các mã đổi trả sẽ được chuyển qua tab này.
+Tiki sẽ kiểm tra, xác minh chứng cứ, biên bản,… và đưa ra quyết định yêu cầu đổi – trả của Khách hàng.
+Trạng thái Đổi hàng/Hoàn tiền
+Tiki tiến hành xử lý yêu cầu đổi trả của Khách hàng khi Nhà Bán /Tiki xác nhận Đồng ý yêu cầu đổi trả của Khách hàng.
+Xử lý hoàn tiền (Yêu cầu trả hàng/hoàn tiền)
+Tạo đơn hàng mới đổi lại (Yêu cầu Đổi hàng)
+(2 ngày làm việc)
+Từ chối/Hủy
+Các mã đổi trả khi được Nhà Bán chọn Từ chối, Nhà Bán cần cung cấp cho Tiki bằng chứng chứng minh Nhà Bán đã xử lý đơn hàng đúng yêu cầu (ví dụ: Hình ảnh, Video đóng hàng…) để Tiki giải quyết khiếu nại phát sinh từ Khách hàng (nếu có).
+IV. HƯỚNG DẪN XỬ LÝ
+YÊU CẦU
+ĐỔI/ TRẢ TRÊN HỆ THỐNG
+Bước 1: Truy cập Seller Center, Nhà Bán chọn Đơn hàng > Đổi trả bảo hành.
+Tại đây, Nhà Bán có thể nhìn thấy toàn bộ đơn hàng đổi – trả
+Bước 2: Kiểm tra thông tin đơn hàng và lý do đổi-trả.
+Nhà Bán click vào dấu “+” để biết thông tin sản phẩm, lý do đổi – trả và phương án xử lý do Khách hàng yêu cầu.
+Nhà Bán có thể bấm trực tiếp vào Mã đổi trả để xem các thông tin về hình ảnh/video bằng chứng liên quan mà khách hàng cung cấp tại mục Giải pháp cũng như thông tin về các bước đổi trả, hoàn tiền, vận chuyển,…tại phần Lịch sử.
+Bước 4: Nhà Bán tiến hành thu hồi sản phẩm về kiểm tra, sau đó trao đổi và thương lượng trực tiếp với khách hàng.
+Lưu ý: Thông tin thu hồi hàng sẽ không hiển thị trên Seller Center.
+Bước 5: Xác nhận Đồng ý Hoàn tiền/ Đổi mới không thu hồi sản phẩm.
+Tại tab Mới – Nhà Bán chọn mã đổi trả muốn xử lý, xác nhận Đồng ý không thu hồi sản phẩm.
+Nhà Bán có thể xác nhận Đồng ý hoặc Từ chối tất cả sản phẩm hoặc Đồng ý một phần trong yêu cầu đổi, trả, bảo hành.
+Lưu ý:
+Sau khi trao đổi với Khách hàng, Nhà Bán muốn thay đổi phương án xử lý của yêu cầu đổi/trả/bảo hành, Nhà Bán cần xác nhận Từ chối và ghi chú phương án mới cần đổi. Tiki sẽ tiếp nhận và xử lý thay đổi phương án sau đó.
+Đối với trường hợp sau khi bảo hành xong, Nhà Bán cần phải phản hồi cho Tiki qua email.
+Bước 6: Xử lý yêu cầu đổi, trả
+Trường hợp 1: Tiki ĐỒNG Ý
+Trường hợp 2: Tiki TỪ CHỐI
+Tiki xử lý mã đổi trả theo yêu cầu từ phía khách hàng:
+Hoàn tiền
+Đổi đơn hàng mới
+Tiki thông báo và yêu cầu Nhà Bán trả lại hàng cho khách hàng.
+Lưu ý: Nhà Bán thanh toán phí vận chuyển phát sinh.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 4.3 / 5. Số lượt đánh giá: 6
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.
