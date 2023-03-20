@@ -1,0 +1,119 @@
+Hướng dẫn đổi và quản lý Astra dành cho Nhà Bán – Học viện Tiki
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng FBT     Hoàn tiền nhanh       ASTRA+      Flash sale
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Thanh toán và quản lý tài sản
+Hướng dẫn đổi và quản lý Astra dành cho Nhà Bán
+● Hướng dẫn tạo yêu cầu thanh toán và quản lý số dư tài khoản
+● Hướng dẫn đổi và quản lý Astra dành cho Nhà Bán
+● Hướng dẫn nạp và quản lý Tiki Xu dành cho Nhà Bán
+● Hướng dẫn tra cứu chính sách phí và biểu phí trên sàn TMĐT Tiki​
+● Hướng dẫn xem sao kê, đối soát giao dịch và tra cứu hóa đơn phí dịch vụ
+● Hướng dẫn lập hóa đơn khi bán hàng
+● Hướng dẫn đăng ký dịch vụ trả góp trên Tiki
+●
+Nội dung tham khảo khi Nhà Bán làm việc với Cơ quan thuế
+Astra (ASA) là điểm thưởng của Tiki dành cho khách hàng khi mua sắm trên sàn. Khách hàng có thể dùng Astra để thăng hạng SEP hoặc đổi lấy quyền lợi khi mua sắm như Freeship, Mã giảm giá. Ngoài ra, điểm thưởng có thể có lời khi khách hàng tham gia giao dịch Astra / Xu ở sàn Tiki Exchange.
+Đối với Nhà Bán, Astra sẽ là phương tiện hữu ích để Nhà Bán gia tăng mức độ hấp dẫn cho sản phẩm hoặc gian hàng của mình đối với khách hàng, thông qua các chương trình như thưởng Astra cho khách hàng đánh giá sản phẩm cùng rất nhiều ứng dụng khác trong tương lai.
+Tham khảo thêm:
+Hướng dẫn nạp và quản lý Tiki Xu dành cho Nhà Bán
+Hướng dẫn sử dụng công cụ Chiến dịch săn Astra
+Hướng dẫn sử dụng công cụ Chiến dịch đánh giá sản phẩm
+I. HƯỚNG DẪN DÙNG TIKI XU MUA ASTRA
+Bước 1: Tại Seller Center, Nhà Bán chọn mục Quản lý tài chính > Quản lý tài sản > Tại tab Astra, chọn Mua Astra.
+Bước 2: Nhập số Xu mong muốn sử dụng để mua Astra (tối thiểu 20.000 Xu). Dựa trên tỷ giá tốt nhất trên thị trường tại thời điểm đó, hệ thống sẽ hiển thị:
+Số Astra ước tính nhận được (đã trừ phí giao dịch 0,1% tính trên Astra) .
+Tỷ giá trung bình ASA/Xu
+Phí giao dịch 0,1% tính trên Astra
+Sau đó, bấm Tiếp tục.
+Trong trường hợp số Xu hiện tại của Nhà Bán không đủ để mua Astra, bấm Nạp thêm để thực hiện việc nạp Tiki Xu.
+Bước 3: Kiểm tra thông tin và bấm Xác nhận.
+Lưu ý:
+Hiện tại hệ thống chỉ cho phép Nhà Bán trao đổi từ Tiki Xu sang Astra (theo lệnh nhanh), chưa hỗ trợ trao đổi theo chiều ngược lại từ Astra sang Tiki Xu.
+Số Astra ước tính nhận được có thể sẽ khác với số lượng thực nhận do tỷ giá Astra/Xu liên tục thay đổi theo các lệnh bán trên thị trường.
+Số lượng Astra ước tính nhận được là số Astra đã trừ phí giao dịch (0,1% tính trên Astra) theo quy định của Tiki.
+II. HƯỚNG DẪN QUẢN LÝ GIAO DỊCH ASTRA
+1. Tổng quan
+Tại trang Quản lý tài chính > Quản lý tài sản > tab Astra, Nhà Bán có thể theo dõi các thông tin sau:
+Số Astra hiện có của Nhà Bán và giá trị quy đổi ước tính sang Tiki Xu tại thời điểm hiện tại.
+Tỷ giá quy đổi Astra/Tiki Xu trên sàn Tiki Exchange.
+2. Kiểm tra lịch sử giao dịch Astra
+Tại mục Lịch sử giao dịch sẽ hiển thị các giao dịch biến động số dư Astra của Nhà Bán (tối đa 3 tháng gần nhất), bao gồm các thông tin như Mã giao dịch, Thời gian giao dịch, Loại giao dịch, Số Astra giao dịch (hiển thị số Astra cuối cùng Nhà Bán nhận được sau khi đã trừ phí giao dịch), Trạng thái (Hoàn thành, Đang thực hiện, Thất bại), Ghi chú.
+Nhà Bán có thể:
+Lọc và tìm kiếm mã giao dịch theo Trạng thái, Loại giao dịch tương ứng với chu kỳ theo tuần/tháng hoặc ngày cụ thể tại mục Chu kỳ.
+Xem nhanh tổng Astra vào và tổng Astra ra trong một khoảng thời gian nhất định tại mục Tổng quan.
+III. CÁC CÂU HỎI THƯỜNG GẶP
+1. Làm thế nào tôi có thể sở hữu Astra?
+Nhà Bán có thể sở hữu Astra bằng hai cách:
+Cách 1: Nạp Tiki Xu vào tài khoản của Nhà Bán và dùng Tiki Xu mua Astra theo lệnh nhanh. Tham khảo Hướng dẫn nạp và quản lý Tiki Xu dành cho Nhà Bán.
+Cách 2: Tạo Chiến dịch săn Astra bằng mã giảm giá.
+2. Mua Astra theo lệnh nhanh là gì?
+Mua Astra theo lệnh nhanh được thực hiện ngay lập tức khi Nhà Bán đặt lệnh, theo mức giá tốt nhất hiện có trên thị trường ở Tiki Exchange. Lệnh này được thực hiện dựa trên các lệnh chờ bán Astra đã nằm trong sổ lệnh.
+Nhà Bán dùng Tiki Xu trong tài khoản để thực hiện lệnh nhanh mua Astra.
+Khối lượng Astra mua được sẽ tùy thuộc vào kết quả giao dịch thực tế sau khi đã khớp lệnh hoàn toàn.
+3. Cách thức hoạt động mua Astra theo lệnh nhanh là gì? Tôi dùng 20.000 Xu để đặt mua Astra theo lệnh nhanh, thì sẽ nhận được bao nhiêu Astra?
+Bạn có thể thấy theo sổ lệnh, 60 ASA được đặt bán với giá 200 Xu. Đó là giá bán thấp nhất thị trường và sàn sẽ khớp lệnh mua Astra với giá 200 Xu trước.
+Tổng số Xu sử dụng là 12.000 Xu (60 ASA × 200 Xu), nên sàn sẽ dùng 8.000 Xu còn lại để tiếp tục khớp với giá bán thấp nhất tiếp theo — 210 Xu.
+Tổng kết:
+Với 20.000 Xu, Nhà Bán sẽ mua được:
+60 ASA với giá 200 Xu → Tốn 12.000 Xu để mua
+38 ASA với giá 210 Xu → Tốn 7.980 Xu để mua
+→  Tổng cộng Nhà Bán dùng 19.980 Xu để mua 98 ASA, 20 Xu còn lại sẽ được trả về tài khoản Tiki Xu của Nhà Bán.
+Phí giao dịch: 0,1% sẽ tính trên số lượng Astra nhận được: 98 x 0,1% = 0,098 ASA.
+Số Astra thực nhận: 98 – 0,098 = 97,90. Số Astra thực nhận (đã trừ phí) sẽ được hiển thị trong bảng lịch sử giao dịch cùng với tỷ giá trung bình Astra/Xu khi khớp lệnh.
+4. Tôi có thể xem lại lịch sử giao dịch dùng Xu mua Astra ở đâu?
+Nhà Bán có thể theo dõi lịch sử giao dịch dùng Xu mua Astra ở bảng Lịch sử giao dịch:
+Tại tab Astra: Ghi nhận số Astra Nhà Bán thực nhận.
+Tại tab Tiki Xu: Ghi nhận số Xu thực trừ.
+Như ví dụ ở câu 3, ở bảng Lịch sử giao dịch tại tab Astra, Nhà Bán sẽ nhìn thấy số Astra thực nhận 97,90 và nội dung chi tiết ở cột Ghi chú.
+Tại mục Lịch sử giao dịch, Nhà Bán có thể theo dõi các giao dịch nạp Tiki Xu và sử dụng Tiki Xu để mua Astra.
+Riêng với mỗi giao dịch dùng Tiki Xu để mua Astra, hệ thống sẽ hiển thị 3 dòng giao dịch trạng thái giao dịch theo thứ tự như sau:
+(1): Hiển thị số Xu Nhà Bán vừa nạp theo đơn hàng.
+(2): Hiển thị đúng số Xu mà Nhà Bán điền vào để mua Astra (20.000), với nội dung chi tiết ở cột Ghi chú “Tạo giao dịch Tiki Exchange”, trạng thái Thất bại → Nhà Bán không bị trừ 20.000 Xu.
+(3): Hiển thị số Xu thực trừ cuối cùng (19.980), với nội dung chi tiết ở cột Ghi chú, trạng thái “Hoàn thành” → Nhà Bán bị trừ 19.980 Xu.
+5. Số lượng Astra ước tính nhận được là gì?
+Số lượng Astra ước tính nhận được có thể sẽ khác so với số lượng thực tế sau khi Nhà Bán bấm Xác nhận do tỷ giá Astra liên tục thay đổi theo các lệnh bán trên thị trường. Số lượng Astra ước tính này đã bao gồm 0,1% phí giao dịch.
+6. Tỷ giá Astra trung bình là gì?
+Tỷ giá Astra trung bình là số trung bình cộng (các) tỷ giá Astra được khớp lệnh khi Nhà Bán đặt lệnh mua nhanh Astra.
+Ví dụ: Nhà Bán dùng 20.000 Xu để mua Astra, trong đó có 60 ASA với giá 200 Xu, 38 ASA với giá 210 Xu.
+→  Tỷ giá trung bình 1 ASA = 205 Xu.
+7. Giao dịch mua Astra có tính phí không?
+Giao dịch mua Astra tính phí 0,1% trên số lượng Astra nhận được sau khi khớp lệnh.
+8. Tôi có thể chuyển Astra từ tài khoản mua hàng của tôi sang tài khoản Nhà Bán không?
+Hiện tại không thể chuyển Astra từ tài khoản mua hàng sang tài khoản Nhà Bán.
+9. Tôi có thể mua Astra theo giá tôi mong muốn được không?
+Hiện tại Tiki chưa hỗ trợ mua Astra theo giá cố định mà Nhà Bán mong muốn.
+10. Tiki có cung cấp hóa đơn cho các giao dịch dùng Tiki Xu mua Astra không?
+Các giao dịch dùng Tiki Xu mua Astra hiện không hỗ trợ xuất hóa đơn.
+11. Tôi có thể dùng Astra để đổi sang Tiki Xu không?
+Hiện tại Nhà Bán không dùng Astra để đổi sang Tiki Xu được.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 5 / 5. Số lượt đánh giá: 1
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

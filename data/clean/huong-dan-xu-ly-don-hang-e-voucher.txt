@@ -1,0 +1,143 @@
+[Mô hình E-Delivery] Hướng dẫn xử lý đơn hàng – Học viện Tiki
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng FBT     Hoàn tiền nhanh       ASTRA+      Flash sale
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Xử lý đơn hàng
+[Mô hình E-Delivery] Hướng dẫn xử lý đơn hàng
+● [Mô hình FBT] Quy trình xử lý đơn hàng
+● [Mô hình Dropship] Hướng dẫn xác nhận và xử lý đơn hàng
+● [Mô hình Dropship] Hướng dẫn đóng gói đơn hàng
+● [Mô hình SD] Hướng dẫn xử lý đơn hàng
+● [Mô hình SD] Quy chuẩn đóng gói hàng hóa
+● [Mô hình E-Delivery] Hướng dẫn xử lý đơn hàng
+● OVL - Chỉ số giới hạn đơn hàng hàng ngày
+● Hướng dẫn xem lịch sử mua hàng của khách hàng
+● Hướng dẫn phòng tránh việc giao sai, giao thiếu hoặc giao hàng rỗng
+Thao tác xử lý đơn hàng khi vận hành mô hình E-Delivery đúng và nhanh chóng sẽ giúp tăng hiệu quả kinh doanh, đồng thời hạn chế các sai phạm ảnh hướng đến các chỉ số vận hành của Quý Nhà Bán.
+I. ĐỊNH NGHĨA E-VOUCHER
+E-voucher là loại SKU dành cho Nhà Bán sử dụng mô hình E-delivery để giao cho Người mua. Có 2 loại e-voucher:
+1. Tiki Voucher
+Mã code được hệ thống Tiki tạo tự động.
+Hạn sử dụng (HSD) của mã code sẽ là hạn hiển thị của SKU tại thời điểm khách mua.
+Nhà Bán phải dùng Seller Center của Tiki để xác thực mã.
+Thích hợp cho các Nhà Bán vừa và nhỏ, không có hệ thống quản lý mã code riêng.
+2. Store Voucher
+Mã code được Nhà Bán tạo sẵn và nhập vào hệ thống, Tiki sẽ trích xuất và gửi khi khách mua
+1 voucher có thể có nhiều code với HSD khác nhau. HSD này sẽ được Nhà Bán chọn mỗi lần nhập code lên hệ thống.
+Khi khách dùng voucher, Nhà Bán nhập mã code vào hệ thống của mình (POS, ERP…) để xác thực.
+Thích hợp cho các Nhà Bán vừa và lớn, có hệ thống quản lý mã riêng (POS, ERP…)
+II. QUY TRÌNH MUA E-VOUCHER CỦA KHÁCH HÀNG
+Bước 1: Khách hàng chọn mua và tiến hành thanh toán E-voucher trên trang Tiki.vn
+Bước 2: Hệ thống Tiki gửi tin nhắn xác nhận kèm mã voucher cho Khách hàng.
+III. QUY TRÌNH VẬN HÀNH MÔ HÌNH E-DELIVERY CỦA NHÀ BÁN
+Bước 1: Nhà Bán đăng ký voucher dịch vụ trên Tiki.
+Bước 2: Tiki tiếp nhận đơn hàng và thanh toán từ khách hàng. Tiki sẽ tự động gửi mã E-Voucher đến số điện thoại khách hàng đã đăng ký.
+Bước 3: Ngay khi khách hàng đến sử dụng hàng hóa/dịch vụ, Nhà Bán kích hoạt mã E-Voucher trên Seller Center.
+Bước 4: Tiki đảm nhiệm việc thanh toán, đổi trả E-voucher.
+Lưu ý: Nhà Bán phải đảm bảo:
+Không được quyền từ chối cung cấp hàng hóa/dịch vụ cho khách hàng khi khách hàng sử dụng E-Voucher được phát hành hợp lệ bởi Tiki.
+Không thay đổi giá cung ứng hàng hóa/dịch vụ trong suốt thời hạn của E-Voucher, bao gồm cả thời gian gia hạn (nếu có).
+Không tự ý thu thêm tiền của khách hàng trừ trường hợp khách hàng sử dụng các hàng hóa/dịch vụ khác không được ghi nhận trong E-Voucher.
+Chịu trách nhiệm xử lý các khiếu nại của khách hàng
+Cung cấp các chứng từ hợp lệ liên quan đến việc sử dụng hàng hóa/dịch vụ của khách hàng theo quy định của Pháp luật.
+Kiểm tra tính hợp lệ của E-Voucher ngay tại thời điểm khách hàng mang E-Voucher đến sử dụng.
+IV. HƯỚNG DẪN TẠO E-VOUCHER
+A. Điều kiện tạo E-voucher
+Để tạo một SKU E-voucher và hiển thị trên Tiki.vn thì cần thỏa các điều kiện sau:
+Nhà Bán kinh doanh các loại voucher, thẻ thanh toán, …
+Nhà Bán đang hoạt động và được kích hoạt mô hình E-delivery. Nếu chưa được kích hoạt, Nhà Bán có thể truy cập Thông tin nhà bán > Thiết Lập Cửa Hàng và Thông Tin Liên Lạc > Mô hình vận hành & Kho hàng > E-voucher để bật mô hình.
+B. Thiết lập địa chỉ sử dụng voucher
+Trước khi tạo sản phẩm voucher, Nhà Bán cần truy cập Thông tin nhà bán > Thiết Lập Cửa Hàng và Thông Tin Liên Lạc > Mô hình vận hành & Kho hàng > E-voucher > Thiết lập danh sách cửa hàng.
+Để tạo địa chỉ cửa hàng mới, Nhà Bán chọn “Tạo mới” > Điền đầy đủ thông tin và bấm OK.
+Lưu ý:
+Tên cửa hàng không được trùng.
+Địa chỉ phải được chọn từ danh sách gợi ý khi nhập.
+Thành phố và Quận phải khớp với Địa chỉ đã chọn ở trên.
+C. Tạo mới Voucher
+Các bước thực hiện sẽ giống tạo 1 sản phẩm mới, Nhà Bán xem tại đây.
+1. Ở phần Thông tin chung, nếu Nhà Bán chưa được bật mô hình hoạt động E-voucher, khi chọn danh mục Voucher – Dịch vụ sẽ hiển thị thông báo như bên dưới.
+2. Ở phần Mô tả sản phẩm,  Nhà Bán bắt buộc điền các thông tin về việc sử dụng voucher tại mục Hướng dẫn sử dụng giúp Khách hàng hiểu rõ hơn.
+3. Ở phần Mô tả sản phẩm > Địa chỉ sử dụng, bắt buộc Nhà Bán phải thiết lập danh sách cửa hàng trước hoặc có thể click vào nút Quản lý địa chỉ cửa hàng ở cuối danh sách để bắt đầu thiết lập. Sau đó,  Nhà Bán bấm biểu tưởng để cập nhật lại danh sách và chọn địa chỉ sử dụng cho SKU đang tạo.
+Lưu ý: Nhà Bán sẽ phải thiết lập lại mục này khi thay đổi thông tin sản phẩm.
+4. Ở phần Mô hình vận hành, đối với danh mục Voucher – Dịch vụ, Nhà Bán chỉ có thể chọn mô hình E-delivery.
+5. Để cập nhật số lượng tồn kho, Nhà Bán vào trang Tồn kho E-voucher để thực hiện thêm tồn kho sau khi sản phẩm được duyệt.
+V. HƯỚNG DẪN XỬ LÝ ĐƠN HÀNG E-VOUCHER
+Bước 1. Tại Seller Center, Nhà Bán chọn Đơn hàng > Đơn hàng E-voucher.
+Bước 2. Tại giao diện này sẽ hiển thị toàn bộ các E-voucher đã sử dụng của Nhà Bán. Để sử dụng e-voucher, Nhà bán nhấn chọn Áp dụng mã E-voucher.
+Bước 3. Tại pop-up trên màn hình, Nhà Bán nhập mã voucher mà Khách hàng cung cấp sau đó nhấn chọn Xác nhận.
+VI. QUẢN LÝ ĐƠN HÀNG E-VOUCHER
+Tại mục Đơn hàng E-voucher, Nhà Bán có thể quản lý các đơn hàng đã sử dụng voucher, chi tiết như sau:
+Tính năng tìm kiếm: Nhà Bán có thể lọc tìm đơn hàng đã sử dụng voucher bằng các tiêu chí Mã voucher, Mã đơn hàng, Thời gian
+Danh sách các voucher đã sử dụng: Tại đây hiển thị tất cả các đơn hàng sử dụng e-voucher.
+VII. QUẢN LÝ TỒN KHO E-VOUCHER
+1. Lợi ích
+Hiểu thêm về nhu cầu mua hàng của Khách Hàng, từ đó ước tính số lượng và tần suất cần thiết để bổ sung tồn kho.
+Dễ dàng kiểm soát và cập nhật số lượng “Voucher dịch vụ” đã bán/tồn kho/khả dụng/hết hạn/đã sử dụng trên hệ thống một cách kịp thời.
+Giảm thiểu tình trạng hết hàng và chậm trễ trong quy trình xác nhận đơn hàng, hạn chế ảnh hưởng đến doanh số và tỷ lệ hoàn thành đơn hàng.
+Lưu ý: Tính năng Quản Lý Tồn Kho Voucher Code chỉ hiển thị khi Nhà Bán thỏa 1 trong 2 điều kiện sau:
+Đang bật mô hình E-delivery/E-voucher.
+Đã tạo ít nhất 1 sản phẩm E-voucher.
+2. Giao diện chung
+Tại Seller Center, chọn Sản phẩm >> Tồn kho E-voucher.
+Nhà Bán có thể sử dụng các bộ lọc khác nhau để phân loại sản phẩm dễ dàng hơn khi cần kiểm tra hoặc cập nhật chi tiết từng sản phẩm.
+3. Định nghĩa về trạng thái tồn kho
+Tổng số lượng: Tổng số code của một voucher = Đã bán + Tồn kho + Hết hạn + Đang xử lý
+Đã bán: Tổng số mã code khách đã mua.
+Tồn khả dụng: Số lượng mã code cho phép đặt hàng (bao gồm cả các đơn hàng đang xử lý)
+Hết hạn (chỉ áp dụng với Store Voucher): Số lượng mã code có HSD đến trước ngày hiện tại (hiện đã hết hạn). Người dùng không thể đặt mua trong tương lai.
+Đã dùng: Tổng số mã code khách hàng đã dùng và được Nhà Bán xác thực bằng Seller Center.
+4. Tiki Voucher
+Bước 1: Tại sản phẩm cần cập nhật, Nhà Bán chọn Cập nhật tồn kho.
+Bước 2: Nhập số lượng tồn kho mới muốn thay thế số tồn kho hiện tại >> Bấm Cập nhật.
+Bước 3: Bấm Xác nhận để hoàn tất.
+5. Store Voucher
+Bước 1: Chọn 1 trong 2 loại:
+Cập nhật mới: Xoá các mã tồn kho hiện tại và làm mới tồn kho bằng danh sách tải lên (không được trùng với mã Tồn khả dụng, Đã dùng và Hết hạn).
+Cập nhật thêm: Thêm các mã trong file mẫu vào danh sách các mã đang tồn hiện tại (không trùng với mã Đã dùng và Hết hạn).
+Bước 2: Bấm “Tải file mẫu” >>  Điền danh sách mã code vào file và lưu lại (Mã code có độ dài <=30 ký tự, không giới hạn số lượng và hỗ trợ tất cả loại ký tự).
+Bước 3: Bấm vào biểu tượng ở giữa để tải lên danh sách  >> chọn Hạn sử dụng cho mã (> ngày hiện tại)  >> Bấm Tiếp tục.
+Bước 4: Kiểm tra cập nhật tồn kho.
+Tồn kho hiện tại
+Tồn kho mới
+Số lượng
+Số code khả dụng trong hệ thống.
+Số code đã thêm mới.
+Hạn sử dụng (HSD)
+Hiển thị danh sách các ngày hết hạn của các mã của SKU đó cùng số lượng mã tương ứng.
+HSD của số code mới mà Nhà Bán đã thêm ở bước 3.
+Nếu ở bước 1, Nhà Bán chọn Cập nhật thêm, lựa chọn 1 trong 2:
+Giữ nguyên: Tất cả các code tồn kho hiện tại sẽ được giữ nguyên HSD → E-voucher sẽ có nhiều code với HSD khác nhau.
+Cập nhật: Tất cả các code tồn kho sẽ được cập nhật HSD giống với danh sách code vừa được tải lên → E-voucher sẽ có nhiều code với chỉ 1 HSD.
+–
+Bước 5: Kiểm tra tồn kho.
+Sau khi đã cập nhật, Nhà Bán có thể tải danh sách mã code Tồn khả dụng/Hết hạn/Đã dùng bằng cách nhấp vào con số tương ứng tại mỗi sản phẩm.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 5 / 5. Số lượt đánh giá: 4
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

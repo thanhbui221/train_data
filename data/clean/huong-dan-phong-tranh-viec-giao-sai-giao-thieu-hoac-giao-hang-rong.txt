@@ -1,0 +1,102 @@
+Hướng dẫn phòng tránh việc giao sai, giao thiếu hoặc giao hàng rỗng – Học viện Tiki
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng FBT     Hoàn tiền nhanh       ASTRA+      Flash sale
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Xử lý đơn hàng
+Hướng dẫn phòng tránh việc giao sai, giao thiếu hoặc giao hàng rỗng
+● [Mô hình FBT] Quy trình xử lý đơn hàng
+● [Mô hình Dropship] Hướng dẫn xác nhận và xử lý đơn hàng
+● [Mô hình Dropship] Hướng dẫn đóng gói đơn hàng
+● [Mô hình SD] Hướng dẫn xử lý đơn hàng
+● [Mô hình SD] Quy chuẩn đóng gói hàng hóa
+● [Mô hình E-Delivery] Hướng dẫn xử lý đơn hàng
+● OVL - Chỉ số giới hạn đơn hàng hàng ngày
+● Hướng dẫn xem lịch sử mua hàng của khách hàng
+● Hướng dẫn phòng tránh việc giao sai, giao thiếu hoặc giao hàng rỗng
+Giao sai hàng, giao thiếu hàng hoặc giao kiện hàng rỗng là các hành vi có thể xảy ra trong hoạt động thương mại điện tử, gây ảnh hưởng xấu tới trải nghiệm mua sắm của khách hàng cũng như uy tín của Nhà Bán và sàn TMĐT. Nhà Bán cần nắm rõ định nghĩa và cách phòng tránh các hành vi vi phạm này để đảm bảo hoạt động bán hàng trên Tiki diễn ra ổn định và thông suốt.
+I. PHÒNG TRÁNH GIAO SAI, GIAO THIẾU
+1. Định nghĩa
+Giao sai: Sản phẩm được giao đến tay khách hàng không đúng so với thông tin sản phẩm được đăng bán trên gian hàng của Nhà Bán.
+Giao thiếu: Số lượng sản phẩm được giao khác với số lượng sản phẩm trong đơn hàng mà khách hàng đã đặt. Số lượng sản phẩm giao thiếu được tính bao gồm cả phụ kiện hoặc quà tặng.
+2. Những trường hợp được xem là giao sai, giao thiếu
+Nhà Bán tham khảo các các ví dụ cụ thể về các trường hợp được xem là giao sai, giao thiếu dưới đây để tránh vi phạm.
+2.1. Giao sai
+Khách hàng đặt sản phẩm nến thơm nhưng lại nhận được que diêm
+Khách hàng đặt sản phẩm áo Mickey nhưng lại nhận được áo Minions
+Khách hàng đặt sản phẩm quần jeans size S nhưng lại nhận được quần jean size M
+Khách hàng đặt sản phẩm chuột Logitech nhưng lại nhận được chuột của Thương hiệu khác hoặc không có thương hiệu.
+2.2. Giao thiếu
+Khách hàng đặt số lượng sản phẩm quần jeans là 2 cái nhưng chỉ nhận được 1 cái
+Khách hàng đặt 1 bộ đồ bộ (quần + áo) nhưng chỉ nhận được sản phẩm quần
+Đơn hàng của khách hàng bao gồm 1 sản phẩm cài tóc và sản phẩm tặng kèm là kẹp tóc nhưng kiện hàng được giao chỉ gồm 1 sản phẩm cài tóc
+2.3. Hình thức xử lý khi Nhà Bán thực hiện giao sai, giao thiếu
+Tiki sẽ tiến hành xử lý theo quy định đối với những Nhà Bán thực hiện giao sai, giao thiếu như sau:
+Về sản phẩm vi phạm: Khóa vĩnh viễn
+Về gian hàng: Tiki sẽ tiến hàng khóa gian có thời hạn hoặc dừng hợp tác kinh doanh vĩnh viễn tùy theo mức độ lặp lại vi phạm của Nhà Bán căn cứ vào mục 3.5 – Bảng nội dung vi phạm và các hình thức xử lý vi phạm của Nhà Bán Hàng trên SGD TMĐT Tiki.vn
+Để tránh việc giao sai, giao thiếu khi kinh doanh trên sàn TMĐT Tiki, Nhà Bán nên:
+Kiểm tra sản phẩm trước khi đóng gói và giao cho đơn vị vận chuyển
+Kiểm tra kỹ số lượng các thành phần của sản phẩm (phụ kiện và quà tặng) trước khi đóng gói
+Đảm bảo nội dung sản phẩm phải được cập nhật liên tục
+Đảm bảo mô tả sản phẩm và hình ảnh chính xác
+Kiểm tra sản phẩm trước khi đóng gói
+Đảm bảo rằng địa chỉ giao hàng là chính xác
+2.4. Hướng dẫn xử lý trường hợp bị khiếu nại sai liên quan đến giao sai, giao thiếu
+Trường hợp Nhà Bán bị khiếu nại là giao sai, giao thiếu sản phẩm, để chứng minh việc giao đủ/đúng sản phẩm Nhà Bán cần cung cấp video clip đóng hàng thể hiện rõ các yếu tố sau:
+Thể hiện đúng thông tin đơn hàng (mã đơn hàng, mã vận đơn,…) mà khách hàng đã đặt
+Thời gian đóng hàng mà đơn hàng được đặt
+Sản phẩm được đóng gói còn nguyên vẹn, không bị lỗi, đúng mẫu mã và đủ số lượng như khách hàng đã đặt
+Lưu ý: Nếu dung lượng video lớn, Nhà Bán có thể tải lên video trên nền tảng Youtube hoặc Google Drive ở chế độ công khai, sau đó gửi đính kèm đường link video đến Tiki qua hòm thư của bộ phận Hỗ trợ Đối tác: hotrodoitac@tiki.vn
+2.5. Tài liệu tham khảo
+Hướng dẫn đóng gói đơn hàng Dropship: tại đây
+Hướng dẫn xử lý đơn hàng SD: tại đây
+II. PHÒNG TRÁNH GIAO HÀNG RỖNG
+1. Định nghĩa
+Đơn hàng được gửi đến cho Khách hàng nhưng không có sản phẩm bên trong, hoặc chứa rác, sản phẩm không có giá trị sử dụng,… được tính là hành vi giao hàng rỗng.
+2. Phân loại các trường hợp vi phạm
+Giao rỗng hộp, không có sản phẩm bên trong
+Giao rác (miếng carton)
+Giao hàng hóa vật liệu không có giá trị sử dụng (dây thun v.v…)
+3. Hình thức xử lý khi Nhà Bán thực hiện giao hàng rỗng
+Khi nhận khiếu nại trực tiếp từ Khách hàng hoặc bộ phận liên quan, Tiki sẽ tiến hành kiểm tra và xử lý các trường hợp này như sau:
+Vi phạm: Khóa vĩnh viễn sản phẩm vi phạm và dừng hợp tác kinh doanh với với Nhà Bán căn cứ theo Bảng nội dung vi phạm và các hình thức xử lý vi phạm của Nhà Bán Hàng trên SGD TMĐT Tiki.vn
+Không vi phạm: Sản phẩm vẫn được hiển thị bình thường trên sàn TMĐT Tiki
+Lỗi giao hàng rỗng được xem là lỗi vi phạm cao nhất theo Quy định và Chính sách của Tiki.  Vì vậy, Nhà Bán cần lưu ý những điều sau để tránh vi phạm và bị xử phạt không đáng có:
+Không bỏ rác hoặc sản phẩm đã sử dụng vào kiện hàng
+Trường hợp Nhà Bán không thể xử lý đơn hàng vì lý do hết hàng, sản phẩm lỗi,… Nhà Bán vui lòng sử dụng chức năng hủy đơn hàng để không vi phạm chính sách Tiki cũng như không gây trải nghiệm xấu cho Khách hàng.
+Tiki tuyệt đối nghiêm cấm việc Nhà Bán không có hàng nhưng vẫn xác nhận đơn hàng và gửi sản phẩm không đúng với đơn hàng.
+4. Hướng dẫn xử lý trường hợp bị khiếu nại sai liên quan đến giao hàng rỗng
+Trường hợp Nhà Bán có đóng gói đầy đủ sản phẩm nhưng Khách hàng lại nhận được kiện hàng rỗng, Nhà Bán cần cung cấp video đóng gói kiện hàng thể hiện rõ các yếu tố sau để giải trình khi nhận thông tin xử phạt từ Tiki:
+Thể hiện đúng thông tin đơn hàng (mã đơn hàng, mã vận đơn,…) mà khách hàng đã đặt
+Thời gian đóng hàng mà đơn hàng được đặt
+Hình ảnh kiện hàng nguyên vẹn khi gửi cho nhân viên vận chuyển
+Lưu ý: Nếu dung lượng video lớn, Nhà Bán có thể tải lên video trên nền tảng YouTube hoặc Google Drive ở chế độ công khai, sau đó gửi đính kèm đường link video đến Tiki qua hòm thư của bộ phận Hỗ trợ Đối tác: hotrodoitac@tiki.vn
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 0 / 5. Số lượt đánh giá: 0
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.
