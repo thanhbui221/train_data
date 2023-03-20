@@ -3,3 +3,4 @@ setuptools
 llama_index
 langchain
 html2text
+beautifulsoup4
