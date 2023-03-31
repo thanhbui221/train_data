@@ -1,1 +1,180 @@
-Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5AGiới thiệu về hệ thống kho Tiki và cách thức phân loại, giao nhận hàng hóa tại các kho hàng thuộc Tiki.Khu vựcKý hiệu khoĐịa chỉ Xử lý đơn hàngNhận hàng gửi vàoTrả hàng lỗiLưu hàng chậm bánHà NộiHN5Ngõ 9 (số 3 + 5), đường Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội.xxx Hồ Chí MinhSGN367/F370 Đường Bạch Đằng, Phường 2, Quận Tân Bình, TP.HCMxxx Hồ Chí MinhBFSGNSố 162/2 Quốc Lộ 1A, Phường Thạnh Xuân, Quận 12, TP.HCM  xHồ Chí MinhSGN3Số 09 Nguyễn Văn Tạo, Long Thới, Nhà Bè, TP. HCMxxx  Tùy mỗi loại hàng hóa (nhỏ/lớn) và loại hình dịch vụ giao hàng mà nhập vào kho tương ứng như sau:Kho hàngKhu vựcGiao Ngay 2-3HSGNHCMCó SGN3HCMKhôngHN5HNCóLưu ý: Một ngành hàng có thể nhập ở nhiều kho khác nhau. Khi Nhà Bán tạo sản phẩm trên hệ thống, nếu sản phẩm không thỏa mãn điều kiện tương ứng, hệ thống sẽ báo lỗi và cảnh báo trực tiếp trên giao diện.Định nghĩa các loại hàng hóa:1. Sản phẩm giao TikiNOW 2-3H phải đủ các điều kiện: Tham khảo tại đây2. Sản phẩm lớn: Là sản phẩm cồng kềnh khi thỏa 1 trong các yếu tố sau:Trọng lượng quy đổi = dài x rộng x cao/5000  ≥ 12kgKhối lượng ≥ 12kgKích thước 1 cạnh > 60 cm3. Sản phẩm nhỏ, trung bình: Là các sản phẩm không thuộc nhóm sản phẩm lớn.1. Chuẩn bị phiếu gửi hàng:Nhà Bán cần in 02 phiếu gửi hàng (BOP) cho đơn hàng cần gửi .Mã BOP: SGN/BOP/2018/12/33879 -> Kho nhập hàng là kho SGN, nếu Nhà Bán muốn nhập vào kho khác SGN, Nhà Bán cần chọn đúng kho để tạo mã BOP tương ứng.Mỗi BOP có chú thích rõ địa chỉ, người liên hệ giao hàng của kho nhập hàng.2. Hàng hóa cần đảm bảo quy chuẩn nhập kho TikiQuy chuẩn về mã vạch sản phẩmDanh sách IMEI/Serial number đi kèmQuy định thời hạn kích hoạt bảo hành điện tửQuy định hạn sử dụng của sản phẩmYêu cầu về nhãn hàng hóa khi nhập kho Tiki Tham khảo [Mô hình FBT] Quy định về tiêu chuẩn nhập kho TikiQuý Nhà Bán có thể xem danh sách các kho Tiki và hướng dẫn chi tiết đường vào kho Tiki để đến gửi hàng tại kho phù hợp.STTKhu vựcKý hiệu khoĐịa chỉThời gian làm việcHoạt độngXử lý đơn hàngNhận hàng gửi vàoTrả hàng lỗi1Hà Nội HN5Số 3 + 5 , Ngõ 9 , đường Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội8h-17h từ Thứ 2 đến Thứ 7 (Không tính CN và ngày lễ)xxx2Hồ Chí MinhSGN1367/F370 Cổng 7, đường Bạch Đằng, Phường 2, Quận Tân Bình, TP. HCMxxx3Hồ Chí MinhSGN3Số 9, Đường Nguyễn Văn Tạo, Phường Long Thới, Huyện Nhà Bè, TP.HCMxxx1. Kho Hà Nội 5 (Long Biên – Hà Nội)Địa chỉ: Số 3 + 5, Ngõ 9, đường Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội.Nhà Bán tìm Big C Long Biên (Gần Cầu vượt Long Biên – Ngô Gia Tự).Từ BigC Long Biên  chạy thẳng đến khoảng hơn 200m thì quẹo Phải vào Ngõ số 9.Sau khi quẹo vào ngõ số 9 , chạy thẳng khoảng 100m , nhìn bên tai phải sẽ thấy kho Tiki.Lưu ý tải trọng: Xe tải 1,25T bị cấm trong giờ cao điểm: 06:00 – 09:00 và 15:00 – 21:00.Xe từ 1,25T – dưới 2,5T được phép hoạt động từ 21:00 – 06:00.Xe trên 2,5T bị cấm hoạt động từ 06:00 – 21:00.Xe trên 10T chỉ được hoạt động từ 21:00 – 06:00 nếu có giấy phép lưu hành.2. Kho Sài Gòn (Tân Bình – TP.HCM)Địa chỉ: 367/F370 Cổng 7, đường Bạch Đằng, Phường 2, Quận Tân Bình, TP. HCM.Nếu Nhà Bán đi từ hướng: Gò Vấp , Thủ Đức,.. Hoặc Đường Quang Trung, Phạm Văn Đồng,.. thì đi từ hướng Vòng Xoay Nguyễn Kiệm.Từ vòng xoay Nguyễn Kiệm chạy theo Đường Bạch Đằng tới đường Đặng Văn Sâm thì quẹo phải.Chạy cuối đường Đặng Văn Sâm (có 1 Công ty điện lực bên trái) thì quẹo phải  vào Hẻm A75 Bạch Đằng.Chạy theo Hẻm A75 đến cuối đường gặp Doanh Trại Quân Đội thì quẹo trái.Chạy thẳng nhìn bên tay Trái sẽ thấy kho Tiki.Nếu Nhà Bán đi từ hướng: Tân Bình, Phú Nhuận,Tân Phú,...hoặc đường Hoàng Văn Thụ , Cộng Hòa , Nguyễn Văn Trỗi,… sẽ đi vào từ hướng đường Trường Sơn.Đi thẳng theo đường Phan Đình Giót đến đường Trường Sơn,  hướng về Sân Bay Tân Sơn Nhất.Chạy theo đường Trường Sơn đến đường Hồng Hà thì quẹo phải. Chạy thẳng đến sẽ tới Đường Bạch Đằng (nối dài).Chạy theo đường Bạch Đằng (nối dài)  tới ngã tư Đặng Văn Sâm thì quẹo trái.Chạy cuối đường Đặng Văn Sâm (có 1 Công ty điện lực) thì quẹo phải vào đường Hẻm A75 Bạch Đằng. Chạy theo đường Hẻm A75 đến cuối đường gặp Doanh Trại Quân Đội thì quẹo trái.Chạy thẳng tới bên tay Trái sẽ thấy Tiki.Lưu ý tải trọng: Xe tải nhỏ hơn hoặc bằng 5T.3. Kho Sài Gòn 3 (Nhà Bè – TP.HCM)Địa chỉ: Số 9, Đường Nguyễn Văn Tạo, Phường Long Thới, Huyện Nhà Bè, TPHCM.Nếu Nhà Bán đi từ hướng Quận 7, 8,… sẽ chạy thẳng theo đường Nguyễn Hữu Thọ.Cuối đường Nguyễn Hữu Thọ sẽ gặp cầu Bà Chiêm 2.Vừa xuống cầu thì quẹo trái, chạy thẳng theo đường số 1. Chạy thẳng theo đường số 1 (khoảng hơn 1km) sẽ  thấy cổng Kho Unidepot nằm sát bên với cổng Trạm nghiền Xi măng Insee – Hiệp Phước.Nếu Nhà Bán đi từ Miền tây lên Cần Thơ, Bến Tre, Vĩnh Long ,…. có thể tim kiếm cách đi từ Cần Giuộc (Long An) trên Google Map với từ khóa Unidepot.Lưu ý: Mọi loại xe có thể ra vào.        Nội dung này có hữu ích với bạn không?            Đánh giá trung bình: 4.7 / 5. Số lượt đánh giá: 3      Nếu bạn thấy nội dung này hữu ích...      Hãy chia sẻ ngay với bạn bè nhé!      Ôi 🙁      Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?   TikiTrung Tâm Bán HàngYouTube Tiki University OfficialCộng Đồng Nhà Bán Hàng Tiki19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)hotrodoitac@tiki.vn / partnersupport@tiki.vnĐịa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí MinhGiấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010© 2022 – Bản quyền của Công ty TNHH Ti Ki.
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5A
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Vận chuyển
+[Mô hình FBT] Hướng dẫn giao nhận hàng hóa tại kho Tiki
+●
+[Mô hình FBT] Quy định về tiêu chuẩn nhập kho Tiki
+●
+[Mô hình FBT] Hướng dẫn giao nhận hàng hóa tại kho Tiki
+●
+[Mô hình FBT] Hướng dẫn nhập hàng vào kho Tiki
+●
+[Mô hình FBT] Phí lưu kho và phí xử lý rút hàng
+●
+[Mô hình FBT] Hướng dẫn rút hàng lưu kho Tiki
+● [Mô hình Dropship] Danh sách khu vực lấy hàng của đối tác vận chuyển TED
+Giới thiệu về hệ thống kho Tiki và cách thức phân loại, giao nhận hàng hóa tại các kho hàng thuộc Tiki.
+I. HỆ THỐNG KHO TIKI
+Khu vực
+Ký hiệu kho
+Địa chỉ
+Xử lý đơn hàng
+Nhận hàng gửi vào
+Trả hàng lỗi
+Lưu hàng chậm bán
+Hà Nội
+HN5
+Ngõ 9 (số 3 + 5), đường Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội.
+x
+x
+x
+Hồ Chí Minh
+SGN
+367/F370 Đường Bạch Đằng, Phường 2, Quận Tân Bình, TP.HCM
+x
+x
+x
+Hồ Chí Minh
+BFSGN
+Số 162/2 Quốc Lộ 1A, Phường Thạnh Xuân, Quận 12, TP.HCM
+x
+Hồ Chí Minh
+SGN3
+Số 09 Nguyễn Văn Tạo, Long Thới, Nhà Bè, TP. HCM
+x
+x
+x
+II. PHÂN LOẠI HÀNG HÓA NHẬP CÁC KHO
+Tùy mỗi loại hàng hóa (nhỏ/lớn) và loại hình dịch vụ giao hàng mà nhập vào kho tương ứng như sau:
+Kho hàng
+Khu vực
+Giao Ngay 2-3H
+SGN
+HCM
+Có
+SGN3
+HCM
+Không
+HN5
+HN
+Có
+Lưu ý: Một ngành hàng có thể nhập ở nhiều kho khác nhau. Khi Nhà Bán tạo sản phẩm trên hệ thống, nếu sản phẩm không thỏa mãn điều kiện tương ứng, hệ thống sẽ báo lỗi và cảnh báo trực tiếp trên giao diện.
+Định nghĩa các loại hàng hóa:
+1. Sản phẩm giao TikiNOW 2-3H phải đủ các điều kiện: Tham khảo tại đây
+2. Sản phẩm lớn: Là sản phẩm cồng kềnh khi thỏa 1 trong các yếu tố sau:
+Trọng lượng quy đổi = dài x rộng x cao/5000  ≥ 12kg
+Khối lượng ≥ 12kg
+Kích thước 1 cạnh > 60 cm
+3. Sản phẩm nhỏ, trung bình: Là các sản phẩm không thuộc nhóm sản phẩm lớn.
+III. CÁC LƯU Ý KHI NHẬP KHO
+1. Chuẩn bị phiếu gửi hàng:
+Nhà Bán cần in 02 phiếu gửi hàng (BOP) cho đơn hàng cần gửi .
+Mã BOP: SGN/BOP/2018/12/33879 -> Kho nhập hàng là kho SGN, nếu Nhà Bán muốn nhập vào kho khác SGN, Nhà Bán cần chọn đúng kho để tạo mã BOP tương ứng.
+Mỗi BOP có chú thích rõ địa chỉ, người liên hệ giao hàng của kho nhập hàng.
+2. Hàng hóa cần đảm bảo quy chuẩn nhập kho Tiki
+Quy chuẩn về mã vạch sản phẩm
+Danh sách IMEI/Serial number đi kèm
+Quy định thời hạn kích hoạt bảo hành điện tử
+Quy định hạn sử dụng của sản phẩm
+Yêu cầu về nhãn hàng hóa khi nhập kho Tiki
+Seal niêm phong
+Tham khảo [Mô hình FBT] Quy định về tiêu chuẩn nhập kho Tiki
+IV. HƯỚNG DẪN ĐƯỜNG ĐI TỚI KHO TIKI
+Quý Nhà Bán có thể xem danh sách các kho Tiki và hướng dẫn chi tiết đường vào kho Tiki để đến gửi hàng tại kho phù hợp.
+STT
+Khu vực
+Ký hiệu kho
+Địa chỉ
+Thời gian làm việc
+Hoạt động
+Xử lý đơn hàng
+Nhận hàng gửi vào
+Trả hàng lỗi
+1
+Hà Nội
+HN5
+Số 3 + 5 , Ngõ 9 , đường Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội
+8h-17h từ Thứ 2 đến Thứ 7 (Không tính CN và ngày lễ)
+x
+x
+x
+2
+Hồ Chí Minh
+SGN1
+367/F370 Cổng 7, đường Bạch Đằng, Phường 2, Quận Tân Bình, TP. HCM
+x
+x
+x
+3
+Hồ Chí Minh
+SGN3
+Số 9, Đường Nguyễn Văn Tạo, Phường Long Thới, Huyện Nhà Bè, TP.HCM
+x
+x
+x
+1. Kho Hà Nội 5 (Long Biên – Hà Nội)
+Địa chỉ: Số 3 + 5, Ngõ 9, đường Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội.
+Nhà Bán tìm Big C Long Biên (Gần Cầu vượt Long Biên – Ngô Gia Tự).
+Từ BigC Long Biên  chạy thẳng đến khoảng hơn 200m thì quẹo Phải vào Ngõ số 9.
+Sau khi quẹo vào ngõ số 9 , chạy thẳng khoảng 100m , nhìn bên tai phải sẽ thấy kho Tiki.
+Lưu ý tải trọng:
+Xe tải 1,25T bị cấm trong giờ cao điểm: 06:00 – 09:00 và 15:00 – 21:00.
+Xe từ 1,25T – dưới 2,5T được phép hoạt động từ 21:00 – 06:00.
+Xe trên 2,5T bị cấm hoạt động từ 06:00 – 21:00.
+Xe trên 10T chỉ được hoạt động từ 21:00 – 06:00 nếu có giấy phép lưu hành.
+2. Kho Sài Gòn (Tân Bình – TP.HCM)
+Địa chỉ: 367/F370 Cổng 7, đường Bạch Đằng, Phường 2, Quận Tân Bình, TP. HCM.
+Nếu Nhà Bán đi từ hướng: Gò Vấp , Thủ Đức,.. Hoặc Đường Quang Trung, Phạm Văn Đồng,.. thì đi từ hướng Vòng Xoay Nguyễn Kiệm.
+Từ vòng xoay Nguyễn Kiệm chạy theo Đường Bạch Đằng tới đường Đặng Văn Sâm thì quẹo phải.
+Chạy cuối đường Đặng Văn Sâm (có 1 Công ty điện lực bên trái) thì quẹo phải  vào Hẻm A75 Bạch Đằng.
+Chạy theo Hẻm A75 đến cuối đường gặp Doanh Trại Quân Đội thì quẹo trái.
+Chạy thẳng nhìn bên tay Trái sẽ thấy kho Tiki.
+Nếu Nhà Bán đi từ hướng: Tân Bình, Phú Nhuận,Tân Phú,...hoặc đường Hoàng Văn Thụ , Cộng Hòa , Nguyễn Văn Trỗi,… sẽ đi vào từ hướng đường Trường Sơn.
+Đi thẳng theo đường Phan Đình Giót đến đường Trường Sơn,  hướng về Sân Bay Tân Sơn Nhất.
+Chạy theo đường Trường Sơn đến đường Hồng Hà thì quẹo phải. Chạy thẳng đến sẽ tới Đường Bạch Đằng (nối dài).
+Chạy theo đường Bạch Đằng (nối dài)  tới ngã tư Đặng Văn Sâm thì quẹo trái.
+Chạy cuối đường Đặng Văn Sâm (có 1 Công ty điện lực) thì quẹo phải vào đường Hẻm A75 Bạch Đằng.
+Chạy theo đường Hẻm A75 đến cuối đường gặp Doanh Trại Quân Đội thì quẹo trái.
+Chạy thẳng tới bên tay Trái sẽ thấy Tiki.
+Lưu ý tải trọng: Xe tải nhỏ hơn hoặc bằng 5T.
+3. Kho Sài Gòn 3 (Nhà Bè – TP.HCM)
+Địa chỉ: Số 9, Đường Nguyễn Văn Tạo, Phường Long Thới, Huyện Nhà Bè, TPHCM.
+Nếu Nhà Bán đi từ hướng Quận 7, 8,… sẽ chạy thẳng theo đường Nguyễn Hữu Thọ.
+Cuối đường Nguyễn Hữu Thọ sẽ gặp cầu Bà Chiêm 2.
+Vừa xuống cầu thì quẹo trái, chạy thẳng theo đường số 1.
+Chạy thẳng theo đường số 1 (khoảng hơn 1km) sẽ  thấy cổng Kho Unidepot nằm sát bên với cổng Trạm nghiền Xi măng Insee – Hiệp Phước.
+Nếu Nhà Bán đi từ Miền tây lên Cần Thơ, Bến Tre, Vĩnh Long ,…. có thể tim kiếm cách đi từ Cần Giuộc (Long An) trên Google Map với từ khóa Unidepot.
+Lưu ý:
+Tất cả Nhà Bán đến kho SGN3 bắt buộc phải vào cổng Unidepot.
+Mọi loại xe có thể ra vào.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 4.7 / 5. Số lượt đánh giá: 3
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

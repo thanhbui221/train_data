@@ -1,1 +1,90 @@
-Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5AĐể đăng bán sản phẩm trên Tiki, Nhà Bán cần nắm rõ các quy định về việc lựa chọn thương hiệu cho sản phẩm. Tùy vào từng thương hiệu và tình trạng thực tế của thương hiệu mà Nhà Bán sẽ có các thao tác khác nhau khi thực hiện đăng bán sản phẩm.1. Phân loại thương hiệu dựa trên tình trạng được bảo hộPhân loại thương hiệuGiải thíchLưu ý khi đăng bánThương hiệu được Việt Nam bảo hộLà thương hiệu đã đăng ký và được cục sở hữu trí tuệ Việt Nam cấp bằng bảo hộ:Website Cục sở hữu trí tuệ Việt NamWebsite Wipo VNĐể được hiển thị thương hiệu đã được bảo hộ trong tên/nội dung sản phẩm, Nhà Bán cần đảm bảo chứng minh được quyền phân phối/sở hữu thương hiệu.Thương hiệu được bảo hộ toàn cầuLà thương hiệu đã đăng ký và được WIPO cấp bằng bảo hộ:Website WipoThương hiệu chưa được bảo hộKhông có thương hiệuThương hiệu đã đăng ký nhưng chưa bảo hộ hoặc từ chối bảo hộ→ OEMTiki không có yêu cầu cụ thể cho loại thương hiệu này. Tuy nhiên, Nhà Bán chấp nhận rủi ro các Nhà Bán khác cùng bán thương hiệu này với nguồn gốc xuất xứ/chất lượng sản phẩm có thể không tương đương. 2. Quy định về nội dung sản phẩm đối với từng loại thương hiệu2.1 Đối với thương hiệu đã được bảo hộThuộc tính thương hiệu trên trang tạo sản phẩmVí dụ về thương hiệu đã đăng ký tại Cục Sở hữu trí tuệ Việt NamThương hiệu của sản phẩm phải đảm bảo trùng khớp với hình ảnh/nội dung và các thuộc tính khác của sản phẩm. 2.2 Đối với thương hiệu chưa được bảo hộ/chưa đăng ký bảo hộCác sản phẩm có thương hiệu chưa đăng ký bảo hộ, ở trường thông tin Thương hiệu, Nhà Bán chọn OEM.Tên thương hiệu đề cập trong tên/mô tả sản phẩm không khớp với thương hiệu của sản phẩm.Hình ảnh sản phẩm đăng bán có thương hiệu không khớp với thương hiệu mà sản phẩm đăng bán.Thương hiệu chưa được đăng ký bảo hộ, vui lòng chuyển về OEM.2.3 Thương hiệu chuỗiVí dụ: Thương hiệu Vaseline thuộc tập đoàn Unilever. Khi đăng sản phẩm, Nhà Bán cần chọn thương hiệu: Vaseline (đúng với nhãn hiệu in trên sản phẩm đã được đăng ký bảo hộ) chứ không chọn Unilever.3. Các trường hợp bị từ chối duyệtCác trường hợp bị từ chối duyệtVí dụ minh họaTrường hợp 1: Nhà Bán chọn thương hiệu OEM tại trường thuộc tính thương hiệu của sản phẩm, tuy nhiên hình ảnh sản phẩm đăng bán có chứa hình ảnh nhãn hiệu đã được đăng ký bảo hộ.Sản phẩm để thương hiệu OEM, nhưng hình ảnh sản phẩm có chứa logo thương hiệu MISUKO (đã được đăng ký bảo hộ tại Wipo). Sản phẩm sẽ bị từ chối duyệt do hình ảnh sản phẩm đăng bán có thương hiệu không khớp với thương hiệu mà sản phẩm đăng bán.Trường hợp 2: Nhà Bán chọn thương hiệu chưa được bảo hộ tại trường thuộc tính thương hiệu của sản phẩm, tuy nhiên hình ảnh sản phẩm đăng bán có chứa logo nhãn hiệu khác đã được đăng ký bảo hộ.Sản phẩm để thương hiệu VHL (chưa được bảo hộ), nhưng hình ảnh sản phẩm có chứa logo thương hiệu Adidas (đã được bảo hộ). Sản phẩm sẽ bị từ chối duyệt do hình ảnh sản phẩm đăng bán có thương hiệu không khớp với thương hiệu mà sản phẩm đăng bán; và thương hiệu chưa được đăng ký bảo hộ.Trường hợp 3: Nhà Bán chọn thương hiệu đã đăng ký bảo hộ tại trường thuộc tính thương hiệu của sản phẩm, tuy nhiên hình ảnh sản phẩm là một thương hiệu khác đã được đăng ký bảo hộ.Sản phẩm để thương hiệu Gumac (đã được bảo hộ), nhưng hình ảnh sản phẩm lại chứa logo thương hiệu Yummy (đã được bảo hộ). Sản phẩm sẽ bị từ chối duyệt do hình ảnh sản phẩm đăng bán có thương hiệu không khớp với thương hiệu mà sản phẩm đăng bán; và tên thương hiệu đề cập trong tên/mô tả sản phẩm không khớp với thương hiệu của sản phẩm.        Nội dung này có hữu ích với bạn không?            Đánh giá trung bình: 4.4 / 5. Số lượt đánh giá: 11      Nếu bạn thấy nội dung này hữu ích...      Hãy chia sẻ ngay với bạn bè nhé!      Ôi 🙁      Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?   TikiTrung Tâm Bán HàngYouTube Tiki University OfficialCộng Đồng Nhà Bán Hàng Tiki19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)hotrodoitac@tiki.vn / partnersupport@tiki.vnĐịa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí MinhGiấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010© 2022 – Bản quyền của Công ty TNHH Ti Ki.
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5A
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Quy định đăng tải sản phẩm
+Quy chuẩn về thương hiệu
+● Quy chuẩn về thương hiệu
+● Quy chuẩn về tên sản phẩm
+● Quy chuẩn về hình ảnh sản phẩm
+● Quy định từ khóa trong nội dung sản phẩm
+● Quy định khi tạo sản phẩm có nhiều lựa chọn
+● Quy định khi chỉnh sửa nội dung sản phẩm
+● Quy chuẩn về nội dung đăng sản phẩm cho từng ngành hàng​
+● Quy định về việc tăng giá trước khuyến mãi
+● Quy định chính sách vi phạm sở hữu trí tuệ của Apple
+● Danh sách các loại chứng từ yêu cầu
+● Danh sách các sản phẩm cấm bán trên SGD TMĐT Tiki​
+● Danh mục yêu cầu về hồ sơ pháp lý Nhà Bán Hàng và hàng hóa
+Để đăng bán sản phẩm trên Tiki, Nhà Bán cần nắm rõ các quy định về việc lựa chọn thương hiệu cho sản phẩm. Tùy vào từng thương hiệu và tình trạng thực tế của thương hiệu mà Nhà Bán sẽ có các thao tác khác nhau khi thực hiện đăng bán sản phẩm.
+1. Phân loại thương hiệu dựa trên tình trạng được bảo hộ
+Phân loại thương hiệu
+Giải thích
+Lưu ý khi đăng bán
+Thương hiệu được Việt Nam bảo hộ
+Là thương hiệu đã đăng ký và được cục sở hữu trí tuệ Việt Nam cấp bằng bảo hộ:
+Website Cục sở hữu trí tuệ Việt Nam
+Website Wipo VN
+Để được hiển thị thương hiệu đã được bảo hộ trong tên/nội dung sản phẩm, Nhà Bán cần đảm bảo chứng minh được quyền phân phối/sở hữu thương hiệu.
+Thương hiệu được bảo hộ toàn cầu
+Là thương hiệu đã đăng ký và được WIPO cấp bằng bảo hộ:
+Website Wipo
+Thương hiệu chưa được bảo hộ
+Không có thương hiệu
+Thương hiệu đã đăng ký nhưng chưa bảo hộ hoặc từ chối bảo hộ
+→ OEM
+Tiki không có yêu cầu cụ thể cho loại thương hiệu này. Tuy nhiên, Nhà Bán chấp nhận rủi ro các Nhà Bán khác cùng bán thương hiệu này với nguồn gốc xuất xứ/chất lượng sản phẩm có thể không tương đương.
+2. Quy định về nội dung sản phẩm đối với từng loại thương hiệu
+2.1 Đối với thương hiệu đã được bảo hộ
+Nhà Bán cần chọn thông tin thương hiệu tại trường thuộc tính Thương hiệu đúng với thương hiệu in trên sản phẩm và đã đăng ký tại Cục Sở hữu trí tuệ Việt Nam.
+Thuộc tính thương hiệu trên trang tạo sản phẩm
+Ví dụ về thương hiệu đã đăng ký tại Cục Sở hữu trí tuệ Việt Nam
+Thương hiệu của sản phẩm phải đảm bảo trùng khớp với hình ảnh/nội dung và các thuộc tính khác của sản phẩm.
+Thương hiệu của sản phẩm phải đảm bảo trùng khớp với hình ảnh/nội dung và các thuộc tính khác của sản phẩm.
+2.2 Đối với thương hiệu chưa được bảo hộ/chưa đăng ký bảo hộ
+Các sản phẩm có thương hiệu chưa đăng ký bảo hộ, ở trường thông tin Thương hiệu, Nhà Bán chọn OEM.
+Lý do từ chối thường gặp:
+Tên thương hiệu đề cập trong tên/mô tả sản phẩm không khớp với thương hiệu của sản phẩm.
+Hình ảnh sản phẩm đăng bán có thương hiệu không khớp với thương hiệu mà sản phẩm đăng bán.
+Thương hiệu chưa được đăng ký bảo hộ, vui lòng chuyển về OEM.
+2.3 Thương hiệu chuỗi
+Đối với chuỗi thương hiệu cùng thuộc 1 tập đoàn, Nhà Bán vui lòng chọn đúng thương hiệu được đăng ký với dòng sản phẩm đó.
+Ví dụ: Thương hiệu Vaseline thuộc tập đoàn Unilever. Khi đăng sản phẩm, Nhà Bán cần chọn thương hiệu: Vaseline (đúng với nhãn hiệu in trên sản phẩm đã được đăng ký bảo hộ) chứ không chọn Unilever.
+3. Các trường hợp bị từ chối duyệt
+Các trường hợp bị từ chối duyệt
+Ví dụ minh họa
+Trường hợp 1: Nhà Bán chọn thương hiệu OEM tại trường thuộc tính thương hiệu của sản phẩm, tuy nhiên hình ảnh sản phẩm đăng bán có chứa hình ảnh nhãn hiệu đã được đăng ký bảo hộ.
+Sản phẩm để thương hiệu OEM, nhưng hình ảnh sản phẩm có chứa logo thương hiệu MISUKO (đã được đăng ký bảo hộ tại Wipo). Sản phẩm sẽ bị từ chối duyệt do hình ảnh sản phẩm đăng bán có thương hiệu không khớp với thương hiệu mà sản phẩm đăng bán.
+Trường hợp 2: Nhà Bán chọn thương hiệu chưa được bảo hộ tại trường thuộc tính thương hiệu của sản phẩm, tuy nhiên hình ảnh sản phẩm đăng bán có chứa logo nhãn hiệu khác đã được đăng ký bảo hộ.
+Sản phẩm để thương hiệu VHL (chưa được bảo hộ), nhưng hình ảnh sản phẩm có chứa logo thương hiệu Adidas (đã được bảo hộ). Sản phẩm sẽ bị từ chối duyệt do hình ảnh sản phẩm đăng bán có thương hiệu không khớp với thương hiệu mà sản phẩm đăng bán; và thương hiệu chưa được đăng ký bảo hộ.
+Trường hợp 3: Nhà Bán chọn thương hiệu đã đăng ký bảo hộ tại trường thuộc tính thương hiệu của sản phẩm, tuy nhiên hình ảnh sản phẩm là một thương hiệu khác đã được đăng ký bảo hộ.
+Sản phẩm để thương hiệu Gumac (đã được bảo hộ), nhưng hình ảnh sản phẩm lại chứa logo thương hiệu Yummy (đã được bảo hộ). Sản phẩm sẽ bị từ chối duyệt do hình ảnh sản phẩm đăng bán có thương hiệu không khớp với thương hiệu mà sản phẩm đăng bán; và tên thương hiệu đề cập trong tên/mô tả sản phẩm không khớp với thương hiệu của sản phẩm.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 4.4 / 5. Số lượt đánh giá: 11
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

@@ -1,0 +1,193 @@
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5A
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Vận chuyển
+[Mô hình FBT] Hướng dẫn rút hàng lưu kho Tiki
+●
+[Mô hình FBT] Quy định về tiêu chuẩn nhập kho Tiki
+●
+[Mô hình FBT] Hướng dẫn giao nhận hàng hóa tại kho Tiki
+●
+[Mô hình FBT] Hướng dẫn nhập hàng vào kho Tiki
+●
+[Mô hình FBT] Phí lưu kho và phí xử lý rút hàng
+●
+[Mô hình FBT] Hướng dẫn rút hàng lưu kho Tiki
+● [Mô hình Dropship] Danh sách khu vực lấy hàng của đối tác vận chuyển TED
+Để rút hàng hóa lưu kho, Nhà Bán tạo phiếu rút hàng và nắm vững các quy định về chứng từ cần thiết để việc rút hàng tại kho Tiki được thuận lợi hơn. Hàng hóa Tiki được Tiki hoàn trả về cho Nhà Bán bao gồm nhưng không giới hạn các trường hợp sau:
+Hàng hóa không đảm bảo thời hạn sử dụng;
+Hàng hóa không phát sinh doanh thu trong vòng 60 ngày;
+Hàng hóa không phù hợp để lưu kho bán tiếp do Nhà Bán vi phạm chính sách;
+Hàng hóa giao không thành công;
+Hàng hóa lỗi và hàng hóa đã xử lý đổi trả cho Khách Hàng.
+I. QUY ĐỊNH VỀ CHỨNG TỪ RÚT HÀNG (BPOR)
+Để việc hoàn trả hàng hóa được hoàn thành tốt và đúng quy định, Nhà Bán cần hiểu rõ hơn về từng loại chứng từ, nội dung trên Giấy ủy quyền/Giấy giới thiệu (nếu có) để chuẩn bị và đảm bảo rằng hàng hóa được trả đúng khi đến kho Tiki rút hàng.
+Nhà Bán khi đến kho Tiki lấy hàng cần chuẩn bị đầy đủ các giấy tờ như yêu cầu của Tiki. Tiki có quyền không thực hiện trả hàng nếu Nhà Bán không cung cấp đầy đủ thông tin theo yêu cầu và có toàn quyền xử lý đối với hàng hóa không được lấy đúng hạn. Thông tin chi tiết về từng loại chứng từ như sau:
+Đối với Nhà Bán là Công ty: Các loại giấy tờ cần có dấu mộc tròn (mộc đỏ).
+Đối với Nhà Bán là Hộ kinh doanh/Cá nhân kinh doanh: Cung cấp thêm thông tin CMND/CCCD photo công chứng còn thời hạn của Người đại diện nếu ủy quyền cho nhân viên/đối tác đi rút hàng.
+CHỨNG TỪ
+CÔNG TY
+HỘ KINH DOANH/CÁ NHÂN KINH DOANH
+1. Phiếu rút hàng
+Nhà Bán in phiếu rút hàng (2 bản) từ Seller Center, có đầy đủ chữ ký của người có thẩm quyền đứng tên trên hợp đồng.
+Nếu trên Giấy ủy quyền/Giấy giới thiệu CÓ đính kèm danh sách phiếu rút hàng: Bắt buộc đóng dấu mộc tròn (mộc đỏ) trên từng phiếu rút hàng  (không bắt buộc có chữ ký của Người đại diện).
+Nếu trên Giấy ủy quyền/Giấy giới thiệu KHÔNG đính kèm danh sách phiếu rút hàng: Bắt buộc đóng dấu mộc tròn (mộc đỏ) và có chữ ký của Người đại diện  trên từng phiếu rút hàng.
+2. Giấy tờ tùy thân của người rút hàng
+CMND/CCCD bản gốc (bắt buộc) và người rút hàng cần bổ sung thêm 1 trong 2 loại chứng từ: CMND/CCCD (bản photo) hoặc giấy phép lái xe có hình ảnh, còn hiệu lực.
+Thông tin trùng khớp với thông tin được ghi nhận trong Phiếu rút hàng.
+*Nếu người đến rút hàng không phải là Nhà Bán (chủ gian hàng) thì phải có giấy ủy quyền/giấy giới thiệu.
+3. Giấy ủy quyền/ Giấy giới thiệu và các giấy tờ khác (nếu có)
+1. BÊN ỦY QUYỀN
+Tên công ty
+Mã số thuế
+Tên gian hàng
+ID gian hàng
+Tên người đại diện
+CMND/CCCD của người đại diện
+2. BÊN ĐƯỢC ỦY QUYỀN
+Tên người đến rút hàng (nếu thuê đối tác vận chuyển thì để tên đối tác).
+CMND/CCCD của người đến rút hàng (nếu thuê đối tác vận chuyển thì không cần).
+Chức vụ.
+3. NỘI DUNG ỦY QUYỀN
+Danh sách phiếu rút hàng hoặc danh sách đính kèm riêng và có đóng dấu giáp lai.
+Thời gian hiệu lực của giấy ủy quyền/giấy giới thiệu (nếu không có ngày hết hạn thì chỉ tính có giá trị trong ngày ký hoặc ngày lập phiếu).
+Dấu mộc tròn (mộc đỏ) của công ty theo quy định của pháp luật.
+1. BÊN ỦY QUYỀN
+Tên hộ kinh doanh & Mã số thuế (đối với Hộ kinh doanh)
+Tên gian hàng
+ID gian hàng
+Tên người đại diện
+CMND/CCCD của người đại diện
+2. BÊN ĐƯỢC ỦY QUYỀN
+Tên người đến rút hàng (nếu thuê đối tác vận chuyển thì để tên đối tác).
+CMND/CCCD của người đến rút hàng (nếu thuê đối tác vận chuyển thì không cần).
+Chức vụ.
+3. NỘI DUNG ỦY QUYỀN
+Danh sách phiếu rút hàng hoặc danh sách đính kèm riêng và có chữ ký của người có thẩm quyền đứng tên trên hợp đồng (Chữ ký trên Giấy ủy quyền/Giấy giới thiệu phải trùng với chữ ký danh sách phiếu rút hàng đính kèm).
+Thời gian hiệu lực của giấy ủy quyền/giấy giới thiệu ( nếu không có ngày hết hạn thì chỉ tính có giá trị trong ngày ký hoặc ngày lập phiếu).
+CMND/CCCD photo công chứng còn thời hạn của Người đại diện.
+Lưu ý:
+Thông tin/nội dung trên Giấy ủy quyền/Giấy giới thiệu có thể điền theo mẫu có sẵn hoặc đánh máy nhưng KHÔNG được gạch/xóa/chỉnh sửa/viết tay toàn bộ.
+Khuyến khích Nhà Bán in Phiếu rút hàng (BPOR) trên khổ giấy A4/A5, Giấy ủy quyền/Giấy giới thiệu trên khổ giấy A4 với đầy đủ thông tin, không sử dụng giấy in nhiệt để đảm bảo trong quá trình lưu chứng từ không bị mất thông tin.
+Nếu chứng từ Giấy ủy quyền/Giấy giới thiệu có dấu hiệu gạch/xóa/chỉnh sửa:
+Đối với Công ty: Có chữ ký nháy của người đại diện xác nhận tại vị trí gạch/xóa/chỉnh sửa. Nếu thông tin vẫn không rõ ràng hoặc hàng giá trị cao, kho Tiki có quyền yêu cầu cung cấp lại chứng từ đúng quy định hoặc yêu cầu cung cấp thêm CMND/CCCD photo công chứng còn thời hạn của Người đại diện.
+Đối với Hộ kinh doanh: Tiki không hỗ trợ xử lý các chứng từ này, Nhà Bán cần cung cấp lại chứng từ đúng quy định.
+II. HƯỚNG DẪN TẠO VÀ THEO DÕI PHIẾU RÚT HÀNG (BPOR)
+Bước 1: Nhà Bán chọn Kho & hàng tồn > Phiếu rút hàng > Tạo phiếu rút hàng. Nếu Nhà Bán muốn chỉnh sửa phiếu rút hàng nháp trước đó, Nhà Bán tìm phiếu nháp cần chỉnh sửa, chọn Chỉnh sửa.
+Bước 2: Chọn sản phẩm cần rút
+Cách 1. Nhập sản phẩm từ danh sách
+Nhà Bán có thể lọc và tìm kiếm sản phẩm hiện đang còn tồn tại kho Tiki theo các mục: Tên sản phẩm, Danh mục và Thương hiệu.
+Để thêm sản phẩm: Nhà Bán chọn sản phẩm cần thêm vào danh sách từ bảng bên trái, chọn nút “+”.
+Để xóa sản phẩm: Nhà Bán chọn sản phẩm cần xóa khỏi danh sách từ bảng bên phải, chọn nút “x”.
+Hoặc Nhà Bán có thể chọn Chọn toàn trang/Xóa tất cả tại góc phải của mỗi bảng.
+Sau đó bấm Tiếp tục.
+Cách 2. Nhập sản phẩm từ file
+Nhà Bán chọn Nhập sản phẩm từ file > Tải tập tin mẫu > Điền thông tin và tải lên danh sách sản phẩm file Excel và bấm Tiếp tục.
+Sau khi file sản phẩm tải lên thành công, Nhà Bán kiểm tra dữ liệu tải lên và bấm Xác nhận.
+Lưu ý:
+Sản phẩm có số lượng nhập vượt quá số lượng cho phép được phép chỉnh sửa ở bước tiếp theo.
+Những sản phẩm sai thông tin sẽ không được thêm vào phiếu rút hàng.
+Bước 3: Điền số lượng rút kho dự kiến
+Tại mỗi sản phẩm, Nhà Bán nhập số lượng sản phẩm muốn rút tương ứng với từng kho và bấm Tiếp tục.
+Lưu ý: Số lượng rút kho tối đa của từng sản phẩm được đề xuất dựa trên số tồn kho của Nhà Bán.
+Bước 4: Chọn kho rút hàng
+Nhà Bán chọn kho đến nhận hàng tương ứng theo từng tab cho loại sản phẩm đã chọn. Trong trường hợp Nhà Bán chọn kho nhận khác với kho đang chứa hàng, Tiki sẽ hỗ trợ luân chuyển hàng hóa về kho nhận mà Nhà Bán đã chọn.
+Sau khi kiểm tra thông tin, Nhà Bán bấm:
+Xác nhận để hoàn tất. Phiếu rút hàng sẽ chuyển sang trạng thái Đang xử lý.
+Lưu nháp: Tạm lưu lại thông tin và cập nhật sau.
+Hủy bỏ: Xóa phiếu rút hàng vừa tạo.
+Bước 5:  Sau khi hệ thống xử lý xong, phiếu rút hàng chuyển sang trạng thái Chờ lấy hàng.
+Lưu ý: Nhà Bán đến kho Tiki để nhận hàng trong vòng 32 ngày làm việc kể từ khi phiếu rút hàng chuyển sang trạng thái Chờ lấy hàng (số ngày đếm ngược màu đỏ).
+Để phù hợp với lịch làm việc của Nhà Bán và thuận tiện cho việc sắp xếp hàng hóa, Tiki khuyến khích Nhà Bán xác nhận thời gian nhận hàng theo nhu cầu nhưng không nằm ngoài khung giờ được quy định tại Chính sách hoạt động SGD TMĐT Tiki.vn
+Bước 7: In phiếu rút hàng
+Vào Kho & hàng tồn > Phiếu rút hàng (BPOR) > Tại mục Chờ lấy hàng, chọn phiếu rút hàng cần in, bấm In phiếu rút hàng, sau đó bấm In phiếu.
+Phiếu rút hàng Tiki lấy hàng sẽ cung cấp các thông tin cơ bản gồm:
+Thông tin mã BPOR
+Ngày tạo, ngày nhận hàng dự kiến, ngày sẵn sàng nhận hàng
+Thông tin kho nhận hàng
+Lưu ý:
+Nhà Bán cần in 2 bản phiếu rút hàng.
+Khi rút hàng, ký xác nhận số kiện hàng với kho Tiki và giữ lại 1 bản.
+Bước 8: Kiểm tra thông tin trên hệ thống và theo dõi kết quả xác nhận rút hàng từ Tiki
+Trong trường hợp Tiki từ chối cung cấp dịch vụ, phiếu gửi hàng sẽ chuyển trạng thái Đã hủy, Nhà Bán vui lòng xem lý do và tạo phiếu rút hàng mới.
+III. QUẢN LÝ DANH SÁCH PHIẾU RÚT HÀNG (BPOR)
+Để xem và theo dõi lịch sử trạng thái phiếu gửi hàng, Nhà Bán truy cập Seller Center >  Kho & hàng tồn > Phiếu rút hàng (BPOR).
+Tại đây, Nhà Bán có thể:
+1. Theo dõi tình trạng phiếu rút hàng qua các tab chính: Nháp, Đang xử lý, Chờ nhận hàng, Đã hoàn thành, Đã hủy.
+2. Sử dụng bộ lọc nhanh để tìm kiếm phiếu rút hàng thường gặp ở các tab: Tiki trả hàng cho bạn, Cần rút sớm, Đã quá hạn và thanh lý.
+3. Ngoài ra, Nhà Bán có thể tìm kiếm mã phiếu rút, lịch rút hàng, trạng thái, phương thức rút hàng, loại BPOR/ lý do tạo, hạn rút hàng theo bộ lọc và thực hiện thao tác tùy theo nhu cầu:
+Tab trạng thái
+Trạng thái
+Ý nghĩa
+Nháp
+Nháp
+Chỉnh sửa
+Xóa
+Sao chép
+Đang xử lý
+Đã tiếp nhận
+Chỉnh sửa
+Xóa
+Đã tiếp nhận một phần
+Đang gom hàng
+Đang gói hàng
+Đã gói hàng
+Đang chuyển hàng
+Chờ nhận hàng
+Hàng đã sẵn sàng trả
+Chỉnh sửa
+Sao chép
+In phiếu rút hàng
+Xóa
+Đang trả về nhà bán
+Đã hoàn thành
+Đã trả hàng thành công
+Xem chi tiết
+Sao chép
+Hàng đã thanh lý
+Đã hủy
+Đã hủy
+Xem chi tiết
+Sao chép
+Đã từ chối
+IV. CÂU HỎI THƯỜNG GẶP
+1. Chủ gian hàng là Vợ/chồng hoặc Anh/chị/em của người được ủy quyền, có thể đến rút hàng thay và không cần giấy ủy quyền/giấy giới thiệu có được không?
+Nhà Bán vẫn cần phải cung cấp chứng từ đúng quy trình và quy định.Nếu trong trường hợp bất khả kháng, người đại diện trên hợp đồng không còn khả năng để thực hiện ủy quyền (mất, bệnh nặng có giấy của bác sĩ…), Tiki kiểm tra và xem xét tùy trường hợp.
+2. Người đại diện trên Giấy phép ĐKKD là anh A và người đại diện trên hợp đồng là anh B. Anh B ủy quyền cho nhân viên kho/đối tác đi rút hàng. Vậy có hợp pháp hay không?
+Anh B là đại diện trên hợp đồng hợp tác với Tiki nên vẫn được ủy quyền cho nhân viên/đối tác đi rút hàng với đầy đủ chứng từ theo quy định của Tiki.
+3. Giấy ủy quyền/giấy giới thiệu của công ty/hộ kinh doanh có mộc tròn (mộc đỏ) nhưng thiếu một số thông tin so với yêu cầu của Tiki thì có được hỗ trợ không? (thiếu tên gian hàng, ID gian hàng, thiếu CMND của người được ủy quyền,….)
+Tiki sẽ hỗ trợ lần đầu nhưng Nhà Bán cần liên hệ Bộ phận Hỗ trợ đối tác (PSC) để xác nhận thông tin còn thiếu và được hướng dẫn cụ thể các bước tiếp theo.
+Thời gian hỗ trợ là đến hết 31/12/2021. Sau thời gian này, Nhà Bán cần thực hiện và chuẩn bị đầy đủ chứng từ theo quy định của Tiki.
+4. Sau khi thông báo và triển khai quy định trên, Nhà Bán là hộ kinh doanh, ủy quyền cho nhân viên/đối tác đến rút hàng nhưng chuẩn bị thiếu chứng từ CMND/CCCD photo công chứng hoặc có mang CMND/CCCD photo không công chứng. Vậy Tiki có hỗ trợ không?
+Tiki sẽ hỗ trợ lần đầu nhưng Nhà Bán cần liên hệ Bộ phận Hỗ trợ đối tác (PSC) để xác nhận thông tin và được hướng dẫn cụ thể các bước tiếp theo.
+Thời gian hỗ trợ là đến hết 31/12/2021. Sau thời gian này, Nhà Bán cần thực hiện và chuẩn bị đầy đủ chứng từ theo quy định của Tiki.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 3.5 / 5. Số lượt đánh giá: 2
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

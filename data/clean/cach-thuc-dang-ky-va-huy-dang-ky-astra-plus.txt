@@ -1,1 +1,93 @@
-Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5ABước 1: Từ Trang chủ Seller Center, Nhà Bán lựa chọn Trung tâm Marketing > Công cụ khuyến mãi > Chương trình ASTRA+Bước 2: Chọn Đăng ký tham gia/ Đăng ký.Giao diện Nhà Bán lần đầu đăng ký tham gia chương trình ASTRA+Giao diện Nhà Bán đã từng đăng ký tham gia chương trình ASTRA+Bước 3: Cài đặt các thông số của chương trình ASTRA+.1. Thời gian áp dụng: Có 2 lựa chọn:Không giới hạn: Chương trình sẽ được kích hoạt sau khi đăng ký thành công. Nhà Bán có thể kết thúc bất kỳ lúc nào.2. Mức tài trợMức tài trợ/sản phẩm: từ 3% giá trị sản phẩm trở lên.Mức tài trợ tối đa/sản phẩm: từ 30.000đ trở lên.Không giới hạn: Không giới hạn ngân sách tham gia chương trình.Có giới hạn: Nhà Bán nhập số tiền tài trợ. Chương trình sẽ kết thúc khi ngân sách đạt đến giới hạn một cách tương đối.3. Sản phẩm áp dụng: Lựa chọn các sản phẩm cho chương trình ASTRA+ theo hình thức: Tất cả sản phẩm: Kích hoạt chương trình cho toàn bộ sản phẩm trên gian hàng.Cách 1: Thêm từng sản phẩmCách 2: Thêm hàng loạt sản phẩmNhà Bán bấm Chọn > Thêm các sản phẩm.Tại khung tìm kiếm, Nhà Bán có thể nhập SKU, trạng thái sản phẩm và chọn ngành hàng.Chọn sản phẩm cần thêm từ bảng bên trái, nhấn chọn nút + hoặc Chọn tất cả để thêm vào bảng bên phải. Nhà Bán có thể thêm tối đa  3000 SKU.Tại mục Tải lên danh sách sản phẩm, chọn bảng excel mẫu tại đây để tải file Excel về máy tính. Sau đó nhập các mã SKU mà Nhà Bán muốn chọn.Để tải lên danh sách sản phẩm đăng ký, Nhà Bán bấm chọn hoặc kéo thả file vừa điền vào ô được đánh dấu như hình. Với các SKU có lỗi,  Nhà Bán tải lại danh sách, chỉnh sửa theo yêu cầu và tải lên lại tập tin.Lưu ý:Chỉ hỗ trợ tập tin excel có định dạng .xls hoặc .xlsxHỗ trợ tối đa 3000 SKU mỗi tập tin.Bước 4: Sau khi hoàn tất thông tin, bấm Đăng ký. Trên hộp thoại xác nhận hiện ra, bấm Xác nhận.Trên trang chủ tính năng, Nhà Bán có thể theo dõi danh sách các chương trình đã tạo, tình trạng hiện tại của chương trình (đã được kích hoạt hay chưa, sản phẩm đã bán, ngân sách đã chi, tổng số Astra được Tiki thưởng thêm…).Nhà Bán có thể chỉnh sửa khi chương trình ở trạng thái Sắp diễn ra hoặc Đang diễn ra, cụ thể:Trạng tháiÝ nghĩaThao tác Nhà Bán có thể thực hiệnSắp diễn raChương trình đã được tạo và đang chờ đến thời gian chạyThay đổi tất cả các thông tin, trừ thay đổi sản phẩm tham gia.Đang diễn raChương trình đang trong thời gian chạyThay đổi thời gian kết thúc chương trình: Sớm hoặc muộn hơn so với thời gian cài đặt trước đó.Tăng ngân sách tham gia.Nhà Bán thao tác như sau:1. Chỉnh sửa chiến dịchTruy cập vào Seller Center, chọn Trung tâm Marketing > Chương trình ASTRA+ > Bấm vào ID chương trình đã tạo hoặc bấm Chỉnh sửa tại cột Thao tác để thực hiện chỉnh sửa. Sau đó bấm Cập nhật.2. Kết thúc chiến dịchNhà Bán tìm chương trình muốn hủy, tại cột Thao tác tương ứng, chọn Kết thúc, sau đó bấm Xác nhận kết thúc.3. Sao chép chiến dịchNhà Bán tìm chiến dịch muốn sao chép, tại cột Thao tác tương ứng, bấm vào dấu ba chấm, chọn Sao chép.        Nội dung này có hữu ích với bạn không?            Đánh giá trung bình: 3.6 / 5. Số lượt đánh giá: 7      Nếu bạn thấy nội dung này hữu ích...      Hãy chia sẻ ngay với bạn bè nhé!      Ôi 🙁      Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?   TikiTrung Tâm Bán HàngYouTube Tiki University OfficialCộng Đồng Nhà Bán Hàng Tiki19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)hotrodoitac@tiki.vn / partnersupport@tiki.vnĐịa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí MinhGiấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010© 2022 – Bản quyền của Công ty TNHH Ti Ki.
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5A
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Chương trình ASTRA+
+Cách thức đăng ký và hủy đăng ký ASTRA+
+● Giới thiệu chương trình ASTRA+ dành cho Nhà Bán Tiki
+● Cách thức đăng ký và hủy đăng ký ASTRA+
+● Câu hỏi thường gặp về ASTRA+
+I. CÁCH THỨC ĐĂNG KÝ ASTRA+
+Bước 1: Từ Trang chủ Seller Center, Nhà Bán lựa chọn Trung tâm Marketing > Công cụ khuyến mãi > Chương trình ASTRA+
+Bước 2: Chọn Đăng ký tham gia/ Đăng ký.
+Giao diện Nhà Bán lần đầu đăng ký tham gia chương trình ASTRA+
+Giao diện Nhà Bán đã từng đăng ký tham gia chương trình ASTRA+
+Bước 3: Cài đặt các thông số của chương trình ASTRA+.
+1. Thời gian áp dụng: Có 2 lựa chọn:
+Không giới hạn: Chương trình sẽ được kích hoạt sau khi đăng ký thành công. Nhà Bán có thể kết thúc bất kỳ lúc nào.
+Có giới hạn: Cài đặt thời gian bắt đầu và thời gian kết thúc của chương trình (giờ, ngày, tháng, năm). Thời gian bắt đầu phải sau thời gian hiện tại.
+2. Mức tài trợ
+Mức tài trợ/sản phẩm: từ 3% giá trị sản phẩm trở lên.
+Mức tài trợ tối đa/sản phẩm: từ 30.000đ trở lên.
+Ngân sách: Có 2 lựa chọn:
+Không giới hạn: Không giới hạn ngân sách tham gia chương trình.
+Có giới hạn: Nhà Bán nhập số tiền tài trợ. Chương trình sẽ kết thúc khi ngân sách đạt đến giới hạn một cách tương đối.
+3. Sản phẩm áp dụng: Lựa chọn các sản phẩm cho chương trình ASTRA+ theo hình thức:
+Tất cả sản phẩm: Kích hoạt chương trình cho toàn bộ sản phẩm trên gian hàng.
+Sản phẩm cụ thể:
+Cách 1: Thêm từng sản phẩm
+Cách 2: Thêm hàng loạt sản phẩm
+Nhà Bán bấm Chọn > Thêm các sản phẩm.
+Tại khung tìm kiếm, Nhà Bán có thể nhập SKU, trạng thái sản phẩm và chọn ngành hàng.
+Chọn sản phẩm cần thêm từ bảng bên trái, nhấn chọn nút + hoặc Chọn tất cả để thêm vào bảng bên phải. Nhà Bán có thể thêm tối đa  3000 SKU.
+Chọn sản phẩm cần xóa từ bảng bên phải, nhấn chọn nút x hoặc Xóa tất cả để xóa.
+Tại mục Tải lên danh sách sản phẩm, chọn bảng excel mẫu tại đây để tải file Excel về máy tính. Sau đó nhập các mã SKU mà Nhà Bán muốn chọn.
+Để tải lên danh sách sản phẩm đăng ký, Nhà Bán bấm chọn hoặc kéo thả file vừa điền vào ô được đánh dấu như hình.
+Với các SKU có lỗi,  Nhà Bán tải lại danh sách, chỉnh sửa theo yêu cầu và tải lên lại tập tin.
+Với các SKU tải lên thành công, bấm Lưu .
+Lưu ý:
+Chỉ hỗ trợ tập tin excel có định dạng .xls hoặc .xlsx
+Hỗ trợ tối đa 3000 SKU mỗi tập tin.
+File không được có bộ lọc/trang tính ẩn/nhiều hơn một trang tính.
+Bước 4: Sau khi hoàn tất thông tin, bấm Đăng ký. Trên hộp thoại xác nhận hiện ra, bấm Xác nhận.
+II. HƯỚNG DẪN CHỈNH SỬA CHƯƠNG TRÌNH ASTRA+
+Trên trang chủ tính năng, Nhà Bán có thể theo dõi danh sách các chương trình đã tạo, tình trạng hiện tại của chương trình (đã được kích hoạt hay chưa, sản phẩm đã bán, ngân sách đã chi, tổng số Astra được Tiki thưởng thêm…).
+Nhà Bán có thể chỉnh sửa khi chương trình ở trạng thái Sắp diễn ra hoặc Đang diễn ra, cụ thể:
+Trạng thái
+Ý nghĩa
+Thao tác Nhà Bán có thể thực hiện
+Sắp diễn ra
+Chương trình đã được tạo và đang chờ đến thời gian chạy
+Thay đổi tất cả các thông tin, trừ thay đổi sản phẩm tham gia.
+Hủy/Sao chép chương trình.
+Đang diễn ra
+Chương trình đang trong thời gian chạy
+Thay đổi thời gian kết thúc chương trình: Sớm hoặc muộn hơn so với thời gian cài đặt trước đó.
+Tăng ngân sách tham gia.
+Hủy/ Sao chép chương trình.
+Nhà Bán thao tác như sau:
+1. Chỉnh sửa chiến dịch
+Truy cập vào Seller Center, chọn Trung tâm Marketing > Chương trình ASTRA+ > Bấm vào ID chương trình đã tạo hoặc bấm Chỉnh sửa tại cột Thao tác để thực hiện chỉnh sửa. Sau đó bấm Cập nhật.
+2. Kết thúc chiến dịch
+Nhà Bán tìm chương trình muốn hủy, tại cột Thao tác tương ứng, chọn Kết thúc, sau đó bấm Xác nhận kết thúc.
+3. Sao chép chiến dịch
+Nhà Bán tìm chiến dịch muốn sao chép, tại cột Thao tác tương ứng, bấm vào dấu ba chấm, chọn Sao chép.
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 3.6 / 5. Số lượt đánh giá: 7
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.

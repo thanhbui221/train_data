@@ -1,1 +1,123 @@
-Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5AThông tin khối lượng kích thước sản phẩm sau đóng gói cần được cập nhật chính xác, vì nó sẽ ảnh hưởng tới các chi phí như: Phí vận chuyển, phí xử lý đơn hàng, phí lấy hàng…1. Định nghĩa:Phí vận hành được tính dựa trên Trọng lượng tính phí và Khoảng cách Vùng giao.Trong đó:Trọng lượng tính phí được xác định theo Trọng lượng gói sản phẩm được Nhà Bán đóng gói bàn giao nhập kho Tiki theo đúng Quy chuẩn về đóng gói hàng hóa nhập kho Tiki.Vùng giao được xác định dựa trên điểm đi đầu tiên và điểm đến cuối cùng của Đơn hàng.2. Cách xác định Trọng lượng tính Phí vận hànhHàng hóa được xác định trọng lượng tính Phí vận hành theo 2 cách:Cách 1: Tính theo Trọng lượng  thực của sản phẩmHàng hóa được cân để xác định khối lượng thực của sản phẩmCách 2: Tính theo Khối lượng quy đổi Hàng hóa sẽ được đo theo kích thước các chiều dài, rộng và được quy đổi ra khối lượng theo thể tích (khối lượng quy đổi) theo công thức sau:Trọng lượng tính phí của một đơn hàng được căn cứ vào trọng lượng thực (cân nặng) và khối lượng theo thể tích (khối lượng quy đổi), giá trị nào lớn hơn thì sẽ lấy giá trị đó làm trọng lượng tính phí. 1. Hàng hóa được đo lường kích thước và khối lượng theo gói/hộp ngoài cùng sau khi được Nhà Bán đóng gói bàn giao nhập kho Tiki theo đúng Quy chuẩn về đóng gói hàng hóa nhập kho Tiki.2. Để đo chính xác kích thước gói sản phẩm, Nhà Bán cần chú ý đo các kích thước mỗi chiều (dài, rộng, cao) tại các điểm tối đa. 3. Nhà Bán lưu ý phân biệt giữa kích thước gói sản phẩm và kích thước mô tả sản phẩm.Ví dụ: Nhà Bán đăng bán sản phẩm Áo mưa cho trẻ em. Kích thước sản phẩm: Dài 65cm, Rộng 50cm. Khối lượng sản phẩm: 0.20 kg.Kích thước sau đóng gói: 18cmx15cmx5cm. Khối lượng: 0.21kg -> Là kích thước, khối lượng được đo sau khi Nhà Bán xếp gọn sản phẩm và đóng gói sản phẩm vào hộp giấy theo đúng Quy chuẩn  nhập kho Tiki (hình minh họa).Cách 1: Cập nhật theo từng sản phẩm (SSKU)Bước 1: Tại Seller Center, chọn Sản phẩm >> Danh sách sản phẩm >> Nhập mã SKU vào ô SKU > Bấm Enter.Bước 2: Tại sản phẩm, chọn Chỉnh sửa.Bước 3: Tại mục Vận Hành & Các Lựa Chọn, Nhà Bán điền thông tin chính xác của sản phẩm: Trọng lượng, chiều dài, chiều rộng, chiều cao > Bấm Cập nhật.Lưu ý: Nhà Bán lưu ý điền đúng đơn vị đo Trọng lượng (kg), Kích thước chiều dài, chiều rộng, chiều cao (cm).Nếu sản phẩm của Nhà Bán đã được Tiki đo lường kích thước, khối lượng thực tế khi nhập kho và cập nhật dữ liệu xác thực này lên hệ thống, bạn sẽ không thể cập nhật thông tin.Cách 2: Cập nhật hàng loạt sản phẩm theo danh sáchBước 1: Tại Seller Center, chọn Sản phẩm >> Tạo mới / Cập nhật sản phẩm hàng loạt >> Nhập hàng loạt  >> Cập nhật thông tin đăng bán.Bước 2: Chọn Mẫu file thông tin khácBước 3: Nhập thông tin tương ứng trong mẫu fileSeller SKU: Mã SKU của sản phẩm cần cập nhật thông tinTrọng lượng sau đóng gói (kg): Trọng lượng của sản phẩm sau khi đã đóng gói, đơn vị tính: kgChiều dài sau đóng gói (cm): Chiều dài của sản phẩm sau khi đã đóng gói, đơn vị tính: cmChiều rộng sau đóng gói (cm): Chiều rộng của sản phẩm sau khi đã đóng gói, đơn vị tính: cmChiều cao sau đóng gói (cm): Chiều cao của sản phẩm sau khi đã đóng gói, đơn vị tính: cmLưu ý:Mỗi SKU là một hàng trong mẫu file.Chỉ nhập số, không nhập thêm đơn vị tính.Số thập phân cách nhau bởi dấu chấm. Ví dụ: 1.45, 5.3Bước 4: Sau khi đã điền đủ thông tin vào mẫu file, Nhà Bán đăng tải lên hệ thống.Bước 5: Màn hình cập nhật thông tin đăng bán báo dữ liệu đã được nhận. Nhà Bán bấm Xem kết quả. Lưu ý: Nếu sản phẩm của Nhà Bán đã được Tiki đo lường kích thước, khối lượng thực tế khi nhập kho và cập nhật dữ liệu xác thực này lên hệ thống, Nhà Bán sẽ không thể cập nhật thông tin.1. Nếu sản phẩm chưa nhập hoặc nhập sai thông tin kích thước, khối lượng thì Tiki tính phí vận chuyển cho Nhà Bán và Khách hàng như thế nào?2. Tiki tính phí Vận chuyển cho Nhà Bán trong các trường hợp nào?Trường hợp 1: Nhà Bán có cài đặt giảm phí vận chuyển cho Khách hàng:Khi Nhà Bán cài đặt giảm giá phí vận chuyển cho Khách hàng, thì trên đơn hàng phát sinh sẽ hiển thị số tiền giảm giá mà Nhà Bán đã cài đặt. Nếu Nhà Bán không cài đặt giảm giá, thì trên đơn hàng sẽ không hiển thị, đồng nghĩa Khách hàng sẽ chịu 100% phí vận chuyển.Trường hợp 2: Nhà Bán thay đổi kích thước/khối lượng trước và sau khi Khách hàng đặt đơn hàng Trường hợp Nhà Bán cập nhật thông tin kích thước/Khối lượng sau khi Khách hàng đặt hàng lớn hơn thông tin kích thước/Khối lượng tại thời điểm Khách hàng đặt hàng, Khi đơn hàng Giao hàng thành công, hệ thống sẽ tính lại phí Vận chuyển thu Nhà Bán theo thông tin kích thước/Khối lượng Nhà Bán cập nhật. Do Phí vận chuyển thu Khách hàng thấp hơn phí vận chuyển thu Nhà Bán nên hệ thống sẽ thu Nhà Bán phần phí Vận chuyển chênh lệch.Ví dụ: Đơn hàng giao hàng tiêu chuẩn, chéo vùng (HCM – Quảng Trị)Trọng lượng lúc Khách hàng đặt hàng: 4kg 🡪 Phí vận chuyển thu KH = 23,000 + 5,500*(4-3)/0.5 = 34,000đTrọng lượng Nhà Bán cập nhật lại sau khi KH đặt hàng: 10kg 🡪 Phí vận chuyển thu Nhà Bán = 23,000 + 5,500*(10-3)/0.5 = 100,000đ🡪 Chênh lệch phí VC = 100,000 – 34,000 = 66,000 🡪 Nhà Bán chịu phí vận chuyển chênh lệch (mặc dù Nhà Bán không cài đặt giảm giá phí VC cho KH).Trường hợp 3: Tiki Kiểm tra thấy thông tin kích thước/ khối lượng Nhà Bán nhập chênh lệch thấp hơn với thông tin kích thước/Khối lượng Tiki xác thực.Ví dụ về điều chỉnh thu bổ sung phí vận hành: Một đơn hàng Dropship, Tiki lấy hàng, giao hàng tiêu chuẩn, từ Hà Nội -> Đà Nẵng (Chéo vùng).Kích thước/Khối lượng Nhà Bán nhập lúc ĐH phát sinh: 4*5*6cm, 1kg 🡪 Trọng lượng tính phí = Max(4*5*6/6000,1kg) = 1kgKích thước/Khối lượng đúng của sản phẩm sau đóng gói: 50*50*70cm, 25kg 🡪 Trọng lượng tính phí = Max(50*50*70/6000,25kg) = 29.167kg 🡪 Làm tròn đến 0.5 = 29.5kgPhí vận hànhBiểu phíPhí đã tính trên ĐH(1kg)Phí tính theo khối lượng đúng(29.5kg)Chênh lệch phíPhí vận chuyển23,000/3kg +5.500 / 0.5kg tiếp theo(> 3.0kg)Tối đa 1.500.000 (bất kỳ SKU > 100kg)23,00023,000 + 5,500*(29.5 – 3)/0.5 = 314,500291,500Tổng phí23,000314,500291,500Lưu ý: Trường hợp ĐH có phí vận chuyển do KH chịu 100%, nhưng do Nhà Bán nhập sai kích thước/Khối lượng dẫn đến phí vận chuyển tính trên ĐH thu KH bị sai thì Tiki sẽ thu bổ sung phí vận chuyển từ Nhà Bán.Trường hợp 4: Nhà Bán không thể cập nhật lại thông tin này nếu Tiki đã xác thực và cập nhật lên hệ thống. Tuy nhiên, Nhà Bán kiểm tra thấy thông tin Tiki cập nhật chưa chính xác và cần yêu cầu chỉnh sửa thì phải làm thế nào?        Nội dung này có hữu ích với bạn không?            Đánh giá trung bình: 3 / 5. Số lượt đánh giá: 4      Nếu bạn thấy nội dung này hữu ích...      Hãy chia sẻ ngay với bạn bè nhé!      Ôi 🙁      Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?   TikiTrung Tâm Bán HàngYouTube Tiki University OfficialCộng Đồng Nhà Bán Hàng Tiki19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)hotrodoitac@tiki.vn / partnersupport@tiki.vnĐịa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí MinhGiấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010© 2022 – Bản quyền của Công ty TNHH Ti Ki.
+Freeship Không Giới Hạn      Phí lưu kho và phí rút hàng     Hoàn tiền nhanh       Cài đặt SL tối thiểu      Mô hình 5A
+Tham gia Lớp học cho Nhà Bán
+Trang chủ
+Hướng dẫn bán hàng
+Cơ bản Nâng cao Chuyên nghiệp Dành cho Nhà Bán NGON Quy định & Chính sách
+Bí quyết bán hàng
+Giải pháp quảng cáo
+Tiki Ads – Công cụ quảng cáo Tiki Affiliate – Tiếp thị liên kết Tiki Engagement – Tương tác khách hàng
+Liên hệ
+Cross-border Sellers
+Basic Intermediate Advanced Policies
+X
+Đăng tải sản phẩm
+Hướng dẫn cập nhật kích thước và khối lượng sản phẩm
+● Hướng dẫn tạo và quản lý sản phẩm
+● Hướng dẫn tạo sản phẩm hàng loạt
+● Hướng dẫn cài đặt giá sản phẩm
+● Hướng dẫn cài đặt số lượng sản phẩm tối thiểu/tối đa trong giỏ hàng của khách hàng
+● Hướng dẫn tạo sản phẩm quà tặng (Gift)
+● Hướng dẫn cập nhật kích thước và khối lượng sản phẩm
+● Hướng dẫn sao chép sản phẩm từ sàn khác
+● Hướng dẫn xử lý khi Nhà Bán bị xâm phạm quyền sở hữu trí tuệ
+Thông tin khối lượng kích thước sản phẩm sau đóng gói cần được cập nhật chính xác, vì nó sẽ ảnh hưởng tới các chi phí như: Phí vận chuyển, phí xử lý đơn hàng, phí lấy hàng…
+I. CÁCH XÁC ĐỊNH TRỌNG LƯỢNG TÍNH PHÍ VẬN HÀNH
+1. Định nghĩa:
+Phí vận hành được tính dựa trên Trọng lượng tính phí và Khoảng cách Vùng giao.
+Trong đó:
+Trọng lượng tính phí được xác định theo Trọng lượng gói sản phẩm được Nhà Bán đóng gói bàn giao nhập kho Tiki theo đúng Quy chuẩn về đóng gói hàng hóa nhập kho Tiki.
+Vùng giao được xác định dựa trên điểm đi đầu tiên và điểm đến cuối cùng của Đơn hàng.
+2. Cách xác định Trọng lượng tính Phí vận hành
+Hàng hóa được xác định trọng lượng tính Phí vận hành theo 2 cách:
+Cách 1: Tính theo Trọng lượng  thực của sản phẩm
+Hàng hóa được cân để xác định khối lượng thực của sản phẩm
+Cách 2: Tính theo Khối lượng quy đổi
+Hàng hóa sẽ được đo theo kích thước các chiều dài, rộng và được quy đổi ra khối lượng theo thể tích (khối lượng quy đổi) theo công thức sau:
+Công thức tính khối lượng quy đổi: (Dài*Rộng*Cao)/6000
+Trọng lượng tính phí của một đơn hàng được căn cứ vào trọng lượng thực (cân nặng) và khối lượng theo thể tích (khối lượng quy đổi), giá trị nào lớn hơn thì sẽ lấy giá trị đó làm trọng lượng tính phí.
+II. TIÊU CHUẨN ĐO LƯỜNG KÍCH THƯỚC/KHỐI LƯỢNG TÍNH PHÍ VẬN HÀNH
+1. Hàng hóa được đo lường kích thước và khối lượng theo gói/hộp ngoài cùng sau khi được Nhà Bán đóng gói bàn giao nhập kho Tiki theo đúng Quy chuẩn về đóng gói hàng hóa nhập kho Tiki.
+2. Để đo chính xác kích thước gói sản phẩm, Nhà Bán cần chú ý đo các kích thước mỗi chiều (dài, rộng, cao) tại các điểm tối đa.
+3. Nhà Bán lưu ý phân biệt giữa kích thước gói sản phẩm và kích thước mô tả sản phẩm.
+Ví dụ: Nhà Bán đăng bán sản phẩm Áo mưa cho trẻ em.
+Kích thước sản phẩm: Dài 65cm, Rộng 50cm. Khối lượng sản phẩm: 0.20 kg.
+Kích thước sau đóng gói: 18cmx15cmx5cm. Khối lượng: 0.21kg -> Là kích thước, khối lượng được đo sau khi Nhà Bán xếp gọn sản phẩm và đóng gói sản phẩm vào hộp giấy theo đúng Quy chuẩn  nhập kho Tiki (hình minh họa).
+III. HƯỚNG DẪN CẬP NHẬT THÔNG TIN KÍCH THƯỚC & KHỐI LƯỢNG TRÊN SELLER CENTER
+Cách 1: Cập nhật theo từng sản phẩm (SSKU)
+Bước 1: Tại Seller Center, chọn Sản phẩm >> Danh sách sản phẩm >> Nhập mã SKU vào ô SKU > Bấm Enter.
+Bước 2: Tại sản phẩm, chọn Chỉnh sửa.
+Bước 3: Tại mục Vận Hành & Các Lựa Chọn, Nhà Bán điền thông tin chính xác của sản phẩm: Trọng lượng, chiều dài, chiều rộng, chiều cao > Bấm Cập nhật.
+Lưu ý: Nhà Bán lưu ý điền đúng đơn vị đo Trọng lượng (kg), Kích thước chiều dài, chiều rộng, chiều cao (cm).
+Nếu sản phẩm của Nhà Bán đã được Tiki đo lường kích thước, khối lượng thực tế khi nhập kho và cập nhật dữ liệu xác thực này lên hệ thống, bạn sẽ không thể cập nhật thông tin.
+Cách 2: Cập nhật hàng loạt sản phẩm theo danh sách
+Bước 1: Tại Seller Center, chọn Sản phẩm >> Tạo mới / Cập nhật sản phẩm hàng loạt >> Nhập hàng loạt  >> Cập nhật thông tin đăng bán.
+Bước 2: Chọn Mẫu file thông tin khác
+Bước 3: Nhập thông tin tương ứng trong mẫu file
+Seller SKU: Mã SKU của sản phẩm cần cập nhật thông tin
+Trọng lượng sau đóng gói (kg): Trọng lượng của sản phẩm sau khi đã đóng gói, đơn vị tính: kg
+Chiều dài sau đóng gói (cm): Chiều dài của sản phẩm sau khi đã đóng gói, đơn vị tính: cm
+Chiều rộng sau đóng gói (cm): Chiều rộng của sản phẩm sau khi đã đóng gói, đơn vị tính: cm
+Chiều cao sau đóng gói (cm): Chiều cao của sản phẩm sau khi đã đóng gói, đơn vị tính: cm
+Lưu ý:
+Mỗi SKU là một hàng trong mẫu file.
+Chỉ nhập số, không nhập thêm đơn vị tính.
+Số thập phân cách nhau bởi dấu chấm. Ví dụ: 1.45, 5.3
+Bước 4: Sau khi đã điền đủ thông tin vào mẫu file, Nhà Bán đăng tải lên hệ thống.
+Bước 5: Màn hình cập nhật thông tin đăng bán báo dữ liệu đã được nhận. Nhà Bán bấm Xem kết quả.
+Lưu ý: Nếu sản phẩm của Nhà Bán đã được Tiki đo lường kích thước, khối lượng thực tế khi nhập kho và cập nhật dữ liệu xác thực này lên hệ thống, Nhà Bán sẽ không thể cập nhật thông tin.
+IV. LƯU Ý KHI CẬP NHẬT THÔNG TIN SẢN PHẨM
+1. Nếu sản phẩm chưa nhập hoặc nhập sai thông tin kích thước, khối lượng thì Tiki tính phí vận chuyển cho Nhà Bán và Khách hàng như thế nào?
+2. Tiki tính phí Vận chuyển cho Nhà Bán trong các trường hợp nào?
+Trường hợp 1: Nhà Bán có cài đặt giảm phí vận chuyển cho Khách hàng:
+Khi Nhà Bán cài đặt giảm giá phí vận chuyển cho Khách hàng, thì trên đơn hàng phát sinh sẽ hiển thị số tiền giảm giá mà Nhà Bán đã cài đặt.
+Nếu Nhà Bán không cài đặt giảm giá, thì trên đơn hàng sẽ không hiển thị, đồng nghĩa Khách hàng sẽ chịu 100% phí vận chuyển.
+Trường hợp 2: Nhà Bán thay đổi kích thước/khối lượng trước và sau khi Khách hàng đặt đơn hàng
+Trường hợp Nhà Bán cập nhật thông tin kích thước/Khối lượng sau khi Khách hàng đặt hàng lớn hơn thông tin kích thước/Khối lượng tại thời điểm Khách hàng đặt hàng, Khi đơn hàng Giao hàng thành công, hệ thống sẽ tính lại phí Vận chuyển thu Nhà Bán theo thông tin kích thước/Khối lượng Nhà Bán cập nhật. Do Phí vận chuyển thu Khách hàng thấp hơn phí vận chuyển thu Nhà Bán nên hệ thống sẽ thu Nhà Bán phần phí Vận chuyển chênh lệch.
+Ví dụ: Đơn hàng giao hàng tiêu chuẩn, chéo vùng (HCM – Quảng Trị)
+Trọng lượng lúc Khách hàng đặt hàng: 4kg 🡪 Phí vận chuyển thu KH = 23,000 + 5,500*(4-3)/0.5 = 34,000đ
+Trọng lượng Nhà Bán cập nhật lại sau khi KH đặt hàng: 10kg 🡪 Phí vận chuyển thu Nhà Bán = 23,000 + 5,500*(10-3)/0.5 = 100,000đ
+🡪 Chênh lệch phí VC = 100,000 – 34,000 = 66,000 🡪 Nhà Bán chịu phí vận chuyển chênh lệch (mặc dù Nhà Bán không cài đặt giảm giá phí VC cho KH).
+Trường hợp 3: Tiki Kiểm tra thấy thông tin kích thước/ khối lượng Nhà Bán nhập chênh lệch thấp hơn với thông tin kích thước/Khối lượng Tiki xác thực.
+Ví dụ về điều chỉnh thu bổ sung phí vận hành: Một đơn hàng Dropship, Tiki lấy hàng, giao hàng tiêu chuẩn, từ Hà Nội -> Đà Nẵng (Chéo vùng).
+Kích thước/Khối lượng Nhà Bán nhập lúc ĐH phát sinh: 4*5*6cm, 1kg 🡪 Trọng lượng tính phí = Max(4*5*6/6000,1kg) = 1kg
+Kích thước/Khối lượng đúng của sản phẩm sau đóng gói: 50*50*70cm, 25kg 🡪 Trọng lượng tính phí = Max(50*50*70/6000,25kg) = 29.167kg 🡪 Làm tròn đến 0.5 = 29.5kg
+Phí vận hành
+Biểu phí
+Phí đã tính trên ĐH
+(1kg)
+Phí tính theo khối lượng đúng
+(29.5kg)
+Chênh lệch phí
+Phí vận chuyển
+23,000/3kg +5.500 / 0.5kg tiếp theo(> 3.0kg)Tối đa 1.500.000 (bất kỳ SKU > 100kg)
+23,000
+23,000 + 5,500*(29.5 – 3)/0.5 = 314,500
+291,500
+Tổng phí
+–
+23,000
+314,500
+291,500
+Lưu ý: Trường hợp ĐH có phí vận chuyển do KH chịu 100%, nhưng do Nhà Bán nhập sai kích thước/Khối lượng dẫn đến phí vận chuyển tính trên ĐH thu KH bị sai thì Tiki sẽ thu bổ sung phí vận chuyển từ Nhà Bán.
+Trường hợp 4: Nhà Bán không thể cập nhật lại thông tin này nếu Tiki đã xác thực và cập nhật lên hệ thống. Tuy nhiên, Nhà Bán kiểm tra thấy thông tin Tiki cập nhật chưa chính xác và cần yêu cầu chỉnh sửa thì phải làm thế nào?
+Nội dung này có hữu ích với bạn không?
+Gửi đánh giá
+Đánh giá trung bình: 3 / 5. Số lượt đánh giá: 4
+Nếu bạn thấy nội dung này hữu ích...
+Hãy chia sẻ ngay với bạn bè nhé!
+Ôi 🙁
+Bạn có thể cho Tiki biết điểm nào khiến bạn chưa hài lòng được không?
+Gửi phản hồi
+Về Tiki
+Theo dõi chúng tôi trên
+Hỗ trợ Nhà Bán
+Tải ứng dụng bán hàng
+Tiki
+Trung Tâm Bán Hàng
+YouTube Tiki University Official
+Cộng Đồng Nhà Bán Hàng Tiki
+19006034 (8h – 18h hàng ngày; bao gồm cả ngày nghỉ, ngày lễ)
+hotrodoitac@tiki.vn / partnersupport@tiki.vn
+Địa chỉ văn phòng: Tòa Nhà Viettel, Số 285, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh
+Giấy chứng nhận Đăng ký Kinh doanh số 0309532909 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010
+© 2022 – Bản quyền của Công ty TNHH Ti Ki.
