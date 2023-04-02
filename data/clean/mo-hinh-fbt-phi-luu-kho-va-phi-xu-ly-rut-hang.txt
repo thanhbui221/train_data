@@ -27,7 +27,7 @@ Phí lưu kho và phí xử lý rút hàng
 Tiki áp dụng điều chỉnh phí lưu kho từ ngày 01/03/2023 và phí xử lý rút hàng từ ngày 15/03/2023.
 I. PHÍ LƯU KHO TIKI
 1. Định nghĩa phí lưu kho
-Phí lưu kho áp dụng cho mô hình FBT, là phí Tiki thu khi Nhà Bán còn hàng tồn tại kho Tiki với thời gian lưu kho từ 61 ngày trở lên ở thời điểm tính phí, cụ thể:
+Phí lưu kho Tiki tính như thế nào? Phí lưu kho áp dụng cho mô hình FBT, là phí Tiki thu khi Nhà Bán còn hàng tồn tại kho Tiki với thời gian lưu kho từ 61 ngày trở lên ở thời điểm tính phí, cụ thể:
 Thời gian lưu kho
 Đơn giá (VNĐ/m³)
 Từ 61 – 90 ngày

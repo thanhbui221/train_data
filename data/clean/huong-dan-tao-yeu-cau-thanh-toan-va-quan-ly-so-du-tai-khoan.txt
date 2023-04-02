@@ -36,7 +36,7 @@ Bước 3: Doanh thu đơn hàng được ghi nhận vào Quản lý tài sản 
 Bước 4: Tiki thanh toán tiền về tài khoản ngân hàng của Nhà Bán (theo hình thức định kỳ hoặc linh hoạt).
 II. CÁC HÌNH THỨC THANH TOÁN DOANH THU BÁN HÀNG
 Khi nào tôi nhận được tiền?
-1. Tiki thanh toán doanh thu bán hàng cho Nhà Bán (Khi Nhà Bán có Số dư khả dụng lớn hơn 0 trong Số dư Tài khoản).
+1. Tiki thanh toán doanh thu bán hàng cho Nhà Bán (Khi Nhà Bán có Số dư khả dụng lớn hơn 0 trong Số dư Tài khoản). Thời điểm thanh toán phụ thuộc vào hình thức thanh toán (định kỳ/ linh hoạt). Nếu hình thức thanh toán là định kỳ: Tiki chuyển khoản cho nhà bán 02 lần/tháng: vào ngày 01 và 16 hàng tháng (Nếu trùng vào ngày nghỉ/lễ, Tiki sẽ chuyển khoản vào ngày làm việc tiếp theo). Nếu hình thức thanh toán là linh hoạt: Nhà Bán chủ động tạo yêu cầu thanh toán (rút tiền về tài khoản ngân hàng) khi có nhu cầu.
 Hình thức thanh toán
 Thanh toán Định kỳ
 (áp dụng từ 16/09/2022)

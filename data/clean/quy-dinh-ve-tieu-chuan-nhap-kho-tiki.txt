@@ -65,7 +65,7 @@ Trong trường hợp nếu Nhà Bán bàn giao hàng hóa thông qua đối tá
 Đối với các sản phẩm lần đầu tiên nhập hàng vào kho thì kho cần kiểm tra cân nặng và kích thước sản phẩm để cập nhật vào hệ thống, phục vụ cho việc phân phối luồng nhập hàng và lưu trữ thông tin các sản phẩm  về sau. Lưu ý: Kho không từ chối nhận hàng cho PO có dòng chữ “cần cân đo”.
 Trường hợp: Hàng hóa là hàng có thùng đóng gói của nhà sản xuất, Tiki chỉ kiểm tra ngoại quan của sản phẩm theo quy cách đóng gói được áp dụng hiện hành.
 Tiki không kiểm tra chi tiết các loại phụ kiện bên trong thùng carton hoặc vật liệu đóng gói.
-2. Quy chuẩn đóng gói nhập kho của các loại hàng hóa
+2. Quy chuẩn đóng gói nhập kho của các loại hàng hóa (Quy chuẩn đóng gói nhập hàng FBT ?)
 2.1 Đối với hàng Tiki không kiểm tra – không đóng gói
 Các hàng hóa thuộc nhóm này là hàng có đóng sẵn kiện/hộp của Nhà sản xuất, Tiki chỉ có trách nhiệm gửi hàng cho khách mà không chịu trách nhiệm đóng gói.
 2.1.1 Hàng hóa được đóng gói theo tiêu chuẩn NCC (gốm sứ theo bộ, máy ảnh, điện thoại, phụ kiện đồ mẹ và bé, …)

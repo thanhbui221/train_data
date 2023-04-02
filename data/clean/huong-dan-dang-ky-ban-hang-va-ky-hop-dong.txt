@@ -25,17 +25,17 @@ Hướng dẫn đăng ký bán hàng và ký hợp đồng
 ● Quy định về việc chấm dứt, thanh lý hợp đồng dịch vụ sàn TMĐT Tiki
 ● Các lỗi vi phạm cần tránh​
 ● Các hành vi cạnh tranh không lành mạnh cần tránh
-Tôi muốn mở gian hàng trên Tiki? Nhà Bán có thể bắt đầu ngay việc bán hàng trên Tiki thông qua việc đăng ký gian hàng và ký hợp đồng trực tuyến. Nhà Bán thực hiện thao tác theo hướng dẫn dưới đây.
 I. CÁC LOẠI HÌNH TÀI KHOẢN KINH DOANH TẠI TIKI
+Tôi muốn mở gian hàng trên Tiki? Nhà Bán có thể bắt đầu ngay việc bán hàng trên Tiki thông qua việc đăng ký gian hàng và ký hợp đồng trực tuyến. Với một loại tài khoản (Tài khoản cá nhân, Tài khoản Doanh nghiệp, Tài khoản Thương hiệu) sẽ có những yêu cầu khác nhau.
 1. Tài khoản cá nhân
-Dành cho các Nhà Bán là cá nhân mới bắt đầu kinh doanh và muốn thử sức ở một số ngành hàng nhất định tại Tiki  (những ngành hàng còn lại chỉ áp dụng cho loại tài khoản Doanh nghiệp hoặc Thương hiệu).
+Bán hàng trên Tiki yêu cầu các loại giấy tờ gì? Dành cho các Nhà Bán là cá nhân mới bắt đầu kinh doanh và muốn thử sức ở một số ngành hàng nhất định tại Tiki  (những ngành hàng còn lại chỉ áp dụng cho loại tài khoản Doanh nghiệp hoặc Thương hiệu).
 Chưa sở hữu bất cứ gian hàng nào đang hoạt động trên sàn TMĐT Tiki và chưa có Giấy chứng nhận đăng ký Hộ kinh doanh/Doanh nghiệp tại Việt Nam.
 Giấy tờ yêu cầu: Giấy tờ tùy thân (CMND/CCCD/Hộ chiếu) + Mã số thuế cá nhân. Nhà Bán có thể tra cứu MST cá nhân tại đây hoặc tham khảo hướng dẫn đăng ký MST cá nhân tại đây.
 2. Tài khoản Doanh nghiệp
-Dành cho Nhà Bán là Doanh nghiệp/Hộ kinh doanh tại Việt Nam.
+Bán hàng trên Tiki yêu cầu các loại giấy tờ gì? Dành cho Nhà Bán là Doanh nghiệp/Hộ kinh doanh tại Việt Nam.
 Yêu cầu: Giấy tờ tùy thân (CMND/CCCD/Hộ chiếu) + Giấy phép đăng ký kinh doanh.
 3. Tài khoản Thương hiệu
-Dành cho Nhà Bán là nhà sản xuất hoặc nhà phân phối cấp 1 hoặc nhãn hiệu vừa và nhỏ đang đăng ký tại Cục Sở hữu trí tuệ (Bộ Khoa học & Công nghệ).
+Bán hàng trên Tiki yêu cầu các loại giấy tờ gì? Dành cho Nhà Bán là nhà sản xuất hoặc nhà phân phối cấp 1 hoặc nhãn hiệu vừa và nhỏ đang đăng ký tại Cục Sở hữu trí tuệ (Bộ Khoa học & Công nghệ).
 Yêu cầu: Giấy tờ tùy thân (CMND/CCCD/Hộ chiếu) + Giấy phép kinh doanh + Giấy chứng nhận đăng ký nhãn hiệu hoặc Giấy ủy quyền từ chủ sở hữu nhãn hiệu.
 II. ĐIỂM KHÁC BIỆT GIỮA GIAN HÀNG CHÍNH HÃNG VÀ GIAN HÀNG THƯỜNG
 Loại gian hàng
